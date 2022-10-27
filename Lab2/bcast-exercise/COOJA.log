@@ -1,0 +1,13 @@
+[15:02:41 - main] [Cooja.java:3174] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[15:02:41 - main] [Cooja.java:1317] [INFO] - > Starting Cooja
+[15:02:42 - main] [Cooja.java:2858] [INFO] - External tools default settings: /external_tools_linux_64.config
+[15:02:42 - main] [Cooja.java:2888] [INFO] - External tools user settings: /home/arthur/.cooja.user.properties
+[15:02:42 - main] [Cooja.java:4263] [WARN] - Replaced [APPS_DIR]/collect-view with /home/arthur/cooja/apps/collect-view (default: /home/arthur/cooja/apps), but could not find it. This does not have to be an error, as the file might be created later.
+[15:02:42 - main] [Cooja.java:3627] [WARN] - Loaded simulation may depend on not found  extension: '/home/arthur/cooja/apps/collect-view'
+[15:02:42 - main] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:02:42 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/arthur/Desktop/Intercambio/LPWN_IoT/Lab/Lab2/bcast-exercise/node.sky
+[15:02:42 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/arthur/Desktop/Intercambio/LPWN_IoT/Lab/Lab2/bcast-exercise/node.sky
+[15:02:43 - main] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[15:02:43 - main] [TimeLine.java:567] [INFO] - Zoom level: 50000.0 microseconds/pixel 
+[15:03:10 - Thread-0] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1665061390512
+[15:03:35 - Thread-0] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1665061415782	Duration: 25270 ms	Simulated time 25267 ms	Ratio 0.9998812821527503
