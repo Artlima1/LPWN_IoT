@@ -101,12 +101,14 @@ static void send_msg() {
   // 2. put the hops field
   // 3. put the string (use memcpy)
   
-  payload[0] = seqn << 8;
-  payload[1] = seqn;
+  uint8_t index = 0;
 
-  payload[2] = hops;
+  payload[index++] = seqn >> 8;
+  payload[index++] = seqn;
 
-  memcpy(payload + 3, str, str_length);
+  payload[index++] = hops;
+
+  memcpy(payload + index, str, str_length);
   
   // we need to specify the size of the message
   packetbuf_set_datalen(3 + str_length);
@@ -136,14 +138,15 @@ recv_uc(struct unicast_conn *c, const linkaddr_t *from)
   //    - don't forget to add the terminating zero
   //    - use packetbuf_datalen() to get the total length of the payload
   
-  seqn = (uint16_t)payload[0] << 8;
-  seqn |= (uint16_t)payload[1];
+  uint8_t index = 0;
 
-  hops = payload[2];
+  seqn = (uint16_t)payload[index++] << 8 | (uint16_t)payload[index++];
 
-  size_t str_length = packetbuf_datalen()-3;
+  hops = payload[index++];
+
+  size_t str_length = packetbuf_datalen() - 3;
   char str[str_length];
-  memcpy(str, payload+3, str_length+1);
+  memcpy(str, payload + index, str_length+1);
   str[str_length] = '\0';
 
   printf("Recv from %02x:%02x length=%u seqn=%u hopcount=%u\n",
