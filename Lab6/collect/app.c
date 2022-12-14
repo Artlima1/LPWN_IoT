@@ -9,7 +9,7 @@
 /*---------------------------------------------------------------------------*/
 #define MSG_PERIOD (30 * CLOCK_SECOND) /* Send a packet every 30 seconds */
 #define COLLECT_CHANNEL 0xAA
-#define DATA_FORWARDING 0              /* Set to 1 to enable data forwarding (Lab 7) */ 
+#define DATA_FORWARDING 1              /* Set to 1 to enable data forwarding (Lab 7) */ 
 /*---------------------------------------------------------------------------*/
 #ifndef CONTIKI_TARGET_SKY
 linkaddr_t sink = {{0xF7, 0x9C}}; /* Firefly (testbed): node 1 will be our sink */

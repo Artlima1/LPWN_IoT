@@ -28,10 +28,8 @@ struct unicast_callbacks uc_cb = {
   .sent = NULL
 };
 /*---------------------------------------------------------------------------*/
-void
-my_collect_open(struct my_collect_conn* conn, uint16_t channels, 
-                bool is_sink, const struct my_collect_callbacks *callbacks)
-{
+void my_collect_open(struct my_collect_conn* conn, uint16_t channels, 
+                    bool is_sink, const struct my_collect_callbacks *callbacks) {
   /* TO DO 1.1: Initialize the connection structure.
    * OK 1. Set the parent address (suggestion: 
    *                            - [logic] the node has not discovered its parent yet;
@@ -77,9 +75,7 @@ struct beacon_msg {
 } __attribute__((packed));
 /*---------------------------------------------------------------------------*/
 /* Send beacon using the current seqn and metric */
-void
-send_beacon(struct my_collect_conn* conn)
-{
+void send_beacon(struct my_collect_conn* conn){
   /* Prepare the beacon message */
   struct beacon_msg beacon = {
     .seqn = conn->beacon_seqn, .metric = conn->metric};
@@ -93,9 +89,7 @@ send_beacon(struct my_collect_conn* conn)
 }
 /*---------------------------------------------------------------------------*/
 /* Beacon timer callback */
-void
-beacon_timer_cb(void* ptr)
-{
+void beacon_timer_cb(void* ptr){
   /* TO DO 2: Implement the beacon callback.
    * OK 1. Send beacon (use send_beacon());
    * OK 2. Should the sink do anything else?
@@ -112,9 +106,7 @@ beacon_timer_cb(void* ptr)
 }
 /*---------------------------------------------------------------------------*/
 /* Beacon receive callback */
-void
-bc_recv(struct broadcast_conn *bc_conn, const linkaddr_t *sender)
-{
+void bc_recv(struct broadcast_conn *bc_conn, const linkaddr_t *sender){
   struct beacon_msg beacon;
   int16_t rssi;
 
@@ -181,6 +173,7 @@ bc_recv(struct broadcast_conn *bc_conn, const linkaddr_t *sender)
    */
   ctimer_set(&(conn->beacon_timer), BEACON_FORWARD_DELAY, beacon_timer_cb, conn);
 }
+
 /*---------------------------------------------------------------------------*/
 /*                     Data Handling --- LAB 7                               */
 /*---------------------------------------------------------------------------*/
@@ -191,25 +184,38 @@ struct collect_header {
 } __attribute__((packed));
 /*---------------------------------------------------------------------------*/
 /* Data Collection: send function */
-int
-my_collect_send(struct my_collect_conn *conn)
-{
-  struct collect_header hdr = {.source=linkaddr_node_addr, .hops=0};
-  int ret;
-
+int my_collect_send(struct my_collect_conn *conn){
   /* TO DO 5:
-   * 1. Check if the node is connected (has a parent), if not return 0;
-   * 2. Allocate space for the data collection header; 
-   * 3. Insert the header in the packet buffer;
-   * 4. Send the packet to the parent using unicast.
+   * OK 1. Check if the node is connected (has a parent), IF NOT return -1;
+   * OK 2. If possible, allocate space for the data collection header. If this is
+   *    not possible, return -2;
+   * OK 3. Prepare and insert the header in the packet buffer;
+   *    Tip: The Rime address of a node is stored in linkaddr_node_addr!
+   *         (check contiki/core/net/linkaddr.h for additional details);
+   * OK 4. Send the packet to the parent using unicast and return the status
+   *    of unicast_send() to the application.
    */
-  return 0;
+
+  if(linkaddr_cmp(&(conn->parent), &linkaddr_null)==1){
+    return -1;
+  }
+
+  if(packetbuf_hdralloc(sizeof(struct collect_header))==0){
+    return -2;
+  }
+
+  struct collect_header hdr;
+  linkaddr_copy(&(hdr.source), &linkaddr_node_addr);
+  hdr.hops = 0;
+
+  memcpy(packetbuf_hdrptr(), &hdr, sizeof(struct collect_header));
+
+  return unicast_send(&(conn->uc), &(conn->parent));
+
 }
 /*---------------------------------------------------------------------------*/
 /* Data receive callback */
-void
-uc_recv(struct unicast_conn *uc_conn, const linkaddr_t *from)
-{
+void uc_recv(struct unicast_conn *uc_conn, const linkaddr_t *from){
   /* Get the pointer to the overall structure my_collect_conn from its field uc */
   struct my_collect_conn* conn = (struct my_collect_conn*)(((uint8_t*)uc_conn) - 
     offsetof(struct my_collect_conn, uc));
@@ -223,10 +229,33 @@ uc_recv(struct unicast_conn *uc_conn, const linkaddr_t *from)
   }
 
   /* TO DO 6:
-   * 1. Extract the header
-   * 2. On the sink, remove the header and call the application callback
-   * 3. On a router, update the header and forward the packet to the parent using unicast
+   * OK 1. Extract the header;
+   * OK 2. On the sink, remove the header and call the application callback; 
+   *    [TBC] - Should we update any field of hdr? 
+   *          - What about packetbuf_dataptr() and packetbuf_hdrptr()? Does the 
+   *            application recv callback rely on any of them? Should we take any action?
+   * OK 3. On a forwarder, update the header and forward the packet to the parent (IF ANY) 
+   *    using unicast.
    */
+
+  memcpy(&hdr, packetbuf_dataptr(), sizeof(struct collect_header));
+  hdr.hops++;
+
+  packetbuf_hdrreduce(sizeof(struct collect_header));
+  if(conn->is_sink){
+    (*(conn->callbacks->recv))(&(hdr.source), hdr.hops);
+  }
+  else{
+    if(linkaddr_cmp(&(conn->parent), &linkaddr_null)==1){
+      printf("No node parent to foward");
+      return;
+    }
+    if(packetbuf_hdralloc(sizeof(struct collect_header))==0){
+      printf("No space for the header in packetbuf");
+      return;
+    }
+    memcpy(packetbuf_hdrptr(), &hdr, sizeof(struct collect_header));
+    unicast_send(&(conn->uc), &(conn->parent));
+  }
 }
 /*---------------------------------------------------------------------------*/
-

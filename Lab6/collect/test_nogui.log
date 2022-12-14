@@ -1,0 +1,3232 @@
+330978	ID:8	Rime started with address 8.0
+340345	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 8.
+349887	ID:8	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+351591	ID:8	Starting 'App process'
+353835	ID:8	App: I am a normal node 08:00
+494333	ID:2	Rime started with address 2.0
+503700	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+508868	ID:6	Rime started with address 6.0
+513239	ID:2	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+514943	ID:2	Starting 'App process'
+517187	ID:2	App: I am a normal node 02:00
+518235	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 6.
+527776	ID:6	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+529479	ID:6	Starting 'App process'
+531723	ID:6	App: I am a normal node 06:00
+606569	ID:4	Rime started with address 4.0
+615936	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+625477	ID:4	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+627181	ID:4	Starting 'App process'
+629425	ID:4	App: I am a normal node 04:00
+640406	ID:1	Rime started with address 1.0
+649775	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+659315	ID:1	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+659980	ID:7	Rime started with address 7.0
+661018	ID:1	Starting 'App process'
+662923	ID:1	App: I am the sink 01:00
+669349	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 7.
+678890	ID:7	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+680594	ID:7	Starting 'App process'
+682838	ID:7	App: I am a normal node 07:00
+814816	ID:10	Rime started with address 10.0
+824338	ID:10	MAC 0a:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 10.
+833874	ID:10	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+835577	ID:10	Starting 'App process'
+837823	ID:10	App: I am a normal node 0a:00
+966693	ID:9	Rime started with address 9.0
+973325	ID:5	Rime started with address 5.0
+976062	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 9.
+982695	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+985596	ID:9	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+987300	ID:9	Starting 'App process'
+989544	ID:9	App: I am a normal node 09:00
+992230	ID:5	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+993934	ID:5	Starting 'App process'
+996178	ID:5	App: I am a normal node 05:00
+1157555	ID:3	Rime started with address 3.0
+1166924	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+1176460	ID:3	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+1178163	ID:3	Starting 'App process'
+1180407	ID:3	App: I am a normal node 03:00
+1662167	ID:1	my_collect: sending beacon: seqn 1 metric 0
+1672642	ID:2	my_collect: recv beacon from 01:00 seqn 1 metric 0 rssi -68
+1672646	ID:4	my_collect: recv beacon from 01:00 seqn 1 metric 0 rssi -88
+1672706	ID:3	my_collect: recv beacon from 01:00 seqn 1 metric 0 rssi -66
+1672712	ID:7	my_collect: recv beacon from 01:00 seqn 1 metric 0 rssi -66
+1672722	ID:6	my_collect: recv beacon from 01:00 seqn 1 metric 0 rssi -58
+1675777	ID:2	my_collect: new parent 01:00, my metric 1
+1675781	ID:4	my_collect: new parent 01:00, my metric 1
+1675847	ID:7	my_collect: new parent 01:00, my metric 1
+1675849	ID:3	my_collect: new parent 01:00, my metric 1
+1675874	ID:6	my_collect: new parent 01:00, my metric 1
+1679699	ID:3	my_collect: sending beacon: seqn 1 metric 1
+1690263	ID:1	my_collect: recv beacon from 03:00 seqn 1 metric 1 rssi -66
+1690331	ID:8	my_collect: recv beacon from 03:00 seqn 1 metric 1 rssi -80
+1690336	ID:7	my_collect: recv beacon from 03:00 seqn 1 metric 1 rssi -67
+1690344	ID:9	my_collect: recv beacon from 03:00 seqn 1 metric 1 rssi -81
+1693467	ID:8	my_collect: new parent 03:00, my metric 2
+1693479	ID:9	my_collect: new parent 03:00, my metric 2
+1801020	ID:9	my_collect: sending beacon: seqn 1 metric 2
+1811347	ID:7	my_collect: recv beacon from 09:00 seqn 1 metric 2 rssi -92
+1811348	ID:3	my_collect: recv beacon from 09:00 seqn 1 metric 2 rssi -81
+1811428	ID:10	my_collect: recv beacon from 09:00 seqn 1 metric 2 rssi -70
+1811429	ID:8	my_collect: recv beacon from 09:00 seqn 1 metric 2 rssi -75
+1814563	ID:10	my_collect: new parent 09:00, my metric 3
+1820551	ID:2	my_collect: sending beacon: seqn 1 metric 1
+1830879	ID:4	my_collect: recv beacon from 02:00 seqn 1 metric 1 rssi -80
+1830881	ID:6	my_collect: recv beacon from 02:00 seqn 1 metric 1 rssi -83
+1830882	ID:5	my_collect: recv beacon from 02:00 seqn 1 metric 1 rssi -53
+1830890	ID:1	my_collect: recv beacon from 02:00 seqn 1 metric 1 rssi -68
+1830961	ID:7	my_collect: recv beacon from 02:00 seqn 1 metric 1 rssi -85
+1834017	ID:5	my_collect: new parent 02:00, my metric 2
+1954076	ID:8	my_collect: sending beacon: seqn 1 metric 2
+1964401	ID:3	my_collect: recv beacon from 08:00 seqn 1 metric 2 rssi -80
+1964415	ID:9	my_collect: recv beacon from 08:00 seqn 1 metric 2 rssi -75
+2079952	ID:7	my_collect: sending beacon: seqn 1 metric 1
+2090282	ID:2	my_collect: recv beacon from 07:00 seqn 1 metric 1 rssi -85
+2090283	ID:10	my_collect: recv beacon from 07:00 seqn 1 metric 1 rssi -64
+2090300	ID:9	my_collect: recv beacon from 07:00 seqn 1 metric 1 rssi -92
+2090346	ID:1	my_collect: recv beacon from 07:00 seqn 1 metric 1 rssi -66
+2090364	ID:3	my_collect: recv beacon from 07:00 seqn 1 metric 1 rssi -67
+2093435	ID:9	my_collect: new parent 07:00, my metric 2
+2093451	ID:10	my_collect: new parent 07:00, my metric 2
+2233824	ID:6	my_collect: sending beacon: seqn 1 metric 1
+2244149	ID:1	my_collect: recv beacon from 06:00 seqn 1 metric 1 rssi -58
+2244226	ID:2	my_collect: recv beacon from 06:00 seqn 1 metric 1 rssi -83
+2244232	ID:4	my_collect: recv beacon from 06:00 seqn 1 metric 1 rssi -49
+2281537	ID:10	my_collect: sending beacon: seqn 1 metric 2
+2291924	ID:9	my_collect: recv beacon from 0a:00 seqn 1 metric 2 rssi -70
+2291954	ID:7	my_collect: recv beacon from 0a:00 seqn 1 metric 2 rssi -64
+2526540	ID:4	my_collect: sending beacon: seqn 1 metric 1
+2533917	ID:5	my_collect: sending beacon: seqn 1 metric 2
+2536866	ID:1	my_collect: recv beacon from 04:00 seqn 1 metric 1 rssi -88
+2536870	ID:2	my_collect: recv beacon from 04:00 seqn 1 metric 1 rssi -80
+2536934	ID:6	my_collect: recv beacon from 04:00 seqn 1 metric 1 rssi -49
+2540649	ID:5	my_collect: recv beacon from 04:00 seqn 1 metric 1 rssi -90
+2543783	ID:5	my_collect: new parent 04:00, my metric 2
+2553790	ID:4	my_collect: recv beacon from 05:00 seqn 1 metric 2 rssi -90
+2553870	ID:2	my_collect: recv beacon from 05:00 seqn 1 metric 2 rssi -53
+2629144	ID:9	my_collect: sending beacon: seqn 1 metric 2
+2639258	ID:3	my_collect: recv beacon from 09:00 seqn 1 metric 2 rssi -81
+2639260	ID:8	my_collect: recv beacon from 09:00 seqn 1 metric 2 rssi -75
+2639260	ID:10	my_collect: recv beacon from 09:00 seqn 1 metric 2 rssi -70
+2639297	ID:7	my_collect: recv beacon from 09:00 seqn 1 metric 2 rssi -92
+3354528	ID:5	my_collect: sending beacon: seqn 1 metric 2
+3364719	ID:2	my_collect: recv beacon from 05:00 seqn 1 metric 2 rssi -53
+3364728	ID:4	my_collect: recv beacon from 05:00 seqn 1 metric 2 rssi -90
+30669251	ID:6	App: Send seqn 0
+30672503	ID:6	App: Message seqn 0 sent correctly!
+30680175	ID:1	App: Recv from 06:00 seqn 0 hops 1
+31289956	ID:5	App: Send seqn 0
+31293208	ID:5	App: Message seqn 0 sent correctly!
+31306882	ID:1	App: Recv from 05:00 seqn 0 hops 2
+31513848	ID:10	App: Send seqn 0
+31517100	ID:10	App: Message seqn 0 sent correctly!
+31530846	ID:1	App: Recv from 0a:00 seqn 0 hops 2
+34501328	ID:4	App: Send seqn 0
+34504580	ID:4	App: Message seqn 0 sent correctly!
+34512252	ID:1	App: Recv from 04:00 seqn 0 hops 1
+37189572	ID:9	App: Send seqn 0
+37192824	ID:9	App: Message seqn 0 sent correctly!
+37206512	ID:1	App: Recv from 09:00 seqn 0 hops 2
+37919208	ID:3	App: Send seqn 0
+37922460	ID:3	App: Message seqn 0 sent correctly!
+37930133	ID:1	App: Recv from 03:00 seqn 0 hops 1
+38123465	ID:2	App: Send seqn 0
+38126717	ID:2	App: Message seqn 0 sent correctly!
+38134389	ID:1	App: Recv from 02:00 seqn 0 hops 1
+41756989	ID:8	App: Send seqn 0
+41760241	ID:8	App: Message seqn 0 sent correctly!
+41773818	ID:1	App: Recv from 08:00 seqn 0 hops 2
+44952888	ID:7	App: Send seqn 0
+44956140	ID:7	App: Message seqn 0 sent correctly!
+44963813	ID:1	App: Recv from 07:00 seqn 0 hops 1
+61662165	ID:1	my_collect: sending beacon: seqn 2 metric 0
+61672436	ID:2	my_collect: recv beacon from 01:00 seqn 2 metric 0 rssi -68
+61672441	ID:4	my_collect: recv beacon from 01:00 seqn 2 metric 0 rssi -88
+61672496	ID:3	my_collect: recv beacon from 01:00 seqn 2 metric 0 rssi -66
+61672496	ID:7	my_collect: recv beacon from 01:00 seqn 2 metric 0 rssi -66
+61672506	ID:6	my_collect: recv beacon from 01:00 seqn 2 metric 0 rssi -58
+62369372	ID:7	my_collect: sending beacon: seqn 2 metric 1
+62379522	ID:9	my_collect: recv beacon from 07:00 seqn 2 metric 1 rssi -92
+62379523	ID:10	my_collect: recv beacon from 07:00 seqn 2 metric 1 rssi -64
+62379602	ID:3	my_collect: recv beacon from 07:00 seqn 2 metric 1 rssi -67
+62379604	ID:2	my_collect: recv beacon from 07:00 seqn 2 metric 1 rssi -85
+62379609	ID:1	my_collect: recv beacon from 07:00 seqn 2 metric 1 rssi -66
+62421383	ID:6	my_collect: sending beacon: seqn 2 metric 1
+62431525	ID:1	my_collect: recv beacon from 06:00 seqn 2 metric 1 rssi -58
+62431604	ID:2	my_collect: recv beacon from 06:00 seqn 2 metric 1 rssi -83
+62431608	ID:4	my_collect: recv beacon from 06:00 seqn 2 metric 1 rssi -49
+62534709	ID:4	my_collect: sending beacon: seqn 2 metric 1
+62544855	ID:5	my_collect: recv beacon from 04:00 seqn 2 metric 1 rssi -90
+62544860	ID:1	my_collect: recv beacon from 04:00 seqn 2 metric 1 rssi -88
+62544866	ID:2	my_collect: recv beacon from 04:00 seqn 2 metric 1 rssi -80
+62544945	ID:6	my_collect: recv beacon from 04:00 seqn 2 metric 1 rssi -49
+62585692	ID:3	my_collect: sending beacon: seqn 2 metric 1
+62595831	ID:1	my_collect: recv beacon from 03:00 seqn 2 metric 1 rssi -66
+62595834	ID:7	my_collect: recv beacon from 03:00 seqn 2 metric 1 rssi -67
+62595834	ID:9	my_collect: recv beacon from 03:00 seqn 2 metric 1 rssi -81
+62595915	ID:8	my_collect: recv beacon from 03:00 seqn 2 metric 1 rssi -80
+62598968	ID:9	my_collect: new parent 03:00, my metric 2
+62641222	ID:2	my_collect: sending beacon: seqn 2 metric 1
+62651367	ID:6	my_collect: recv beacon from 02:00 seqn 2 metric 1 rssi -83
+62651368	ID:5	my_collect: recv beacon from 02:00 seqn 2 metric 1 rssi -53
+62651374	ID:4	my_collect: recv beacon from 02:00 seqn 2 metric 1 rssi -80
+62651444	ID:1	my_collect: recv beacon from 02:00 seqn 2 metric 1 rssi -68
+62651536	ID:7	my_collect: recv beacon from 02:00 seqn 2 metric 1 rssi -85
+62654502	ID:5	my_collect: new parent 02:00, my metric 2
+62734688	ID:10	my_collect: sending beacon: seqn 2 metric 2
+62744917	ID:9	my_collect: recv beacon from 0a:00 seqn 2 metric 2 rssi -70
+62744926	ID:7	my_collect: recv beacon from 0a:00 seqn 2 metric 2 rssi -64
+63105435	ID:9	my_collect: sending beacon: seqn 2 metric 2
+63115592	ID:10	my_collect: recv beacon from 09:00 seqn 2 metric 2 rssi -70
+63115604	ID:8	my_collect: recv beacon from 09:00 seqn 2 metric 2 rssi -75
+63115631	ID:3	my_collect: recv beacon from 09:00 seqn 2 metric 2 rssi -81
+63115676	ID:7	my_collect: recv beacon from 09:00 seqn 2 metric 2 rssi -92
+63127694	ID:5	my_collect: sending beacon: seqn 2 metric 2
+63137853	ID:2	my_collect: recv beacon from 05:00 seqn 2 metric 2 rssi -53
+63137919	ID:4	my_collect: recv beacon from 05:00 seqn 2 metric 2 rssi -90
+63235352	ID:8	my_collect: sending beacon: seqn 2 metric 2
+63245504	ID:3	my_collect: recv beacon from 08:00 seqn 2 metric 2 rssi -80
+63245507	ID:9	my_collect: recv beacon from 08:00 seqn 2 metric 2 rssi -75
+64380989	ID:2	App: Send seqn 1
+64384242	ID:2	App: Message seqn 1 sent correctly!
+64391916	ID:1	App: Recv from 02:00 seqn 1 hops 1
+64929741	ID:7	App: Send seqn 1
+64932994	ID:7	App: Message seqn 1 sent correctly!
+64940714	ID:1	App: Recv from 07:00 seqn 1 hops 1
+65797480	ID:5	App: Send seqn 1
+65800733	ID:5	App: Message seqn 1 sent correctly!
+65814300	ID:1	App: Recv from 05:00 seqn 1 hops 2
+68446352	ID:4	App: Send seqn 1
+68449605	ID:4	App: Message seqn 1 sent correctly!
+68457280	ID:1	App: Recv from 04:00 seqn 1 hops 1
+70301776	ID:6	App: Send seqn 1
+70305028	ID:6	App: Message seqn 1 sent correctly!
+70312708	ID:1	App: Recv from 06:00 seqn 1 hops 1
+71365701	ID:10	App: Send seqn 1
+71368954	ID:10	App: Message seqn 1 sent correctly!
+71382605	ID:1	App: Recv from 0a:00 seqn 1 hops 2
+74077013	ID:8	App: Send seqn 1
+74080266	ID:8	App: Message seqn 1 sent correctly!
+74093868	ID:1	App: Recv from 08:00 seqn 1 hops 2
+74521061	ID:3	App: Send seqn 1
+74524314	ID:3	App: Message seqn 1 sent correctly!
+74531991	ID:1	App: Recv from 03:00 seqn 1 hops 1
+75572096	ID:9	App: Send seqn 1
+75575349	ID:9	App: Message seqn 1 sent correctly!
+75589007	ID:1	App: Recv from 09:00 seqn 1 hops 2
+91783323	ID:9	App: Send seqn 2
+91786576	ID:9	App: Message seqn 2 sent correctly!
+91800364	ID:1	App: Recv from 09:00 seqn 2 hops 2
+93383707	ID:5	App: Send seqn 2
+93386960	ID:5	App: Message seqn 2 sent correctly!
+93400645	ID:1	App: Recv from 05:00 seqn 2 hops 2
+93552864	ID:2	App: Send seqn 2
+93556117	ID:2	App: Message seqn 2 sent correctly!
+93563789	ID:1	App: Recv from 02:00 seqn 2 hops 1
+95255436	ID:3	App: Send seqn 2
+95258689	ID:3	App: Message seqn 2 sent correctly!
+95266365	ID:1	App: Recv from 03:00 seqn 2 hops 1
+95723650	ID:6	App: Send seqn 2
+95726903	ID:6	App: Message seqn 2 sent correctly!
+95734575	ID:1	App: Recv from 06:00 seqn 2 hops 1
+95743227	ID:4	App: Send seqn 2
+95746480	ID:4	App: Message seqn 2 sent correctly!
+95754156	ID:1	App: Recv from 04:00 seqn 2 hops 1
+96914116	ID:7	App: Send seqn 2
+96917369	ID:7	App: Message seqn 2 sent correctly!
+96925095	ID:1	App: Recv from 07:00 seqn 2 hops 1
+97623888	ID:8	App: Send seqn 2
+97627141	ID:8	App: Message seqn 2 sent correctly!
+97640706	ID:1	App: Recv from 08:00 seqn 2 hops 2
+104600076	ID:10	App: Send seqn 2
+104603329	ID:10	App: Message seqn 2 sent correctly!
+104616980	ID:1	App: Recv from 0a:00 seqn 2 hops 2
+121662165	ID:1	my_collect: sending beacon: seqn 3 metric 0
+121672436	ID:2	my_collect: recv beacon from 01:00 seqn 3 metric 0 rssi -68
+121672441	ID:4	my_collect: recv beacon from 01:00 seqn 3 metric 0 rssi -88
+121672496	ID:3	my_collect: recv beacon from 01:00 seqn 3 metric 0 rssi -66
+121672506	ID:6	my_collect: recv beacon from 01:00 seqn 3 metric 0 rssi -58
+121672506	ID:7	my_collect: recv beacon from 01:00 seqn 3 metric 0 rssi -66
+121674310	ID:7	App: Send seqn 3
+121677574	ID:7	App: Message seqn 3 sent correctly!
+121685449	ID:1	App: Recv from 07:00 seqn 3 hops 1
+121732599	ID:10	App: Send seqn 3
+121735852	ID:10	App: Message seqn 3 sent correctly!
+121749610	ID:1	App: Recv from 0a:00 seqn 3 hops 2
+121758078	ID:2	my_collect: sending beacon: seqn 3 metric 1
+121768230	ID:6	my_collect: recv beacon from 02:00 seqn 3 metric 1 rssi -83
+121768231	ID:5	my_collect: recv beacon from 02:00 seqn 3 metric 1 rssi -53
+121768232	ID:4	my_collect: recv beacon from 02:00 seqn 3 metric 1 rssi -80
+121768237	ID:1	my_collect: recv beacon from 02:00 seqn 3 metric 1 rssi -68
+121768310	ID:7	my_collect: recv beacon from 02:00 seqn 3 metric 1 rssi -85
+121772061	ID:5	my_collect: sending beacon: seqn 3 metric 2
+121782427	ID:4	my_collect: recv beacon from 05:00 seqn 3 metric 2 rssi -90
+121782441	ID:2	my_collect: recv beacon from 05:00 seqn 3 metric 2 rssi -53
+121845168	ID:4	App: Send seqn 3
+121848432	ID:4	App: Message seqn 3 sent correctly!
+121856138	ID:1	App: Recv from 04:00 seqn 3 hops 1
+121858798	ID:3	my_collect: sending beacon: seqn 3 metric 1
+121868947	ID:1	my_collect: recv beacon from 03:00 seqn 3 metric 1 rssi -66
+121868951	ID:7	my_collect: recv beacon from 03:00 seqn 3 metric 1 rssi -67
+121869029	ID:9	my_collect: recv beacon from 03:00 seqn 3 metric 1 rssi -81
+121869039	ID:8	my_collect: recv beacon from 03:00 seqn 3 metric 1 rssi -80
+121964040	ID:4	my_collect: sending beacon: seqn 3 metric 1
+121974156	ID:1	my_collect: recv beacon from 04:00 seqn 3 metric 1 rssi -88
+121974159	ID:5	my_collect: recv beacon from 04:00 seqn 3 metric 1 rssi -90
+121974196	ID:2	my_collect: recv beacon from 04:00 seqn 3 metric 1 rssi -80
+121974239	ID:6	my_collect: recv beacon from 04:00 seqn 3 metric 1 rssi -49
+121977293	ID:5	my_collect: new parent 04:00, my metric 2
+122163239	ID:6	my_collect: sending beacon: seqn 3 metric 1
+122173388	ID:1	my_collect: recv beacon from 06:00 seqn 3 metric 1 rssi -58
+122173480	ID:2	my_collect: recv beacon from 06:00 seqn 3 metric 1 rssi -83
+122173480	ID:4	my_collect: recv beacon from 06:00 seqn 3 metric 1 rssi -49
+122267452	ID:7	my_collect: sending beacon: seqn 3 metric 1
+122277571	ID:2	my_collect: recv beacon from 07:00 seqn 3 metric 1 rssi -85
+122277571	ID:3	my_collect: recv beacon from 07:00 seqn 3 metric 1 rssi -67
+122277571	ID:10	my_collect: recv beacon from 07:00 seqn 3 metric 1 rssi -64
+122277572	ID:9	my_collect: recv beacon from 07:00 seqn 3 metric 1 rssi -92
+122277648	ID:1	my_collect: recv beacon from 07:00 seqn 3 metric 1 rssi -66
+122280707	ID:9	my_collect: new parent 07:00, my metric 2
+122424569	ID:5	my_collect: sending beacon: seqn 3 metric 2
+122434728	ID:2	my_collect: recv beacon from 05:00 seqn 3 metric 2 rssi -53
+122434794	ID:4	my_collect: recv beacon from 05:00 seqn 3 metric 2 rssi -90
+122563477	ID:8	my_collect: sending beacon: seqn 3 metric 2
+122573629	ID:3	my_collect: recv beacon from 08:00 seqn 3 metric 2 rssi -80
+122573632	ID:9	my_collect: recv beacon from 08:00 seqn 3 metric 2 rssi -75
+122649022	ID:10	my_collect: sending beacon: seqn 3 metric 2
+122659147	ID:9	my_collect: recv beacon from 0a:00 seqn 3 metric 2 rssi -70
+122659217	ID:7	my_collect: recv beacon from 0a:00 seqn 3 metric 2 rssi -64
+123254204	ID:9	my_collect: sending beacon: seqn 3 metric 2
+123264356	ID:3	my_collect: recv beacon from 09:00 seqn 3 metric 2 rssi -81
+123264363	ID:7	my_collect: recv beacon from 09:00 seqn 3 metric 2 rssi -92
+123264439	ID:10	my_collect: recv beacon from 09:00 seqn 3 metric 2 rssi -70
+123264441	ID:8	my_collect: recv beacon from 09:00 seqn 3 metric 2 rssi -75
+125263002	ID:6	App: Send seqn 3
+125266255	ID:6	App: Message seqn 3 sent correctly!
+125273930	ID:1	App: Recv from 06:00 seqn 3 hops 1
+128137959	ID:3	App: Send seqn 3
+128141212	ID:3	App: Message seqn 3 sent correctly!
+128148886	ID:1	App: Recv from 03:00 seqn 3 hops 1
+130600740	ID:8	App: Send seqn 3
+130603993	ID:8	App: Message seqn 3 sent correctly!
+130617566	ID:1	App: Recv from 08:00 seqn 3 hops 2
+131016230	ID:5	App: Send seqn 3
+131019483	ID:5	App: Message seqn 3 sent correctly!
+131033067	ID:1	App: Recv from 05:00 seqn 3 hops 2
+133217216	ID:2	App: Send seqn 3
+133220469	ID:2	App: Message seqn 3 sent correctly!
+133228144	ID:1	App: Recv from 02:00 seqn 3 hops 1
+135290846	ID:9	App: Send seqn 3
+135294099	ID:9	App: Message seqn 3 sent correctly!
+135307680	ID:1	App: Recv from 09:00 seqn 3 hops 2
+153579454	ID:4	App: Send seqn 4
+153582707	ID:4	App: Message seqn 4 sent correctly!
+153590381	ID:1	App: Recv from 04:00 seqn 4 hops 1
+154622377	ID:6	App: Send seqn 4
+154625630	ID:6	App: Message seqn 4 sent correctly!
+154633303	ID:1	App: Recv from 06:00 seqn 4 hops 1
+155585115	ID:8	App: Send seqn 4
+155588368	ID:8	App: Message seqn 4 sent correctly!
+155601978	ID:1	App: Recv from 08:00 seqn 4 hops 2
+160059834	ID:3	App: Send seqn 4
+160063087	ID:3	App: Message seqn 4 sent correctly!
+160070759	ID:1	App: Recv from 03:00 seqn 4 hops 1
+161154474	ID:10	App: Send seqn 4
+161157727	ID:10	App: Message seqn 4 sent correctly!
+161171475	ID:1	App: Recv from 0a:00 seqn 4 hops 2
+161843514	ID:7	App: Send seqn 4
+161846767	ID:7	App: Message seqn 4 sent correctly!
+161854439	ID:1	App: Recv from 07:00 seqn 4 hops 1
+161877073	ID:9	App: Send seqn 4
+161880326	ID:9	App: Message seqn 4 sent correctly!
+161893989	ID:1	App: Recv from 09:00 seqn 4 hops 2
+161977457	ID:5	App: Send seqn 4
+161980710	ID:5	App: Message seqn 4 sent correctly!
+161994422	ID:1	App: Recv from 05:00 seqn 4 hops 2
+165326591	ID:2	App: Send seqn 4
+165329844	ID:2	App: Message seqn 4 sent correctly!
+165337520	ID:1	App: Recv from 02:00 seqn 4 hops 1
+180961977	ID:4	App: Send seqn 5
+180965230	ID:4	App: Message seqn 5 sent correctly!
+180972905	ID:1	App: Recv from 04:00 seqn 5 hops 1
+181662165	ID:1	my_collect: sending beacon: seqn 4 metric 0
+181672436	ID:2	my_collect: recv beacon from 01:00 seqn 4 metric 0 rssi -68
+181672441	ID:4	my_collect: recv beacon from 01:00 seqn 4 metric 0 rssi -88
+181672496	ID:3	my_collect: recv beacon from 01:00 seqn 4 metric 0 rssi -66
+181672496	ID:7	my_collect: recv beacon from 01:00 seqn 4 metric 0 rssi -66
+181672506	ID:6	my_collect: recv beacon from 01:00 seqn 4 metric 0 rssi -58
+181737775	ID:4	my_collect: sending beacon: seqn 4 metric 1
+181747888	ID:1	my_collect: recv beacon from 04:00 seqn 4 metric 1 rssi -88
+181747888	ID:5	my_collect: recv beacon from 04:00 seqn 4 metric 1 rssi -90
+181747908	ID:2	my_collect: recv beacon from 04:00 seqn 4 metric 1 rssi -80
+181747977	ID:6	my_collect: recv beacon from 04:00 seqn 4 metric 1 rssi -49
+181884997	ID:7	my_collect: sending beacon: seqn 4 metric 1
+181895144	ID:9	my_collect: recv beacon from 07:00 seqn 4 metric 1 rssi -92
+181895145	ID:10	my_collect: recv beacon from 07:00 seqn 4 metric 1 rssi -64
+181895223	ID:2	my_collect: recv beacon from 07:00 seqn 4 metric 1 rssi -85
+181895226	ID:3	my_collect: recv beacon from 07:00 seqn 4 metric 1 rssi -67
+181895231	ID:1	my_collect: recv beacon from 07:00 seqn 4 metric 1 rssi -66
+181969347	ID:2	my_collect: sending beacon: seqn 4 metric 1
+181979493	ID:6	my_collect: recv beacon from 02:00 seqn 4 metric 1 rssi -83
+181979494	ID:5	my_collect: recv beacon from 02:00 seqn 4 metric 1 rssi -53
+181979499	ID:4	my_collect: recv beacon from 02:00 seqn 4 metric 1 rssi -80
+181979570	ID:1	my_collect: recv beacon from 02:00 seqn 4 metric 1 rssi -68
+181979582	ID:7	my_collect: recv beacon from 02:00 seqn 4 metric 1 rssi -85
+181982628	ID:5	my_collect: new parent 02:00, my metric 2
+182342638	ID:8	App: Send seqn 5
+182345891	ID:8	App: Message seqn 5 sent correctly!
+182351316	ID:3	my_collect: sending beacon: seqn 4 metric 1
+182362264	ID:1	App: Recv from 08:00 seqn 5 hops 2
+182367719	ID:8	my_collect: recv beacon from 03:00 seqn 4 metric 1 rssi -80
+182367798	ID:9	my_collect: recv beacon from 03:00 seqn 4 metric 1 rssi -81
+182367810	ID:7	my_collect: recv beacon from 03:00 seqn 4 metric 1 rssi -67
+182368464	ID:1	my_collect: recv beacon from 03:00 seqn 4 metric 1 rssi -66
+182370933	ID:9	my_collect: new parent 03:00, my metric 2
+182499590	ID:6	my_collect: sending beacon: seqn 4 metric 1
+182509642	ID:9	App: Send seqn 5
+182509735	ID:1	my_collect: recv beacon from 06:00 seqn 4 metric 1 rssi -58
+182509811	ID:2	my_collect: recv beacon from 06:00 seqn 4 metric 1 rssi -83
+182509818	ID:4	my_collect: recv beacon from 06:00 seqn 4 metric 1 rssi -49
+182512906	ID:9	App: Message seqn 5 sent correctly!
+182515938	ID:10	my_collect: sending beacon: seqn 4 metric 2
+182526173	ID:9	my_collect: recv beacon from 0a:00 seqn 4 metric 2 rssi -70
+182526182	ID:7	my_collect: recv beacon from 0a:00 seqn 4 metric 2 rssi -64
+182526720	ID:1	App: Recv from 09:00 seqn 5 hops 2
+182735026	ID:5	App: Send seqn 5
+182738290	ID:5	App: Message seqn 5 sent correctly!
+182751920	ID:1	App: Recv from 05:00 seqn 5 hops 2
+182893293	ID:5	my_collect: sending beacon: seqn 4 metric 2
+182903413	ID:2	my_collect: recv beacon from 05:00 seqn 4 metric 2 rssi -53
+182903489	ID:4	my_collect: recv beacon from 05:00 seqn 4 metric 2 rssi -90
+182962186	ID:8	my_collect: sending beacon: seqn 4 metric 2
+182972306	ID:9	my_collect: recv beacon from 08:00 seqn 4 metric 2 rssi -75
+182972312	ID:3	my_collect: recv beacon from 08:00 seqn 4 metric 2 rssi -80
+183316644	ID:9	my_collect: sending beacon: seqn 4 metric 2
+183326759	ID:3	my_collect: recv beacon from 09:00 seqn 4 metric 2 rssi -81
+183326759	ID:8	my_collect: recv beacon from 09:00 seqn 4 metric 2 rssi -75
+183326759	ID:10	my_collect: recv beacon from 09:00 seqn 4 metric 2 rssi -70
+183326798	ID:7	my_collect: recv beacon from 09:00 seqn 4 metric 2 rssi -92
+184193826	ID:10	App: Send seqn 5
+184197079	ID:10	App: Message seqn 5 sent correctly!
+184210760	ID:1	App: Recv from 0a:00 seqn 5 hops 2
+184849186	ID:3	App: Send seqn 5
+184852439	ID:3	App: Message seqn 5 sent correctly!
+184860119	ID:1	App: Recv from 03:00 seqn 5 hops 1
+186007866	ID:7	App: Send seqn 5
+186011119	ID:7	App: Message seqn 5 sent correctly!
+186018843	ID:1	App: Recv from 07:00 seqn 5 hops 1
+187521614	ID:2	App: Send seqn 5
+187524867	ID:2	App: Message seqn 5 sent correctly!
+187532541	ID:1	App: Recv from 02:00 seqn 5 hops 1
+189192401	ID:6	App: Send seqn 5
+189195653	ID:6	App: Message seqn 5 sent correctly!
+189203327	ID:1	App: Recv from 06:00 seqn 5 hops 1
+212708561	ID:3	App: Send seqn 6
+212711814	ID:3	App: Message seqn 6 sent correctly!
+212719488	ID:1	App: Recv from 03:00 seqn 6 hops 1
+214117241	ID:7	App: Send seqn 6
+214120494	ID:7	App: Message seqn 6 sent correctly!
+214128215	ID:1	App: Recv from 07:00 seqn 6 hops 1
+214553201	ID:10	App: Send seqn 6
+214556454	ID:10	App: Message seqn 6 sent correctly!
+214570106	ID:1	App: Recv from 0a:00 seqn 6 hops 2
+216514513	ID:8	App: Send seqn 6
+216517766	ID:8	App: Message seqn 6 sent correctly!
+216531332	ID:1	App: Recv from 08:00 seqn 6 hops 2
+216883852	ID:4	App: Send seqn 6
+216887105	ID:4	App: Message seqn 6 sent correctly!
+216894787	ID:1	App: Recv from 04:00 seqn 6 hops 1
+217470823	ID:9	App: Send seqn 6
+217474076	ID:9	App: Message seqn 6 sent correctly!
+217487836	ID:1	App: Recv from 09:00 seqn 6 hops 2
+218071207	ID:5	App: Send seqn 6
+218074460	ID:5	App: Message seqn 6 sent correctly!
+218088147	ID:1	App: Recv from 05:00 seqn 6 hops 2
+224239275	ID:6	App: Send seqn 6
+224242528	ID:6	App: Message seqn 6 sent correctly!
+224250199	ID:1	App: Recv from 06:00 seqn 6 hops 1
+224318489	ID:2	App: Send seqn 6
+224321742	ID:2	App: Message seqn 6 sent correctly!
+224329414	ID:1	App: Recv from 02:00 seqn 6 hops 1
+241662165	ID:1	my_collect: sending beacon: seqn 5 metric 0
+241672436	ID:2	my_collect: recv beacon from 01:00 seqn 5 metric 0 rssi -68
+241672441	ID:4	my_collect: recv beacon from 01:00 seqn 5 metric 0 rssi -88
+241672496	ID:3	my_collect: recv beacon from 01:00 seqn 5 metric 0 rssi -66
+241672496	ID:7	my_collect: recv beacon from 01:00 seqn 5 metric 0 rssi -66
+241672506	ID:6	my_collect: recv beacon from 01:00 seqn 5 metric 0 rssi -58
+241729691	ID:4	my_collect: sending beacon: seqn 5 metric 1
+241739841	ID:1	my_collect: recv beacon from 04:00 seqn 5 metric 1 rssi -88
+241739841	ID:2	my_collect: recv beacon from 04:00 seqn 5 metric 1 rssi -80
+241739842	ID:5	my_collect: recv beacon from 04:00 seqn 5 metric 1 rssi -90
+241739922	ID:6	my_collect: recv beacon from 04:00 seqn 5 metric 1 rssi -49
+241742978	ID:5	my_collect: new parent 04:00, my metric 2
+241932713	ID:5	my_collect: sending beacon: seqn 5 metric 2
+241942934	ID:2	my_collect: recv beacon from 05:00 seqn 5 metric 2 rssi -53
+241942936	ID:4	my_collect: recv beacon from 05:00 seqn 5 metric 2 rssi -90
+242148703	ID:2	my_collect: sending beacon: seqn 5 metric 1
+242158855	ID:6	my_collect: recv beacon from 02:00 seqn 5 metric 1 rssi -83
+242158856	ID:5	my_collect: recv beacon from 02:00 seqn 5 metric 1 rssi -53
+242158857	ID:4	my_collect: recv beacon from 02:00 seqn 5 metric 1 rssi -80
+242158860	ID:1	my_collect: recv beacon from 02:00 seqn 5 metric 1 rssi -68
+242158935	ID:7	my_collect: recv beacon from 02:00 seqn 5 metric 1 rssi -85
+242161991	ID:5	my_collect: new parent 02:00, my metric 2
+242303864	ID:6	my_collect: sending beacon: seqn 5 metric 1
+242314009	ID:1	my_collect: recv beacon from 06:00 seqn 5 metric 1 rssi -58
+242314101	ID:4	my_collect: recv beacon from 06:00 seqn 5 metric 1 rssi -49
+242314102	ID:2	my_collect: recv beacon from 06:00 seqn 5 metric 1 rssi -83
+242436923	ID:3	my_collect: sending beacon: seqn 5 metric 1
+242447068	ID:1	my_collect: recv beacon from 03:00 seqn 5 metric 1 rssi -66
+242447072	ID:7	my_collect: recv beacon from 03:00 seqn 5 metric 1 rssi -67
+242447150	ID:9	my_collect: recv beacon from 03:00 seqn 5 metric 1 rssi -81
+242447160	ID:8	my_collect: recv beacon from 03:00 seqn 5 metric 1 rssi -80
+242595603	ID:7	my_collect: sending beacon: seqn 5 metric 1
+242605755	ID:2	my_collect: recv beacon from 07:00 seqn 5 metric 1 rssi -85
+242605755	ID:3	my_collect: recv beacon from 07:00 seqn 5 metric 1 rssi -67
+242605755	ID:10	my_collect: recv beacon from 07:00 seqn 5 metric 1 rssi -64
+242605756	ID:9	my_collect: recv beacon from 07:00 seqn 5 metric 1 rssi -92
+242605832	ID:1	my_collect: recv beacon from 07:00 seqn 5 metric 1 rssi -66
+242608891	ID:9	my_collect: new parent 07:00, my metric 2
+242657227	ID:8	my_collect: sending beacon: seqn 5 metric 2
+242667379	ID:3	my_collect: recv beacon from 08:00 seqn 5 metric 2 rssi -80
+242667382	ID:9	my_collect: recv beacon from 08:00 seqn 5 metric 2 rssi -75
+242953776	ID:5	App: Send seqn 7
+242957040	ID:5	App: Message seqn 7 sent correctly!
+242970673	ID:1	App: Recv from 05:00 seqn 7 hops 2
+243019829	ID:9	my_collect: sending beacon: seqn 5 metric 2
+243029974	ID:3	my_collect: recv beacon from 09:00 seqn 5 metric 2 rssi -81
+243029988	ID:7	my_collect: recv beacon from 09:00 seqn 5 metric 2 rssi -92
+243030021	ID:8	my_collect: recv beacon from 09:00 seqn 5 metric 2 rssi -75
+243030057	ID:10	my_collect: recv beacon from 09:00 seqn 5 metric 2 rssi -70
+243042028	ID:5	my_collect: sending beacon: seqn 5 metric 2
+243052219	ID:2	my_collect: recv beacon from 05:00 seqn 5 metric 2 rssi -53
+243052229	ID:4	my_collect: recv beacon from 05:00 seqn 5 metric 2 rssi -90
+243055332	ID:10	my_collect: sending beacon: seqn 5 metric 2
+243065481	ID:9	my_collect: recv beacon from 0a:00 seqn 5 metric 2 rssi -70
+243065560	ID:7	my_collect: recv beacon from 0a:00 seqn 5 metric 2 rssi -64
+244466127	ID:6	App: Send seqn 7
+244469380	ID:6	App: Message seqn 7 sent correctly!
+244477053	ID:1	App: Recv from 06:00 seqn 7 hops 1
+244670341	ID:2	App: Send seqn 7
+244673594	ID:2	App: Message seqn 7 sent correctly!
+244681268	ID:1	App: Recv from 02:00 seqn 7 hops 1
+248812264	ID:7	App: Send seqn 7
+248815517	ID:7	App: Message seqn 7 sent correctly!
+248823190	ID:1	App: Recv from 07:00 seqn 7 hops 1
+249528585	ID:3	App: Send seqn 7
+249531837	ID:3	App: Message seqn 7 sent correctly!
+249539518	ID:1	App: Recv from 03:00 seqn 7 hops 1
+251228347	ID:9	App: Send seqn 7
+251231599	ID:9	App: Message seqn 7 sent correctly!
+251245180	ID:1	App: Recv from 09:00 seqn 7 hops 2
+252623224	ID:10	App: Send seqn 7
+252626477	ID:10	App: Message seqn 7 sent correctly!
+252640184	ID:1	App: Recv from 0a:00 seqn 7 hops 2
+252678865	ID:8	App: Send seqn 7
+252682118	ID:8	App: Message seqn 7 sent correctly!
+252695693	ID:1	App: Recv from 08:00 seqn 7 hops 2
+253173204	ID:4	App: Send seqn 7
+253176457	ID:4	App: Message seqn 7 sent correctly!
+253184131	ID:1	App: Recv from 04:00 seqn 7 hops 1
+273609140	ID:7	App: Send seqn 8
+273612392	ID:7	App: Message seqn 8 sent correctly!
+273620073	ID:1	App: Recv from 07:00 seqn 8 hops 1
+274032579	ID:4	App: Send seqn 8
+274035832	ID:4	App: Message seqn 8 sent correctly!
+274043506	ID:1	App: Recv from 04:00 seqn 8 hops 1
+275670099	ID:10	App: Send seqn 8
+275673352	ID:10	App: Message seqn 8 sent correctly!
+275687070	ID:1	App: Recv from 0a:00 seqn 8 hops 2
+276788240	ID:8	App: Send seqn 8
+276791493	ID:8	App: Message seqn 8 sent correctly!
+276805098	ID:1	App: Recv from 08:00 seqn 8 hops 2
+277664957	ID:5	App: Send seqn 8
+277668210	ID:5	App: Message seqn 8 sent correctly!
+277681895	ID:1	App: Recv from 05:00 seqn 8 hops 2
+279904716	ID:2	App: Send seqn 8
+279907969	ID:2	App: Message seqn 8 sent correctly!
+279915644	ID:1	App: Recv from 02:00 seqn 8 hops 1
+280564573	ID:9	App: Send seqn 8
+280567826	ID:9	App: Message seqn 8 sent correctly!
+280581486	ID:1	App: Recv from 09:00 seqn 8 hops 2
+282950502	ID:6	App: Send seqn 8
+282953755	ID:6	App: Message seqn 8 sent correctly!
+282961428	ID:1	App: Recv from 06:00 seqn 8 hops 1
+286075459	ID:3	App: Send seqn 8
+286078712	ID:3	App: Message seqn 8 sent correctly!
+286086386	ID:1	App: Recv from 03:00 seqn 8 hops 1
+301662165	ID:1	my_collect: sending beacon: seqn 6 metric 0
+301672436	ID:2	my_collect: recv beacon from 01:00 seqn 6 metric 0 rssi -68
+301672441	ID:4	my_collect: recv beacon from 01:00 seqn 6 metric 0 rssi -88
+301672480	ID:5	App: Send seqn 9
+301672496	ID:3	my_collect: recv beacon from 01:00 seqn 6 metric 0 rssi -66
+301672496	ID:7	my_collect: recv beacon from 01:00 seqn 6 metric 0 rssi -66
+301672506	ID:6	my_collect: recv beacon from 01:00 seqn 6 metric 0 rssi -58
+301675733	ID:5	App: Message seqn 9 sent correctly!
+301676400	ID:2	my_collect: sending beacon: seqn 6 metric 1
+301689916	ID:1	App: Recv from 05:00 seqn 9 hops 2
+301695541	ID:5	my_collect: recv beacon from 02:00 seqn 6 metric 1 rssi -53
+301695620	ID:4	my_collect: recv beacon from 02:00 seqn 6 metric 1 rssi -80
+301695620	ID:6	my_collect: recv beacon from 02:00 seqn 6 metric 1 rssi -83
+301695630	ID:7	my_collect: recv beacon from 02:00 seqn 6 metric 1 rssi -85
+301696116	ID:1	my_collect: recv beacon from 02:00 seqn 6 metric 1 rssi -68
+301952633	ID:6	my_collect: sending beacon: seqn 6 metric 1
+301962786	ID:1	my_collect: recv beacon from 06:00 seqn 6 metric 1 rssi -58
+301962866	ID:2	my_collect: recv beacon from 06:00 seqn 6 metric 1 rssi -83
+301962866	ID:4	my_collect: recv beacon from 06:00 seqn 6 metric 1 rssi -49
+301991942	ID:3	my_collect: sending beacon: seqn 6 metric 1
+302002087	ID:7	my_collect: recv beacon from 03:00 seqn 6 metric 1 rssi -67
+302002089	ID:9	my_collect: recv beacon from 03:00 seqn 6 metric 1 rssi -81
+302002111	ID:1	my_collect: recv beacon from 03:00 seqn 6 metric 1 rssi -66
+302002166	ID:8	my_collect: recv beacon from 03:00 seqn 6 metric 1 rssi -80
+302005224	ID:9	my_collect: new parent 03:00, my metric 2
+302229528	ID:5	my_collect: sending beacon: seqn 6 metric 2
+302239722	ID:2	my_collect: recv beacon from 05:00 seqn 6 metric 2 rssi -53
+302239732	ID:4	my_collect: recv beacon from 05:00 seqn 6 metric 2 rssi -90
+302275622	ID:7	my_collect: sending beacon: seqn 6 metric 1
+302285772	ID:9	my_collect: recv beacon from 07:00 seqn 6 metric 1 rssi -92
+302285773	ID:10	my_collect: recv beacon from 07:00 seqn 6 metric 1 rssi -64
+302285853	ID:2	my_collect: recv beacon from 07:00 seqn 6 metric 1 rssi -85
+302285853	ID:3	my_collect: recv beacon from 07:00 seqn 6 metric 1 rssi -67
+302285860	ID:1	my_collect: recv beacon from 07:00 seqn 6 metric 1 rssi -66
+302288907	ID:9	my_collect: new parent 07:00, my metric 2
+302315960	ID:4	my_collect: sending beacon: seqn 6 metric 1
+302326110	ID:5	my_collect: recv beacon from 04:00 seqn 6 metric 1 rssi -90
+302326111	ID:1	my_collect: recv beacon from 04:00 seqn 6 metric 1 rssi -88
+302326166	ID:2	my_collect: recv beacon from 04:00 seqn 6 metric 1 rssi -80
+302326199	ID:6	my_collect: recv beacon from 04:00 seqn 6 metric 1 rssi -49
+302329248	ID:5	my_collect: new parent 04:00, my metric 2
+302667935	ID:9	my_collect: sending beacon: seqn 6 metric 2
+302678091	ID:10	my_collect: recv beacon from 09:00 seqn 6 metric 2 rssi -70
+302678105	ID:8	my_collect: recv beacon from 09:00 seqn 6 metric 2 rssi -75
+302678132	ID:3	my_collect: recv beacon from 09:00 seqn 6 metric 2 rssi -81
+302678177	ID:7	my_collect: recv beacon from 09:00 seqn 6 metric 2 rssi -92
+302682653	ID:5	my_collect: sending beacon: seqn 6 metric 2
+302692847	ID:2	my_collect: recv beacon from 05:00 seqn 6 metric 2 rssi -53
+302692856	ID:4	my_collect: recv beacon from 05:00 seqn 6 metric 2 rssi -90
+302922852	ID:8	my_collect: sending beacon: seqn 6 metric 2
+302933003	ID:3	my_collect: recv beacon from 08:00 seqn 6 metric 2 rssi -80
+302933004	ID:9	my_collect: recv beacon from 08:00 seqn 6 metric 2 rssi -75
+303047188	ID:10	my_collect: sending beacon: seqn 6 metric 2
+303057423	ID:9	my_collect: recv beacon from 0a:00 seqn 6 metric 2 rssi -70
+303057432	ID:7	my_collect: recv beacon from 0a:00 seqn 6 metric 2 rssi -64
+305958025	ID:6	App: Send seqn 9
+305961278	ID:6	App: Message seqn 9 sent correctly!
+305968957	ID:1	App: Recv from 06:00 seqn 9 hops 1
+306460991	ID:7	App: Send seqn 9
+306464244	ID:7	App: Message seqn 9 sent correctly!
+306471964	ID:1	App: Recv from 07:00 seqn 9 hops 1
+306483263	ID:8	App: Send seqn 9
+306486516	ID:8	App: Message seqn 9 sent correctly!
+306500112	ID:1	App: Recv from 08:00 seqn 9 hops 2
+306537239	ID:2	App: Send seqn 9
+306540492	ID:2	App: Message seqn 9 sent correctly!
+306548173	ID:1	App: Recv from 02:00 seqn 9 hops 1
+307352602	ID:4	App: Send seqn 9
+307355855	ID:4	App: Message seqn 9 sent correctly!
+307363531	ID:1	App: Recv from 04:00 seqn 9 hops 1
+307447096	ID:9	App: Send seqn 9
+307450349	ID:9	App: Message seqn 9 sent correctly!
+307463930	ID:1	App: Recv from 09:00 seqn 9 hops 2
+307552311	ID:3	App: Send seqn 9
+307555564	ID:3	App: Message seqn 9 sent correctly!
+307563238	ID:1	App: Recv from 03:00 seqn 9 hops 1
+308396951	ID:10	App: Send seqn 9
+308400204	ID:10	App: Message seqn 9 sent correctly!
+308413855	ID:1	App: Recv from 0a:00 seqn 9 hops 2
+330899630	ID:4	App: Send seqn 10
+330903007	ID:4	App: Message seqn 10 sent correctly!
+330910837	ID:1	App: Recv from 04:00 seqn 10 hops 1
+335758860	ID:5	App: Send seqn 10
+335762237	ID:5	App: Message seqn 10 sent correctly!
+335775966	ID:1	App: Recv from 05:00 seqn 10 hops 2
+336630053	ID:6	App: Send seqn 10
+336633430	ID:6	App: Message seqn 10 sent correctly!
+336641261	ID:1	App: Recv from 06:00 seqn 10 hops 1
+338695519	ID:7	App: Send seqn 10
+338698896	ID:7	App: Message seqn 10 sent correctly!
+338706800	ID:1	App: Recv from 07:00 seqn 10 hops 1
+338881479	ID:10	App: Send seqn 10
+338884856	ID:10	App: Message seqn 10 sent correctly!
+338898664	ID:1	App: Recv from 0a:00 seqn 10 hops 2
+340280291	ID:8	App: Send seqn 10
+340283668	ID:8	App: Message seqn 10 sent correctly!
+340297418	ID:1	App: Recv from 08:00 seqn 10 hops 2
+343158476	ID:9	App: Send seqn 10
+343161853	ID:9	App: Message seqn 10 sent correctly!
+343175662	ID:1	App: Recv from 09:00 seqn 10 hops 2
+343498619	ID:2	App: Send seqn 10
+343501996	ID:2	App: Message seqn 10 sent correctly!
+343509870	ID:1	App: Recv from 02:00 seqn 10 hops 1
+344536839	ID:3	App: Send seqn 10
+344540216	ID:3	App: Message seqn 10 sent correctly!
+344548043	ID:1	App: Recv from 03:00 seqn 10 hops 1
+361662165	ID:1	my_collect: sending beacon: seqn 7 metric 0
+361672436	ID:2	my_collect: recv beacon from 01:00 seqn 7 metric 0 rssi -68
+361672441	ID:4	my_collect: recv beacon from 01:00 seqn 7 metric 0 rssi -88
+361672496	ID:3	my_collect: recv beacon from 01:00 seqn 7 metric 0 rssi -66
+361672496	ID:7	my_collect: recv beacon from 01:00 seqn 7 metric 0 rssi -66
+361672506	ID:6	my_collect: recv beacon from 01:00 seqn 7 metric 0 rssi -58
+361828088	ID:7	App: Send seqn 11
+361831476	ID:7	App: Message seqn 11 sent correctly!
+361839418	ID:1	App: Recv from 07:00 seqn 11 hops 1
+362016222	ID:2	my_collect: sending beacon: seqn 7 metric 1
+362026365	ID:6	my_collect: recv beacon from 02:00 seqn 7 metric 1 rssi -83
+362026366	ID:5	my_collect: recv beacon from 02:00 seqn 7 metric 1 rssi -53
+362026375	ID:4	my_collect: recv beacon from 02:00 seqn 7 metric 1 rssi -80
+362026442	ID:1	my_collect: recv beacon from 02:00 seqn 7 metric 1 rssi -68
+362026455	ID:7	my_collect: recv beacon from 02:00 seqn 7 metric 1 rssi -85
+362029501	ID:5	my_collect: new parent 02:00, my metric 2
+362298701	ID:7	my_collect: sending beacon: seqn 7 metric 1
+362308814	ID:2	my_collect: recv beacon from 07:00 seqn 7 metric 1 rssi -85
+362308814	ID:3	my_collect: recv beacon from 07:00 seqn 7 metric 1 rssi -67
+362308814	ID:10	my_collect: recv beacon from 07:00 seqn 7 metric 1 rssi -64
+362308815	ID:9	my_collect: recv beacon from 07:00 seqn 7 metric 1 rssi -92
+362308891	ID:1	my_collect: recv beacon from 07:00 seqn 7 metric 1 rssi -66
+362319489	ID:6	my_collect: sending beacon: seqn 7 metric 1
+362329638	ID:1	my_collect: recv beacon from 06:00 seqn 7 metric 1 rssi -58
+362329730	ID:2	my_collect: recv beacon from 06:00 seqn 7 metric 1 rssi -83
+362329730	ID:4	my_collect: recv beacon from 06:00 seqn 7 metric 1 rssi -49
+362339810	ID:9	my_collect: sending beacon: seqn 7 metric 2
+362349966	ID:10	my_collect: recv beacon from 09:00 seqn 7 metric 2 rssi -70
+362349980	ID:8	my_collect: recv beacon from 09:00 seqn 7 metric 2 rssi -75
+362350007	ID:3	my_collect: recv beacon from 09:00 seqn 7 metric 2 rssi -81
+362350052	ID:7	my_collect: recv beacon from 09:00 seqn 7 metric 2 rssi -92
+362353115	ID:8	my_collect: new parent 09:00, my metric 3
+362370316	ID:4	my_collect: sending beacon: seqn 7 metric 1
+362380460	ID:2	my_collect: recv beacon from 04:00 seqn 7 metric 1 rssi -80
+362380461	ID:5	my_collect: recv beacon from 04:00 seqn 7 metric 1 rssi -90
+362380467	ID:1	my_collect: recv beacon from 04:00 seqn 7 metric 1 rssi -88
+362380541	ID:6	my_collect: recv beacon from 04:00 seqn 7 metric 1 rssi -49
+362383604	ID:5	my_collect: new parent 04:00, my metric 2
+362390048	ID:3	my_collect: sending beacon: seqn 7 metric 1
+362400199	ID:1	my_collect: recv beacon from 03:00 seqn 7 metric 1 rssi -66
+362400201	ID:7	my_collect: recv beacon from 03:00 seqn 7 metric 1 rssi -67
+362400279	ID:9	my_collect: recv beacon from 03:00 seqn 7 metric 1 rssi -81
+362400289	ID:8	my_collect: recv beacon from 03:00 seqn 7 metric 1 rssi -80
+362403414	ID:9	my_collect: new parent 03:00, my metric 2
+362403424	ID:8	my_collect: new parent 03:00, my metric 2
+362422852	ID:8	my_collect: sending beacon: seqn 7 metric 2
+362433004	ID:3	my_collect: recv beacon from 08:00 seqn 7 metric 2 rssi -80
+362433007	ID:9	my_collect: recv beacon from 08:00 seqn 7 metric 2 rssi -75
+362705819	ID:5	my_collect: sending beacon: seqn 7 metric 2
+362715978	ID:2	my_collect: recv beacon from 05:00 seqn 7 metric 2 rssi -53
+362716044	ID:4	my_collect: recv beacon from 05:00 seqn 7 metric 2 rssi -90
+363211582	ID:10	my_collect: sending beacon: seqn 7 metric 2
+363221763	ID:9	my_collect: recv beacon from 0a:00 seqn 7 metric 2 rssi -70
+363221816	ID:7	my_collect: recv beacon from 0a:00 seqn 7 metric 2 rssi -64
+363254204	ID:9	my_collect: sending beacon: seqn 7 metric 2
+363264356	ID:3	my_collect: recv beacon from 09:00 seqn 7 metric 2 rssi -81
+363264363	ID:7	my_collect: recv beacon from 09:00 seqn 7 metric 2 rssi -92
+363264439	ID:10	my_collect: recv beacon from 09:00 seqn 7 metric 2 rssi -70
+363264441	ID:8	my_collect: recv beacon from 09:00 seqn 7 metric 2 rssi -75
+365794362	ID:3	App: Send seqn 11
+365797739	ID:3	App: Message seqn 11 sent correctly!
+365805566	ID:1	App: Recv from 03:00 seqn 11 hops 1
+368132143	ID:8	App: Send seqn 11
+368135520	ID:8	App: Message seqn 11 sent correctly!
+368149243	ID:1	App: Recv from 08:00 seqn 11 hops 2
+368389002	ID:10	App: Send seqn 11
+368392379	ID:10	App: Message seqn 11 sent correctly!
+368406240	ID:1	App: Recv from 0a:00 seqn 11 hops 2
+368891383	ID:5	App: Send seqn 11
+368894760	ID:5	App: Message seqn 11 sent correctly!
+368908565	ID:1	App: Recv from 05:00 seqn 11 hops 2
+369165999	ID:9	App: Send seqn 11
+369169376	ID:9	App: Message seqn 11 sent correctly!
+369183317	ID:1	App: Recv from 09:00 seqn 11 hops 2
+370044405	ID:6	App: Send seqn 11
+370047782	ID:6	App: Message seqn 11 sent correctly!
+370055612	ID:1	App: Recv from 06:00 seqn 11 hops 1
+371876482	ID:4	App: Send seqn 11
+371879859	ID:4	App: Message seqn 11 sent correctly!
+371887767	ID:1	App: Recv from 04:00 seqn 11 hops 1
+375256142	ID:2	App: Send seqn 11
+375259519	ID:2	App: Message seqn 11 sent correctly!
+375267349	ID:1	App: Recv from 02:00 seqn 11 hops 1
+392352610	ID:5	App: Send seqn 12
+392355987	ID:5	App: Message seqn 12 sent correctly!
+392369744	ID:1	App: Recv from 05:00 seqn 12 hops 2
+393249917	ID:7	App: Send seqn 12
+393253294	ID:7	App: Message seqn 12 sent correctly!
+393261115	ID:1	App: Recv from 07:00 seqn 12 hops 1
+393428017	ID:2	App: Send seqn 12
+393431394	ID:2	App: Message seqn 12 sent correctly!
+393439220	ID:1	App: Recv from 02:00 seqn 12 hops 1
+394252226	ID:9	App: Send seqn 12
+394255603	ID:9	App: Message seqn 12 sent correctly!
+394269535	ID:1	App: Recv from 09:00 seqn 12 hops 2
+396060877	ID:10	App: Send seqn 12
+396064254	ID:10	App: Message seqn 12 sent correctly!
+396078111	ID:1	App: Recv from 0a:00 seqn 12 hops 2
+396499041	ID:8	App: Send seqn 12
+396502418	ID:8	App: Message seqn 12 sent correctly!
+396516168	ID:1	App: Recv from 08:00 seqn 12 hops 2
+397860857	ID:4	App: Send seqn 12
+397864234	ID:4	App: Message seqn 12 sent correctly!
+397872141	ID:1	App: Recv from 04:00 seqn 12 hops 1
+399653780	ID:6	App: Send seqn 12
+399657157	ID:6	App: Message seqn 12 sent correctly!
+399664984	ID:1	App: Recv from 06:00 seqn 12 hops 1
+402966237	ID:3	App: Send seqn 12
+402969614	ID:3	App: Message seqn 12 sent correctly!
+402977439	ID:1	App: Recv from 03:00 seqn 12 hops 1
+421662165	ID:1	my_collect: sending beacon: seqn 8 metric 0
+421672436	ID:2	my_collect: recv beacon from 01:00 seqn 8 metric 0 rssi -68
+421672441	ID:4	my_collect: recv beacon from 01:00 seqn 8 metric 0 rssi -88
+421672496	ID:3	my_collect: recv beacon from 01:00 seqn 8 metric 0 rssi -66
+421672496	ID:7	my_collect: recv beacon from 01:00 seqn 8 metric 0 rssi -66
+421672506	ID:6	my_collect: recv beacon from 01:00 seqn 8 metric 0 rssi -58
+421780758	ID:6	my_collect: sending beacon: seqn 8 metric 1
+421790897	ID:1	my_collect: recv beacon from 06:00 seqn 8 metric 1 rssi -58
+421790980	ID:2	my_collect: recv beacon from 06:00 seqn 8 metric 1 rssi -83
+421790980	ID:4	my_collect: recv beacon from 06:00 seqn 8 metric 1 rssi -49
+422269085	ID:4	my_collect: sending beacon: seqn 8 metric 1
+422279232	ID:5	my_collect: recv beacon from 04:00 seqn 8 metric 1 rssi -90
+422279234	ID:1	my_collect: recv beacon from 04:00 seqn 8 metric 1 rssi -88
+422279242	ID:2	my_collect: recv beacon from 04:00 seqn 8 metric 1 rssi -80
+422279321	ID:6	my_collect: recv beacon from 04:00 seqn 8 metric 1 rssi -49
+422507567	ID:3	my_collect: sending beacon: seqn 8 metric 1
+422517716	ID:9	my_collect: recv beacon from 03:00 seqn 8 metric 1 rssi -81
+422517720	ID:7	my_collect: recv beacon from 03:00 seqn 8 metric 1 rssi -67
+422517737	ID:1	my_collect: recv beacon from 03:00 seqn 8 metric 1 rssi -66
+422517797	ID:8	my_collect: recv beacon from 03:00 seqn 8 metric 1 rssi -80
+422541247	ID:7	my_collect: sending beacon: seqn 8 metric 1
+422551400	ID:9	my_collect: recv beacon from 07:00 seqn 8 metric 1 rssi -92
+422551400	ID:10	my_collect: recv beacon from 07:00 seqn 8 metric 1 rssi -64
+422551477	ID:3	my_collect: recv beacon from 07:00 seqn 8 metric 1 rssi -67
+422551479	ID:2	my_collect: recv beacon from 07:00 seqn 8 metric 1 rssi -85
+422551487	ID:1	my_collect: recv beacon from 07:00 seqn 8 metric 1 rssi -66
+422554534	ID:9	my_collect: new parent 07:00, my metric 2
+422592457	ID:2	App: Send seqn 13
+422595845	ID:2	App: Message seqn 13 sent correctly!
+422603785	ID:1	App: Recv from 02:00 seqn 13 hops 1
+422633052	ID:2	my_collect: sending beacon: seqn 8 metric 1
+422643166	ID:4	my_collect: recv beacon from 02:00 seqn 8 metric 1 rssi -80
+422643167	ID:5	my_collect: recv beacon from 02:00 seqn 8 metric 1 rssi -53
+422643168	ID:6	my_collect: recv beacon from 02:00 seqn 8 metric 1 rssi -83
+422643174	ID:7	my_collect: recv beacon from 02:00 seqn 8 metric 1 rssi -85
+422643187	ID:1	my_collect: recv beacon from 02:00 seqn 8 metric 1 rssi -68
+422646302	ID:5	my_collect: new parent 02:00, my metric 2
+422975317	ID:10	App: Send seqn 13
+422975981	ID:8	App: Send seqn 13
+422978706	ID:10	App: Message seqn 13 sent correctly!
+422979370	ID:8	App: Message seqn 13 sent correctly!
+423087186	ID:8	my_collect: sending beacon: seqn 8 metric 2
+423097306	ID:9	my_collect: recv beacon from 08:00 seqn 8 metric 2 rssi -75
+423097313	ID:3	my_collect: recv beacon from 08:00 seqn 8 metric 2 rssi -80
+423328412	ID:10	my_collect: sending beacon: seqn 8 metric 2
+423338577	ID:7	my_collect: recv beacon from 0a:00 seqn 8 metric 2 rssi -64
+423338611	ID:9	my_collect: recv beacon from 0a:00 seqn 8 metric 2 rssi -70
+423371060	ID:9	my_collect: sending beacon: seqn 8 metric 2
+423381215	ID:10	my_collect: recv beacon from 09:00 seqn 8 metric 2 rssi -70
+423381230	ID:8	my_collect: recv beacon from 09:00 seqn 8 metric 2 rssi -75
+423381257	ID:3	my_collect: recv beacon from 09:00 seqn 8 metric 2 rssi -81
+423381303	ID:7	my_collect: recv beacon from 09:00 seqn 8 metric 2 rssi -92
+423432713	ID:5	my_collect: sending beacon: seqn 8 metric 2
+423442935	ID:2	my_collect: recv beacon from 05:00 seqn 8 metric 2 rssi -53
+423442936	ID:4	my_collect: recv beacon from 05:00 seqn 8 metric 2 rssi -90
+424618380	ID:4	App: Send seqn 13
+424621757	ID:4	App: Message seqn 13 sent correctly!
+424629662	ID:1	App: Recv from 04:00 seqn 13 hops 1
+425289269	ID:7	App: Send seqn 13
+425292646	ID:7	App: Message seqn 13 sent correctly!
+425300549	ID:1	App: Recv from 07:00 seqn 13 hops 1
+425598803	ID:6	App: Send seqn 13
+425602180	ID:6	App: Message seqn 13 sent correctly!
+425610008	ID:1	App: Recv from 06:00 seqn 13 hops 1
+425630589	ID:3	App: Send seqn 13
+425633966	ID:3	App: Message seqn 13 sent correctly!
+425641793	ID:1	App: Recv from 03:00 seqn 13 hops 1
+433384749	ID:9	App: Send seqn 13
+433388126	ID:9	App: Message seqn 13 sent correctly!
+433401928	ID:1	App: Recv from 09:00 seqn 13 hops 2
+435610133	ID:5	App: Send seqn 13
+435613510	ID:5	App: Message seqn 13 sent correctly!
+435627396	ID:1	App: Recv from 05:00 seqn 13 hops 2
+451648726	ID:7	App: Send seqn 14
+451652103	ID:7	App: Message seqn 14 sent correctly!
+451660021	ID:1	App: Recv from 07:00 seqn 14 hops 1
+451701744	ID:2	App: Send seqn 14
+451705121	ID:2	App: Message seqn 14 sent correctly!
+451712994	ID:1	App: Recv from 02:00 seqn 14 hops 1
+451960268	ID:8	App: Send seqn 14
+451963645	ID:8	App: Message seqn 14 sent correctly!
+451977402	ID:1	App: Recv from 08:00 seqn 14 hops 2
+452845976	ID:9	App: Send seqn 14
+452849353	ID:9	App: Message seqn 14 sent correctly!
+452863168	ID:1	App: Recv from 09:00 seqn 14 hops 2
+456446360	ID:5	App: Send seqn 14
+456449737	ID:5	App: Message seqn 14 sent correctly!
+456463463	ID:1	App: Recv from 05:00 seqn 14 hops 2
+457739964	ID:3	App: Send seqn 14
+457743341	ID:3	App: Message seqn 14 sent correctly!
+457751168	ID:1	App: Recv from 03:00 seqn 14 hops 1
+459895678	ID:6	App: Send seqn 14
+459899055	ID:6	App: Message seqn 14 sent correctly!
+459906880	ID:1	App: Recv from 06:00 seqn 14 hops 1
+463790255	ID:4	App: Send seqn 14
+463793632	ID:4	App: Message seqn 14 sent correctly!
+463801462	ID:1	App: Recv from 04:00 seqn 14 hops 1
+465584604	ID:10	App: Send seqn 14
+465587981	ID:10	App: Message seqn 14 sent correctly!
+465601781	ID:1	App: Recv from 0a:00 seqn 14 hops 2
+481662165	ID:1	my_collect: sending beacon: seqn 9 metric 0
+481672436	ID:2	my_collect: recv beacon from 01:00 seqn 9 metric 0 rssi -68
+481672441	ID:4	my_collect: recv beacon from 01:00 seqn 9 metric 0 rssi -88
+481672496	ID:3	my_collect: recv beacon from 01:00 seqn 9 metric 0 rssi -66
+481672496	ID:7	my_collect: recv beacon from 01:00 seqn 9 metric 0 rssi -66
+481672506	ID:6	my_collect: recv beacon from 01:00 seqn 9 metric 0 rssi -58
+481718173	ID:3	my_collect: sending beacon: seqn 9 metric 1
+481728321	ID:1	my_collect: recv beacon from 03:00 seqn 9 metric 1 rssi -66
+481728325	ID:7	my_collect: recv beacon from 03:00 seqn 9 metric 1 rssi -67
+481728403	ID:9	my_collect: recv beacon from 03:00 seqn 9 metric 1 rssi -81
+481728413	ID:8	my_collect: recv beacon from 03:00 seqn 9 metric 1 rssi -80
+481731538	ID:9	my_collect: new parent 03:00, my metric 2
+481885941	ID:4	my_collect: sending beacon: seqn 9 metric 1
+481896088	ID:2	my_collect: recv beacon from 04:00 seqn 9 metric 1 rssi -80
+481896089	ID:5	my_collect: recv beacon from 04:00 seqn 9 metric 1 rssi -90
+481896091	ID:1	my_collect: recv beacon from 04:00 seqn 9 metric 1 rssi -88
+481896169	ID:6	my_collect: recv beacon from 04:00 seqn 9 metric 1 rssi -49
+481899228	ID:5	my_collect: new parent 04:00, my metric 2
+481949185	ID:9	my_collect: sending beacon: seqn 9 metric 2
+481954607	ID:4	App: Send seqn 15
+481957984	ID:4	App: Message seqn 15 sent correctly!
+481959335	ID:10	my_collect: recv beacon from 09:00 seqn 9 metric 2 rssi -70
+481959354	ID:8	my_collect: recv beacon from 09:00 seqn 9 metric 2 rssi -75
+481959380	ID:3	my_collect: recv beacon from 09:00 seqn 9 metric 2 rssi -81
+481959421	ID:7	my_collect: recv beacon from 09:00 seqn 9 metric 2 rssi -92
+481962470	ID:10	my_collect: new parent 09:00, my metric 3
+481965889	ID:1	App: Recv from 04:00 seqn 15 hops 1
+481997618	ID:6	App: Send seqn 15
+482001007	ID:6	App: Message seqn 15 sent correctly!
+482008863	ID:1	App: Recv from 06:00 seqn 15 hops 1
+482210087	ID:6	my_collect: sending beacon: seqn 9 metric 1
+482217837	ID:8	App: Send seqn 15
+482220197	ID:1	my_collect: recv beacon from 06:00 seqn 9 metric 1 rssi -58
+482220210	ID:4	my_collect: recv beacon from 06:00 seqn 9 metric 1 rssi -49
+482220289	ID:2	my_collect: recv beacon from 06:00 seqn 9 metric 1 rssi -83
+482221225	ID:8	App: Message seqn 15 sent correctly!
+482235009	ID:1	App: Recv from 08:00 seqn 15 hops 2
+482344347	ID:2	my_collect: sending beacon: seqn 9 metric 1
+482354489	ID:6	my_collect: recv beacon from 02:00 seqn 9 metric 1 rssi -83
+482354490	ID:5	my_collect: recv beacon from 02:00 seqn 9 metric 1 rssi -53
+482354499	ID:4	my_collect: recv beacon from 02:00 seqn 9 metric 1 rssi -80
+482354566	ID:1	my_collect: recv beacon from 02:00 seqn 9 metric 1 rssi -68
+482354579	ID:7	my_collect: recv beacon from 02:00 seqn 9 metric 1 rssi -85
+482357624	ID:5	my_collect: new parent 02:00, my metric 2
+482376853	ID:7	my_collect: sending beacon: seqn 9 metric 1
+482387004	ID:2	my_collect: recv beacon from 07:00 seqn 9 metric 1 rssi -85
+482387004	ID:10	my_collect: recv beacon from 07:00 seqn 9 metric 1 rssi -64
+482387005	ID:9	my_collect: recv beacon from 07:00 seqn 9 metric 1 rssi -92
+482387008	ID:3	my_collect: recv beacon from 07:00 seqn 9 metric 1 rssi -67
+482387081	ID:1	my_collect: recv beacon from 07:00 seqn 9 metric 1 rssi -66
+482390138	ID:10	my_collect: new parent 07:00, my metric 2
+482390140	ID:9	my_collect: new parent 07:00, my metric 2
+482676079	ID:9	my_collect: sending beacon: seqn 9 metric 2
+482686230	ID:3	my_collect: recv beacon from 09:00 seqn 9 metric 2 rssi -81
+482686238	ID:7	my_collect: recv beacon from 09:00 seqn 9 metric 2 rssi -92
+482686275	ID:8	my_collect: recv beacon from 09:00 seqn 9 metric 2 rssi -75
+482686311	ID:10	my_collect: recv beacon from 09:00 seqn 9 metric 2 rssi -70
+482696561	ID:8	my_collect: sending beacon: seqn 9 metric 2
+482706681	ID:9	my_collect: recv beacon from 08:00 seqn 9 metric 2 rssi -75
+482706688	ID:3	my_collect: recv beacon from 08:00 seqn 9 metric 2 rssi -80
+482883457	ID:10	my_collect: sending beacon: seqn 9 metric 2
+482893603	ID:9	my_collect: recv beacon from 0a:00 seqn 9 metric 2 rssi -70
+482893682	ID:7	my_collect: recv beacon from 0a:00 seqn 9 metric 2 rssi -64
+483112069	ID:5	my_collect: sending beacon: seqn 9 metric 2
+483122228	ID:2	my_collect: recv beacon from 05:00 seqn 9 metric 2 rssi -53
+483122294	ID:4	my_collect: recv beacon from 05:00 seqn 9 metric 2 rssi -90
+487029627	ID:10	App: Send seqn 15
+487033004	ID:10	App: Message seqn 15 sent correctly!
+487046903	ID:1	App: Recv from 0a:00 seqn 15 hops 2
+487103499	ID:9	App: Send seqn 15
+487106876	ID:9	App: Message seqn 15 sent correctly!
+487120716	ID:1	App: Recv from 09:00 seqn 15 hops 2
+488718667	ID:7	App: Send seqn 15
+488722044	ID:7	App: Message seqn 15 sent correctly!
+488729871	ID:1	App: Recv from 07:00 seqn 15 hops 1
+488934987	ID:3	App: Send seqn 15
+488938364	ID:3	App: Message seqn 15 sent correctly!
+488946188	ID:1	App: Recv from 03:00 seqn 15 hops 1
+493828883	ID:5	App: Send seqn 15
+493832260	ID:5	App: Message seqn 15 sent correctly!
+493846065	ID:1	App: Recv from 05:00 seqn 15 hops 2
+495396767	ID:2	App: Send seqn 15
+495400144	ID:2	App: Message seqn 15 sent correctly!
+495407969	ID:1	App: Recv from 02:00 seqn 15 hops 1
+510389666	ID:8	App: Send seqn 16
+510393043	ID:8	App: Message seqn 16 sent correctly!
+510406765	ID:1	App: Recv from 08:00 seqn 16 hops 2
+510731905	ID:6	App: Send seqn 16
+510735282	ID:6	App: Message seqn 16 sent correctly!
+510743109	ID:1	App: Recv from 06:00 seqn 16 hops 1
+511765542	ID:7	App: Send seqn 16
+511768919	ID:7	App: Message seqn 16 sent correctly!
+511776743	ID:1	App: Recv from 07:00 seqn 16 hops 1
+513193642	ID:2	App: Send seqn 16
+513197019	ID:2	App: Message seqn 16 sent correctly!
+513204851	ID:1	App: Recv from 02:00 seqn 16 hops 1
+516040110	ID:5	App: Send seqn 16
+516043487	ID:5	App: Message seqn 16 sent correctly!
+516057212	ID:1	App: Recv from 05:00 seqn 16 hops 2
+517928354	ID:10	App: Send seqn 16
+517931731	ID:10	App: Message seqn 16 sent correctly!
+517945533	ID:1	App: Recv from 0a:00 seqn 16 hops 2
+523731862	ID:3	App: Send seqn 16
+523735239	ID:3	App: Message seqn 16 sent correctly!
+523743067	ID:1	App: Recv from 03:00 seqn 16 hops 1
+524063982	ID:4	App: Send seqn 16
+524067359	ID:4	App: Message seqn 16 sent correctly!
+524075267	ID:1	App: Recv from 04:00 seqn 16 hops 1
+525939726	ID:9	App: Send seqn 16
+525943103	ID:9	App: Message seqn 16 sent correctly!
+525956918	ID:1	App: Recv from 09:00 seqn 16 hops 2
+541054018	ID:8	App: Send seqn 17
+541057395	ID:8	App: Message seqn 17 sent correctly!
+541071123	ID:1	App: Recv from 08:00 seqn 17 hops 2
+541322249	ID:9	App: Send seqn 17
+541325626	ID:9	App: Message seqn 17 sent correctly!
+541339463	ID:1	App: Recv from 09:00 seqn 17 hops 2
+541662318	ID:1	my_collect: sending beacon: seqn 10 metric 0
+541672717	ID:4	my_collect: recv beacon from 01:00 seqn 10 metric 0 rssi -88
+541672724	ID:2	my_collect: recv beacon from 01:00 seqn 10 metric 0 rssi -68
+541672799	ID:3	my_collect: recv beacon from 01:00 seqn 10 metric 0 rssi -66
+541672799	ID:7	my_collect: recv beacon from 01:00 seqn 10 metric 0 rssi -66
+541672810	ID:6	my_collect: recv beacon from 01:00 seqn 10 metric 0 rssi -58
+541681732	ID:7	my_collect: sending beacon: seqn 10 metric 1
+541692309	ID:3	my_collect: recv beacon from 07:00 seqn 10 metric 1 rssi -67
+541692365	ID:1	my_collect: recv beacon from 07:00 seqn 10 metric 1 rssi -66
+541692368	ID:2	my_collect: recv beacon from 07:00 seqn 10 metric 1 rssi -85
+541692379	ID:9	my_collect: recv beacon from 07:00 seqn 10 metric 1 rssi -92
+541692379	ID:10	my_collect: recv beacon from 07:00 seqn 10 metric 1 rssi -64
+541754296	ID:9	my_collect: sending beacon: seqn 10 metric 2
+541764560	ID:3	my_collect: recv beacon from 09:00 seqn 10 metric 2 rssi -81
+541764640	ID:7	my_collect: recv beacon from 09:00 seqn 10 metric 2 rssi -92
+541764641	ID:8	my_collect: recv beacon from 09:00 seqn 10 metric 2 rssi -75
+541764641	ID:10	my_collect: recv beacon from 09:00 seqn 10 metric 2 rssi -70
+541767775	ID:8	my_collect: new parent 09:00, my metric 3
+541852963	ID:8	my_collect: sending beacon: seqn 10 metric 3
+541863228	ID:9	my_collect: recv beacon from 08:00 seqn 10 metric 3 rssi -75
+541863316	ID:3	my_collect: recv beacon from 08:00 seqn 10 metric 3 rssi -80
+541898344	ID:3	my_collect: sending beacon: seqn 10 metric 1
+541908651	ID:7	my_collect: recv beacon from 03:00 seqn 10 metric 1 rssi -67
+541908729	ID:8	my_collect: recv beacon from 03:00 seqn 10 metric 1 rssi -80
+541908738	ID:1	my_collect: recv beacon from 03:00 seqn 10 metric 1 rssi -66
+541908740	ID:9	my_collect: recv beacon from 03:00 seqn 10 metric 1 rssi -81
+541911863	ID:8	my_collect: new parent 03:00, my metric 2
+541911875	ID:9	my_collect: new parent 03:00, my metric 2
+541984035	ID:6	my_collect: sending beacon: seqn 10 metric 1
+541994367	ID:1	my_collect: recv beacon from 06:00 seqn 10 metric 1 rssi -58
+541994416	ID:2	my_collect: recv beacon from 06:00 seqn 10 metric 1 rssi -83
+541994416	ID:4	my_collect: recv beacon from 06:00 seqn 10 metric 1 rssi -49
+542023856	ID:2	my_collect: sending beacon: seqn 10 metric 1
+542034154	ID:4	my_collect: recv beacon from 02:00 seqn 10 metric 1 rssi -80
+542034155	ID:6	my_collect: recv beacon from 02:00 seqn 10 metric 1 rssi -83
+542034156	ID:5	my_collect: recv beacon from 02:00 seqn 10 metric 1 rssi -53
+542034238	ID:7	my_collect: recv beacon from 02:00 seqn 10 metric 1 rssi -85
+542034243	ID:1	my_collect: recv beacon from 02:00 seqn 10 metric 1 rssi -68
+542168061	ID:9	my_collect: sending beacon: seqn 10 metric 2
+542178331	ID:3	my_collect: recv beacon from 09:00 seqn 10 metric 2 rssi -81
+542178332	ID:8	my_collect: recv beacon from 09:00 seqn 10 metric 2 rssi -75
+542178342	ID:10	my_collect: recv beacon from 09:00 seqn 10 metric 2 rssi -70
+542178375	ID:7	my_collect: recv beacon from 09:00 seqn 10 metric 2 rssi -92
+542524234	ID:10	my_collect: sending beacon: seqn 10 metric 2
+542534552	ID:9	my_collect: recv beacon from 0a:00 seqn 10 metric 2 rssi -70
+542534622	ID:7	my_collect: recv beacon from 0a:00 seqn 10 metric 2 rssi -64
+542597444	ID:4	my_collect: sending beacon: seqn 10 metric 1
+542607740	ID:1	my_collect: recv beacon from 04:00 seqn 10 metric 1 rssi -88
+542607742	ID:5	my_collect: recv beacon from 04:00 seqn 10 metric 1 rssi -90
+542607746	ID:6	my_collect: recv beacon from 04:00 seqn 10 metric 1 rssi -49
+542607832	ID:2	my_collect: recv beacon from 04:00 seqn 10 metric 1 rssi -80
+542610876	ID:5	my_collect: new parent 04:00, my metric 2
+542727963	ID:8	my_collect: sending beacon: seqn 10 metric 2
+542738229	ID:9	my_collect: recv beacon from 08:00 seqn 10 metric 2 rssi -75
+542738317	ID:3	my_collect: recv beacon from 08:00 seqn 10 metric 2 rssi -80
+542839115	ID:5	my_collect: sending beacon: seqn 10 metric 2
+542849414	ID:2	my_collect: recv beacon from 05:00 seqn 10 metric 2 rssi -53
+542849681	ID:4	my_collect: recv beacon from 05:00 seqn 10 metric 2 rssi -90
+543498377	ID:10	App: Send seqn 17
+543501754	ID:10	App: Message seqn 17 sent correctly!
+543515652	ID:1	App: Recv from 0a:00 seqn 17 hops 2
+545114428	ID:6	App: Send seqn 17
+545117805	ID:6	App: Message seqn 17 sent correctly!
+545125636	ID:1	App: Recv from 06:00 seqn 17 hops 1
+547083714	ID:3	App: Send seqn 17
+547087091	ID:3	App: Message seqn 17 sent correctly!
+547094920	ID:1	App: Recv from 03:00 seqn 17 hops 1
+548547633	ID:5	App: Send seqn 17
+548551010	ID:5	App: Message seqn 17 sent correctly!
+548564814	ID:1	App: Recv from 05:00 seqn 17 hops 2
+550492394	ID:7	App: Send seqn 17
+550495771	ID:7	App: Message seqn 17 sent correctly!
+550503674	ID:1	App: Recv from 07:00 seqn 17 hops 1
+551759005	ID:4	App: Send seqn 17
+551762382	ID:4	App: Message seqn 17 sent correctly!
+551770211	ID:1	App: Recv from 04:00 seqn 17 hops 1
+552045494	ID:2	App: Send seqn 17
+552048871	ID:2	App: Message seqn 17 sent correctly!
+552056744	ID:1	App: Recv from 02:00 seqn 17 hops 1
+571533476	ID:9	App: Send seqn 18
+571536853	ID:9	App: Message seqn 18 sent correctly!
+571550787	ID:1	App: Recv from 09:00 seqn 18 hops 2
+573036303	ID:6	App: Send seqn 18
+573039680	ID:6	App: Message seqn 18 sent correctly!
+573047503	ID:1	App: Recv from 06:00 seqn 18 hops 1
+575279869	ID:2	App: Send seqn 18
+575283246	ID:2	App: Message seqn 18 sent correctly!
+575291119	ID:1	App: Recv from 02:00 seqn 18 hops 1
+575545252	ID:10	App: Send seqn 18
+575548629	ID:10	App: Message seqn 18 sent correctly!
+575562522	ID:1	App: Recv from 0a:00 seqn 18 hops 2
+575976769	ID:7	App: Send seqn 18
+575980146	ID:7	App: Message seqn 18 sent correctly!
+575988049	ID:1	App: Recv from 07:00 seqn 18 hops 1
+576318089	ID:3	App: Send seqn 18
+576321466	ID:3	App: Message seqn 18 sent correctly!
+576329293	ID:1	App: Recv from 03:00 seqn 18 hops 1
+579133860	ID:5	App: Send seqn 18
+579137237	ID:5	App: Message seqn 18 sent correctly!
+579150993	ID:1	App: Recv from 05:00 seqn 18 hops 2
+580555880	ID:4	App: Send seqn 18
+580559257	ID:4	App: Message seqn 18 sent correctly!
+580567081	ID:1	App: Recv from 04:00 seqn 18 hops 1
+584358416	ID:8	App: Send seqn 18
+584361793	ID:8	App: Message seqn 18 sent correctly!
+584375519	ID:1	App: Recv from 08:00 seqn 18 hops 2
+600647768	ID:8	App: Send seqn 19
+600651145	ID:8	App: Message seqn 19 sent correctly!
+600664867	ID:1	App: Recv from 08:00 seqn 19 hops 2
+601662318	ID:1	my_collect: sending beacon: seqn 11 metric 0
+601672717	ID:4	my_collect: recv beacon from 01:00 seqn 11 metric 0 rssi -88
+601672724	ID:2	my_collect: recv beacon from 01:00 seqn 11 metric 0 rssi -68
+601672799	ID:3	my_collect: recv beacon from 01:00 seqn 11 metric 0 rssi -66
+601672799	ID:7	my_collect: recv beacon from 01:00 seqn 11 metric 0 rssi -66
+601672810	ID:6	my_collect: recv beacon from 01:00 seqn 11 metric 0 rssi -58
+601830130	ID:7	my_collect: sending beacon: seqn 11 metric 1
+601840426	ID:2	my_collect: recv beacon from 07:00 seqn 11 metric 1 rssi -85
+601840427	ID:10	my_collect: recv beacon from 07:00 seqn 11 metric 1 rssi -64
+601840428	ID:9	my_collect: recv beacon from 07:00 seqn 11 metric 1 rssi -92
+601840489	ID:1	my_collect: recv beacon from 07:00 seqn 11 metric 1 rssi -66
+601840507	ID:3	my_collect: recv beacon from 07:00 seqn 11 metric 1 rssi -67
+601843563	ID:9	my_collect: new parent 07:00, my metric 2
+601950658	ID:3	App: Send seqn 19
+601954046	ID:3	App: Message seqn 19 sent correctly!
+601961904	ID:1	App: Recv from 03:00 seqn 19 hops 1
+601975892	ID:6	my_collect: sending beacon: seqn 11 metric 1
+601986192	ID:1	my_collect: recv beacon from 06:00 seqn 11 metric 1 rssi -58
+601986279	ID:2	my_collect: recv beacon from 06:00 seqn 11 metric 1 rssi -83
+601986284	ID:4	my_collect: recv beacon from 06:00 seqn 11 metric 1 rssi -49
+602047624	ID:2	my_collect: sending beacon: seqn 11 metric 1
+602057922	ID:1	my_collect: recv beacon from 02:00 seqn 11 metric 1 rssi -68
+602057924	ID:6	my_collect: recv beacon from 02:00 seqn 11 metric 1 rssi -83
+602057926	ID:5	my_collect: recv beacon from 02:00 seqn 11 metric 1 rssi -53
+602057927	ID:4	my_collect: recv beacon from 02:00 seqn 11 metric 1 rssi -80
+602058015	ID:7	my_collect: recv beacon from 02:00 seqn 11 metric 1 rssi -85
+602061061	ID:5	my_collect: new parent 02:00, my metric 2
+602246213	ID:9	my_collect: sending beacon: seqn 11 metric 2
+602256518	ID:8	my_collect: recv beacon from 09:00 seqn 11 metric 2 rssi -75
+602256521	ID:7	my_collect: recv beacon from 09:00 seqn 11 metric 2 rssi -92
+602256524	ID:3	my_collect: recv beacon from 09:00 seqn 11 metric 2 rssi -81
+602256535	ID:10	my_collect: recv beacon from 09:00 seqn 11 metric 2 rssi -70
+602259653	ID:8	my_collect: new parent 09:00, my metric 3
+602276719	ID:4	my_collect: sending beacon: seqn 11 metric 1
+602287014	ID:1	my_collect: recv beacon from 04:00 seqn 11 metric 1 rssi -88
+602287017	ID:5	my_collect: recv beacon from 04:00 seqn 11 metric 1 rssi -90
+602287029	ID:2	my_collect: recv beacon from 04:00 seqn 11 metric 1 rssi -80
+602287083	ID:6	my_collect: recv beacon from 04:00 seqn 11 metric 1 rssi -49
+602290151	ID:5	my_collect: new parent 04:00, my metric 2
+602421424	ID:3	my_collect: sending beacon: seqn 11 metric 1
+602431695	ID:1	my_collect: recv beacon from 03:00 seqn 11 metric 1 rssi -66
+602431716	ID:7	my_collect: recv beacon from 03:00 seqn 11 metric 1 rssi -67
+602431749	ID:9	my_collect: recv beacon from 03:00 seqn 11 metric 1 rssi -81
+602431787	ID:8	my_collect: recv beacon from 03:00 seqn 11 metric 1 rssi -80
+602434884	ID:9	my_collect: new parent 03:00, my metric 2
+602435012	ID:8	my_collect: new parent 03:00, my metric 2
+602477359	ID:10	my_collect: sending beacon: seqn 11 metric 2
+602487222	ID:5	my_collect: sending beacon: seqn 11 metric 2
+602487677	ID:9	my_collect: recv beacon from 0a:00 seqn 11 metric 2 rssi -70
+602487743	ID:7	my_collect: recv beacon from 0a:00 seqn 11 metric 2 rssi -64
+602497605	ID:4	my_collect: recv beacon from 05:00 seqn 11 metric 2 rssi -90
+602497615	ID:2	my_collect: recv beacon from 05:00 seqn 11 metric 2 rssi -53
+602594853	ID:8	my_collect: sending beacon: seqn 11 metric 2
+602605126	ID:3	my_collect: recv beacon from 08:00 seqn 11 metric 2 rssi -80
+602605128	ID:9	my_collect: recv beacon from 08:00 seqn 11 metric 2 rssi -75
+603160606	ID:9	my_collect: sending beacon: seqn 11 metric 2
+603170919	ID:3	my_collect: recv beacon from 09:00 seqn 11 metric 2 rssi -81
+603170991	ID:7	my_collect: recv beacon from 09:00 seqn 11 metric 2 rssi -92
+603170992	ID:8	my_collect: recv beacon from 09:00 seqn 11 metric 2 rssi -75
+603170992	ID:10	my_collect: recv beacon from 09:00 seqn 11 metric 2 rssi -70
+604325655	ID:6	App: Send seqn 19
+604329032	ID:6	App: Message seqn 19 sent correctly!
+604336861	ID:1	App: Recv from 06:00 seqn 19 hops 1
+609766383	ID:5	App: Send seqn 19
+609769760	ID:5	App: Message seqn 19 sent correctly!
+609783566	ID:1	App: Recv from 05:00 seqn 19 hops 2
+612407732	ID:4	App: Send seqn 19
+612411109	ID:4	App: Message seqn 19 sent correctly!
+612412392	ID:2	App: Send seqn 19
+612415769	ID:2	App: Message seqn 19 sent correctly!
+612419016	ID:1	App: Recv from 04:00 seqn 19 hops 1
+612423599	ID:1	App: Recv from 02:00 seqn 19 hops 1
+612772104	ID:10	App: Send seqn 19
+612775481	ID:10	App: Message seqn 19 sent correctly!
+612789317	ID:1	App: Recv from 0a:00 seqn 19 hops 2
+613484292	ID:7	App: Send seqn 19
+613487669	ID:7	App: Message seqn 19 sent correctly!
+613495534	ID:1	App: Recv from 07:00 seqn 19 hops 1
+614040999	ID:9	App: Send seqn 19
+614044376	ID:9	App: Message seqn 19 sent correctly!
+614058316	ID:1	App: Recv from 09:00 seqn 19 hops 2
+630834267	ID:2	App: Send seqn 20
+630837644	ID:2	App: Message seqn 20 sent correctly!
+630845474	ID:1	App: Recv from 02:00 seqn 20 hops 1
+631256479	ID:10	App: Send seqn 20
+631259856	ID:10	App: Message seqn 20 sent correctly!
+631273700	ID:1	App: Recv from 0a:00 seqn 20 hops 2
+632372487	ID:3	App: Send seqn 20
+632375864	ID:3	App: Message seqn 20 sent correctly!
+632383691	ID:1	App: Recv from 03:00 seqn 20 hops 1
+634185030	ID:6	App: Send seqn 20
+634188407	ID:6	App: Message seqn 20 sent correctly!
+634196234	ID:1	App: Recv from 06:00 seqn 20 hops 1
+634827166	ID:8	App: Send seqn 20
+634830543	ID:8	App: Message seqn 20 sent correctly!
+634844272	ID:1	App: Recv from 08:00 seqn 20 hops 2
+637642107	ID:4	App: Send seqn 20
+637645484	ID:4	App: Message seqn 20 sent correctly!
+637653392	ID:1	App: Recv from 04:00 seqn 20 hops 1
+640156167	ID:7	App: Send seqn 20
+640159544	ID:7	App: Message seqn 20 sent correctly!
+640167409	ID:1	App: Recv from 07:00 seqn 20 hops 1
+644627226	ID:9	App: Send seqn 20
+644630603	ID:9	App: Message seqn 20 sent correctly!
+644644496	ID:1	App: Recv from 09:00 seqn 20 hops 2
+645727610	ID:5	App: Send seqn 20
+645730987	ID:5	App: Message seqn 20 sent correctly!
+645744710	ID:1	App: Recv from 05:00 seqn 20 hops 2
+661662318	ID:1	my_collect: sending beacon: seqn 12 metric 0
+661672717	ID:4	my_collect: recv beacon from 01:00 seqn 12 metric 0 rssi -88
+661672724	ID:2	my_collect: recv beacon from 01:00 seqn 12 metric 0 rssi -68
+661672799	ID:3	my_collect: recv beacon from 01:00 seqn 12 metric 0 rssi -66
+661672799	ID:7	my_collect: recv beacon from 01:00 seqn 12 metric 0 rssi -66
+661672810	ID:6	my_collect: recv beacon from 01:00 seqn 12 metric 0 rssi -58
+661697649	ID:7	my_collect: sending beacon: seqn 12 metric 1
+661707946	ID:3	my_collect: recv beacon from 07:00 seqn 12 metric 1 rssi -67
+661707991	ID:1	my_collect: recv beacon from 07:00 seqn 12 metric 1 rssi -66
+661708014	ID:2	my_collect: recv beacon from 07:00 seqn 12 metric 1 rssi -85
+661708037	ID:9	my_collect: recv beacon from 07:00 seqn 12 metric 1 rssi -92
+661708037	ID:10	my_collect: recv beacon from 07:00 seqn 12 metric 1 rssi -64
+661711262	ID:9	my_collect: new parent 07:00, my metric 2
+661964963	ID:9	my_collect: sending beacon: seqn 12 metric 2
+661975270	ID:7	my_collect: recv beacon from 09:00 seqn 12 metric 2 rssi -92
+661975270	ID:8	my_collect: recv beacon from 09:00 seqn 12 metric 2 rssi -75
+661975275	ID:3	my_collect: recv beacon from 09:00 seqn 12 metric 2 rssi -81
+661975285	ID:10	my_collect: recv beacon from 09:00 seqn 12 metric 2 rssi -70
+661978405	ID:8	my_collect: new parent 09:00, my metric 3
+661992984	ID:10	my_collect: sending beacon: seqn 12 metric 2
+662001130	ID:8	my_collect: sending beacon: seqn 12 metric 3
+662003302	ID:9	my_collect: recv beacon from 0a:00 seqn 12 metric 2 rssi -70
+662003370	ID:7	my_collect: recv beacon from 0a:00 seqn 12 metric 2 rssi -64
+662011433	ID:3	my_collect: recv beacon from 08:00 seqn 12 metric 3 rssi -80
+662011442	ID:9	my_collect: recv beacon from 08:00 seqn 12 metric 3 rssi -75
+662163969	ID:3	my_collect: sending beacon: seqn 12 metric 1
+662174275	ID:7	my_collect: recv beacon from 03:00 seqn 12 metric 1 rssi -67
+662174351	ID:8	my_collect: recv beacon from 03:00 seqn 12 metric 1 rssi -80
+662174360	ID:1	my_collect: recv beacon from 03:00 seqn 12 metric 1 rssi -66
+662174362	ID:9	my_collect: recv beacon from 03:00 seqn 12 metric 1 rssi -81
+662177485	ID:8	my_collect: new parent 03:00, my metric 2
+662177497	ID:9	my_collect: new parent 03:00, my metric 2
+662181527	ID:8	my_collect: sending beacon: seqn 12 metric 2
+662192095	ID:9	my_collect: recv beacon from 08:00 seqn 12 metric 2 rssi -75
+662192125	ID:3	my_collect: recv beacon from 08:00 seqn 12 metric 2 rssi -80
+662289481	ID:2	my_collect: sending beacon: seqn 12 metric 1
+662299782	ID:4	my_collect: recv beacon from 02:00 seqn 12 metric 1 rssi -80
+662299784	ID:6	my_collect: recv beacon from 02:00 seqn 12 metric 1 rssi -83
+662299785	ID:5	my_collect: recv beacon from 02:00 seqn 12 metric 1 rssi -53
+662299863	ID:7	my_collect: recv beacon from 02:00 seqn 12 metric 1 rssi -85
+662299871	ID:1	my_collect: recv beacon from 02:00 seqn 12 metric 1 rssi -68
+662302920	ID:5	my_collect: new parent 02:00, my metric 2
+662303861	ID:4	my_collect: sending beacon: seqn 12 metric 1
+662314239	ID:1	my_collect: recv beacon from 04:00 seqn 12 metric 1 rssi -88
+662314322	ID:5	my_collect: recv beacon from 04:00 seqn 12 metric 1 rssi -90
+662314332	ID:2	my_collect: recv beacon from 04:00 seqn 12 metric 1 rssi -80
+662314520	ID:6	my_collect: recv beacon from 04:00 seqn 12 metric 1 rssi -49
+662317457	ID:5	my_collect: new parent 04:00, my metric 2
+662562160	ID:6	my_collect: sending beacon: seqn 12 metric 1
+662572492	ID:1	my_collect: recv beacon from 06:00 seqn 12 metric 1 rssi -58
+662572541	ID:2	my_collect: recv beacon from 06:00 seqn 12 metric 1 rssi -83
+662572541	ID:4	my_collect: recv beacon from 06:00 seqn 12 metric 1 rssi -49
+662871212	ID:9	my_collect: sending beacon: seqn 12 metric 2
+662881518	ID:7	my_collect: recv beacon from 09:00 seqn 12 metric 2 rssi -92
+662881518	ID:8	my_collect: recv beacon from 09:00 seqn 12 metric 2 rssi -75
+662881524	ID:3	my_collect: recv beacon from 09:00 seqn 12 metric 2 rssi -81
+662881535	ID:10	my_collect: recv beacon from 09:00 seqn 12 metric 2 rssi -70
+662979740	ID:5	my_collect: sending beacon: seqn 12 metric 2
+662990044	ID:2	my_collect: recv beacon from 05:00 seqn 12 metric 2 rssi -53
+662990308	ID:4	my_collect: recv beacon from 05:00 seqn 12 metric 2 rssi -90
+666070519	ID:7	App: Send seqn 21
+666073896	ID:7	App: Message seqn 21 sent correctly!
+666081800	ID:1	App: Recv from 07:00 seqn 21 hops 1
+666741518	ID:8	App: Send seqn 21
+666744895	ID:8	App: Message seqn 21 sent correctly!
+666758655	ID:1	App: Recv from 08:00 seqn 21 hops 2
+667505053	ID:6	App: Send seqn 21
+667508430	ID:6	App: Message seqn 21 sent correctly!
+667516258	ID:1	App: Recv from 06:00 seqn 21 hops 1
+668485133	ID:5	App: Send seqn 21
+668488510	ID:5	App: Message seqn 21 sent correctly!
+668502319	ID:1	App: Recv from 05:00 seqn 21 hops 2
+671264002	ID:10	App: Send seqn 21
+671267379	ID:10	App: Message seqn 21 sent correctly!
+671281243	ID:1	App: Recv from 0a:00 seqn 21 hops 2
+671873619	ID:2	App: Send seqn 21
+671876996	ID:2	App: Message seqn 21 sent correctly!
+671884868	ID:1	App: Recv from 02:00 seqn 21 hops 1
+672259749	ID:9	App: Send seqn 21
+672263126	ID:9	App: Message seqn 21 sent correctly!
+672277092	ID:1	App: Recv from 09:00 seqn 21 hops 2
+672774630	ID:4	App: Send seqn 21
+672778007	ID:4	App: Message seqn 21 sent correctly!
+672785832	ID:1	App: Recv from 04:00 seqn 21 hops 1
+674911839	ID:3	App: Send seqn 21
+674915216	ID:3	App: Message seqn 21 sent correctly!
+674923044	ID:1	App: Recv from 03:00 seqn 21 hops 1
+691051928	ID:6	App: Send seqn 22
+691055305	ID:6	App: Message seqn 22 sent correctly!
+691063132	ID:1	App: Recv from 06:00 seqn 22 hops 1
+696821360	ID:5	App: Send seqn 22
+696824737	ID:5	App: Message seqn 22 sent correctly!
+696838500	ID:1	App: Recv from 05:00 seqn 22 hops 2
+698220976	ID:9	App: Send seqn 22
+698224353	ID:9	App: Message seqn 22 sent correctly!
+698238282	ID:1	App: Recv from 09:00 seqn 22 hops 2
+699232994	ID:2	App: Send seqn 22
+699236371	ID:2	App: Message seqn 22 sent correctly!
+699244243	ID:1	App: Recv from 02:00 seqn 22 hops 1
+700196505	ID:4	App: Send seqn 22
+700199882	ID:4	App: Message seqn 22 sent correctly!
+700207707	ID:1	App: Recv from 04:00 seqn 22 hops 1
+700795916	ID:8	App: Send seqn 22
+700799293	ID:8	App: Message seqn 22 sent correctly!
+700813047	ID:1	App: Recv from 08:00 seqn 22 hops 2
+701679894	ID:7	App: Send seqn 22
+701683271	ID:7	App: Message seqn 22 sent correctly!
+701691175	ID:1	App: Recv from 07:00 seqn 22 hops 1
+701935877	ID:10	App: Send seqn 22
+701939254	ID:10	App: Message seqn 22 sent correctly!
+701953125	ID:1	App: Recv from 0a:00 seqn 22 hops 2
+705271214	ID:3	App: Send seqn 22
+705274591	ID:3	App: Message seqn 22 sent correctly!
+705282418	ID:1	App: Recv from 03:00 seqn 22 hops 1
+721662318	ID:1	my_collect: sending beacon: seqn 13 metric 0
+721672717	ID:4	my_collect: recv beacon from 01:00 seqn 13 metric 0 rssi -88
+721672724	ID:2	my_collect: recv beacon from 01:00 seqn 13 metric 0 rssi -68
+721672799	ID:3	my_collect: recv beacon from 01:00 seqn 13 metric 0 rssi -66
+721672799	ID:7	my_collect: recv beacon from 01:00 seqn 13 metric 0 rssi -66
+721672810	ID:6	my_collect: recv beacon from 01:00 seqn 13 metric 0 rssi -58
+722028868	ID:6	App: Send seqn 23
+722032256	ID:6	App: Message seqn 23 sent correctly!
+722040116	ID:1	App: Recv from 06:00 seqn 23 hops 1
+722125749	ID:2	my_collect: sending beacon: seqn 13 metric 1
+722136048	ID:1	my_collect: recv beacon from 02:00 seqn 13 metric 1 rssi -68
+722136050	ID:6	my_collect: recv beacon from 02:00 seqn 13 metric 1 rssi -83
+722136052	ID:4	my_collect: recv beacon from 02:00 seqn 13 metric 1 rssi -80
+722136053	ID:5	my_collect: recv beacon from 02:00 seqn 13 metric 1 rssi -53
+722136143	ID:7	my_collect: recv beacon from 02:00 seqn 13 metric 1 rssi -85
+722139187	ID:5	my_collect: new parent 02:00, my metric 2
+722499576	ID:3	my_collect: sending beacon: seqn 13 metric 1
+722509876	ID:1	my_collect: recv beacon from 03:00 seqn 13 metric 1 rssi -66
+722509879	ID:7	my_collect: recv beacon from 03:00 seqn 13 metric 1 rssi -67
+722509899	ID:9	my_collect: recv beacon from 03:00 seqn 13 metric 1 rssi -81
+722509967	ID:8	my_collect: recv beacon from 03:00 seqn 13 metric 1 rssi -80
+722542344	ID:4	my_collect: sending beacon: seqn 13 metric 1
+722552642	ID:1	my_collect: recv beacon from 04:00 seqn 13 metric 1 rssi -88
+722552645	ID:5	my_collect: recv beacon from 04:00 seqn 13 metric 1 rssi -90
+722552654	ID:2	my_collect: recv beacon from 04:00 seqn 13 metric 1 rssi -80
+722552711	ID:6	my_collect: recv beacon from 04:00 seqn 13 metric 1 rssi -49
+722555779	ID:5	my_collect: new parent 04:00, my metric 2
+722616490	ID:6	my_collect: sending beacon: seqn 13 metric 1
+722626763	ID:1	my_collect: recv beacon from 06:00 seqn 13 metric 1 rssi -58
+722626850	ID:2	my_collect: recv beacon from 06:00 seqn 13 metric 1 rssi -83
+722626853	ID:4	my_collect: recv beacon from 06:00 seqn 13 metric 1 rssi -49
+722658256	ID:7	my_collect: sending beacon: seqn 13 metric 1
+722668560	ID:9	my_collect: recv beacon from 07:00 seqn 13 metric 1 rssi -92
+722668574	ID:10	my_collect: recv beacon from 07:00 seqn 13 metric 1 rssi -64
+722668602	ID:2	my_collect: recv beacon from 07:00 seqn 13 metric 1 rssi -85
+722668621	ID:1	my_collect: recv beacon from 07:00 seqn 13 metric 1 rssi -66
+722668639	ID:3	my_collect: recv beacon from 07:00 seqn 13 metric 1 rssi -67
+722671694	ID:9	my_collect: new parent 07:00, my metric 2
+722832481	ID:9	my_collect: sending beacon: seqn 13 metric 2
+722842794	ID:3	my_collect: recv beacon from 09:00 seqn 13 metric 2 rssi -81
+722842859	ID:7	my_collect: recv beacon from 09:00 seqn 13 metric 2 rssi -92
+722842860	ID:10	my_collect: recv beacon from 09:00 seqn 13 metric 2 rssi -70
+722842861	ID:8	my_collect: recv beacon from 09:00 seqn 13 metric 2 rssi -75
+723190346	ID:5	my_collect: sending beacon: seqn 13 metric 2
+723200731	ID:4	my_collect: recv beacon from 05:00 seqn 13 metric 2 rssi -90
+723200741	ID:2	my_collect: recv beacon from 05:00 seqn 13 metric 2 rssi -53
+723251130	ID:8	my_collect: sending beacon: seqn 13 metric 2
+723261433	ID:3	my_collect: recv beacon from 08:00 seqn 13 metric 2 rssi -80
+723261443	ID:9	my_collect: recv beacon from 08:00 seqn 13 metric 2 rssi -75
+723321109	ID:10	my_collect: sending beacon: seqn 13 metric 2
+723331427	ID:9	my_collect: recv beacon from 0a:00 seqn 13 metric 2 rssi -70
+723331488	ID:7	my_collect: recv beacon from 0a:00 seqn 13 metric 2 rssi -64
+723841237	ID:3	App: Send seqn 23
+723844614	ID:3	App: Message seqn 23 sent correctly!
+723852437	ID:1	App: Recv from 03:00 seqn 23 hops 1
+724335268	ID:8	App: Send seqn 23
+724338645	ID:8	App: Message seqn 23 sent correctly!
+724352369	ID:1	App: Recv from 08:00 seqn 23 hops 2
+729350229	ID:10	App: Send seqn 23
+729353606	ID:10	App: Message seqn 23 sent correctly!
+729367453	ID:1	App: Recv from 0a:00 seqn 23 hops 2
+730303017	ID:2	App: Send seqn 23
+730306394	ID:2	App: Message seqn 23 sent correctly!
+730314219	ID:1	App: Recv from 02:00 seqn 23 hops 1
+731124917	ID:7	App: Send seqn 23
+731128294	ID:7	App: Message seqn 23 sent correctly!
+731136118	ID:1	App: Recv from 07:00 seqn 23 hops 1
+731703883	ID:5	App: Send seqn 23
+731707260	ID:5	App: Message seqn 23 sent correctly!
+731721071	ID:1	App: Recv from 05:00 seqn 23 hops 2
+732978499	ID:9	App: Send seqn 23
+732981876	ID:9	App: Message seqn 23 sent correctly!
+732995674	ID:1	App: Recv from 09:00 seqn 23 hops 2
+734235857	ID:4	App: Send seqn 23
+734239234	ID:4	App: Message seqn 23 sent correctly!
+734247141	ID:1	App: Recv from 04:00 seqn 23 hops 1
+752421792	ID:7	App: Send seqn 24
+752425169	ID:7	App: Message seqn 24 sent correctly!
+752433034	ID:1	App: Recv from 07:00 seqn 24 hops 1
+752694643	ID:8	App: Send seqn 24
+752698020	ID:8	App: Message seqn 24 sent correctly!
+752711779	ID:1	App: Recv from 08:00 seqn 24 hops 2
+753888112	ID:3	App: Send seqn 24
+753891489	ID:3	App: Message seqn 24 sent correctly!
+753899319	ID:1	App: Recv from 03:00 seqn 24 hops 1
+756349892	ID:2	App: Send seqn 24
+756353269	ID:2	App: Message seqn 24 sent correctly!
+756361099	ID:1	App: Recv from 02:00 seqn 24 hops 1
+757959604	ID:10	App: Send seqn 24
+757962981	ID:10	App: Message seqn 24 sent correctly!
+757976787	ID:1	App: Recv from 0a:00 seqn 24 hops 2
+758314726	ID:9	App: Send seqn 24
+758318103	ID:9	App: Message seqn 24 sent correctly!
+758331912	ID:1	App: Recv from 09:00 seqn 24 hops 2
+760013155	ID:6	App: Send seqn 24
+760016532	ID:6	App: Message seqn 24 sent correctly!
+760024358	ID:1	App: Recv from 06:00 seqn 24 hops 1
+760595314	ID:4	App: Send seqn 24
+760598691	ID:4	App: Message seqn 24 sent correctly!
+760606598	ID:1	App: Recv from 04:00 seqn 24 hops 1
+763415110	ID:5	App: Send seqn 24
+763418487	ID:5	App: Message seqn 24 sent correctly!
+763432216	ID:1	App: Recv from 05:00 seqn 24 hops 2
+781662318	ID:1	my_collect: sending beacon: seqn 14 metric 0
+781665255	ID:4	App: Send seqn 25
+781668631	ID:4	App: Message seqn 25 sent correctly!
+781672724	ID:2	my_collect: recv beacon from 01:00 seqn 14 metric 0 rssi -68
+781672799	ID:3	my_collect: recv beacon from 01:00 seqn 14 metric 0 rssi -66
+781672799	ID:7	my_collect: recv beacon from 01:00 seqn 14 metric 0 rssi -66
+781672810	ID:6	my_collect: recv beacon from 01:00 seqn 14 metric 0 rssi -58
+781674658	ID:4	my_collect: recv beacon from 01:00 seqn 14 metric 0 rssi -88
+781682842	ID:1	App: Recv from 04:00 seqn 25 hops 1
+782304594	ID:3	my_collect: sending beacon: seqn 14 metric 1
+782314899	ID:7	my_collect: recv beacon from 03:00 seqn 14 metric 1 rssi -67
+782314976	ID:8	my_collect: recv beacon from 03:00 seqn 14 metric 1 rssi -80
+782314985	ID:1	my_collect: recv beacon from 03:00 seqn 14 metric 1 rssi -66
+782314987	ID:9	my_collect: recv beacon from 03:00 seqn 14 metric 1 rssi -81
+782318122	ID:9	my_collect: new parent 03:00, my metric 2
+782378552	ID:4	my_collect: sending beacon: seqn 14 metric 1
+782388816	ID:5	my_collect: recv beacon from 04:00 seqn 14 metric 1 rssi -90
+782388831	ID:1	my_collect: recv beacon from 04:00 seqn 14 metric 1 rssi -88
+782388906	ID:2	my_collect: recv beacon from 04:00 seqn 14 metric 1 rssi -80
+782388906	ID:6	my_collect: recv beacon from 04:00 seqn 14 metric 1 rssi -49
+782391754	ID:8	my_collect: sending beacon: seqn 14 metric 2
+782402057	ID:3	my_collect: recv beacon from 08:00 seqn 14 metric 2 rssi -80
+782402067	ID:9	my_collect: recv beacon from 08:00 seqn 14 metric 2 rssi -75
+782430106	ID:2	my_collect: sending beacon: seqn 14 metric 1
+782440406	ID:4	my_collect: recv beacon from 02:00 seqn 14 metric 1 rssi -80
+782440408	ID:5	my_collect: recv beacon from 02:00 seqn 14 metric 1 rssi -53
+782440410	ID:6	my_collect: recv beacon from 02:00 seqn 14 metric 1 rssi -83
+782440487	ID:7	my_collect: recv beacon from 02:00 seqn 14 metric 1 rssi -85
+782440495	ID:1	my_collect: recv beacon from 02:00 seqn 14 metric 1 rssi -68
+782443543	ID:5	my_collect: new parent 02:00, my metric 2
+782515285	ID:6	my_collect: sending beacon: seqn 14 metric 1
+782525619	ID:1	my_collect: recv beacon from 06:00 seqn 14 metric 1 rssi -58
+782525668	ID:2	my_collect: recv beacon from 06:00 seqn 14 metric 1 rssi -83
+782525668	ID:4	my_collect: recv beacon from 06:00 seqn 14 metric 1 rssi -49
+782542240	ID:5	my_collect: sending beacon: seqn 14 metric 2
+782552544	ID:2	my_collect: recv beacon from 05:00 seqn 14 metric 2 rssi -53
+782552775	ID:4	my_collect: recv beacon from 05:00 seqn 14 metric 2 rssi -90
+782588274	ID:7	my_collect: sending beacon: seqn 14 metric 1
+782598570	ID:3	my_collect: recv beacon from 07:00 seqn 14 metric 1 rssi -67
+782598615	ID:1	my_collect: recv beacon from 07:00 seqn 14 metric 1 rssi -66
+782598640	ID:2	my_collect: recv beacon from 07:00 seqn 14 metric 1 rssi -85
+782598661	ID:9	my_collect: recv beacon from 07:00 seqn 14 metric 1 rssi -92
+782598661	ID:10	my_collect: recv beacon from 07:00 seqn 14 metric 1 rssi -64
+782601886	ID:9	my_collect: new parent 07:00, my metric 2
+782711734	ID:10	my_collect: sending beacon: seqn 14 metric 2
+782722052	ID:9	my_collect: recv beacon from 0a:00 seqn 14 metric 2 rssi -70
+782722118	ID:7	my_collect: recv beacon from 0a:00 seqn 14 metric 2 rssi -64
+782738731	ID:9	my_collect: sending beacon: seqn 14 metric 2
+782749044	ID:3	my_collect: recv beacon from 09:00 seqn 14 metric 2 rssi -81
+782749116	ID:7	my_collect: recv beacon from 09:00 seqn 14 metric 2 rssi -92
+782749117	ID:8	my_collect: recv beacon from 09:00 seqn 14 metric 2 rssi -75
+782749117	ID:10	my_collect: recv beacon from 09:00 seqn 14 metric 2 rssi -70
+782904627	ID:10	App: Send seqn 25
+782908004	ID:10	App: Message seqn 25 sent correctly!
+782921902	ID:1	App: Recv from 0a:00 seqn 25 hops 2
+786023644	ID:7	App: Send seqn 25
+786027021	ID:7	App: Message seqn 25 sent correctly!
+786034925	ID:1	App: Recv from 07:00 seqn 25 hops 1
+791422633	ID:5	App: Send seqn 25
+791426010	ID:5	App: Message seqn 25 sent correctly!
+791439819	ID:1	App: Recv from 05:00 seqn 25 hops 2
+792114964	ID:3	App: Send seqn 25
+792118341	ID:3	App: Message seqn 25 sent correctly!
+792126168	ID:1	App: Recv from 03:00 seqn 25 hops 1
+793770678	ID:6	App: Send seqn 25
+793774055	ID:6	App: Message seqn 25 sent correctly!
+793781878	ID:1	App: Recv from 06:00 seqn 25 hops 1
+794076744	ID:2	App: Send seqn 25
+794080121	ID:2	App: Message seqn 25 sent correctly!
+794087993	ID:1	App: Recv from 02:00 seqn 25 hops 1
+794197249	ID:9	App: Send seqn 25
+794200626	ID:9	App: Message seqn 25 sent correctly!
+794214439	ID:1	App: Recv from 09:00 seqn 25 hops 2
+794264666	ID:8	App: Send seqn 25
+794268043	ID:8	App: Message seqn 25 sent correctly!
+794281760	ID:1	App: Recv from 08:00 seqn 25 hops 2
+813561119	ID:2	App: Send seqn 26
+813564496	ID:2	App: Message seqn 26 sent correctly!
+813572369	ID:1	App: Recv from 02:00 seqn 26 hops 1
+814942553	ID:6	App: Send seqn 26
+814945930	ID:6	App: Message seqn 26 sent correctly!
+814953755	ID:1	App: Recv from 06:00 seqn 26 hops 1
+817758019	ID:7	App: Send seqn 26
+817761396	ID:7	App: Message seqn 26 sent correctly!
+817769299	ID:1	App: Recv from 07:00 seqn 26 hops 1
+819311541	ID:8	App: Send seqn 26
+819314918	ID:8	App: Message seqn 26 sent correctly!
+819328675	ID:1	App: Recv from 08:00 seqn 26 hops 2
+822599339	ID:3	App: Send seqn 26
+822602716	ID:3	App: Message seqn 26 sent correctly!
+822610546	ID:1	App: Recv from 03:00 seqn 26 hops 1
+823508860	ID:5	App: Send seqn 26
+823512237	ID:5	App: Message seqn 26 sent correctly!
+823525960	ID:1	App: Recv from 05:00 seqn 26 hops 2
+824201502	ID:10	App: Send seqn 26
+824204879	ID:10	App: Message seqn 26 sent correctly!
+824218734	ID:1	App: Recv from 0a:00 seqn 26 hops 2
+824712130	ID:4	App: Send seqn 26
+824715507	ID:4	App: Message seqn 26 sent correctly!
+824723331	ID:1	App: Recv from 04:00 seqn 26 hops 1
+825908476	ID:9	App: Send seqn 26
+825911853	ID:9	App: Message seqn 26 sent correctly!
+825925668	ID:1	App: Recv from 09:00 seqn 26 hops 2
+841606862	ID:3	App: Send seqn 27
+841610239	ID:3	App: Message seqn 27 sent correctly!
+841618070	ID:1	App: Recv from 03:00 seqn 27 hops 1
+841662318	ID:1	my_collect: sending beacon: seqn 15 metric 0
+841672717	ID:4	my_collect: recv beacon from 01:00 seqn 15 metric 0 rssi -88
+841672724	ID:2	my_collect: recv beacon from 01:00 seqn 15 metric 0 rssi -68
+841672799	ID:3	my_collect: recv beacon from 01:00 seqn 15 metric 0 rssi -66
+841672799	ID:7	my_collect: recv beacon from 01:00 seqn 15 metric 0 rssi -66
+841672810	ID:6	my_collect: recv beacon from 01:00 seqn 15 metric 0 rssi -58
+841682969	ID:4	my_collect: sending beacon: seqn 15 metric 1
+841693268	ID:1	my_collect: recv beacon from 04:00 seqn 15 metric 1 rssi -88
+841693272	ID:5	my_collect: recv beacon from 04:00 seqn 15 metric 1 rssi -90
+841693278	ID:2	my_collect: recv beacon from 04:00 seqn 15 metric 1 rssi -80
+841693337	ID:6	my_collect: recv beacon from 04:00 seqn 15 metric 1 rssi -49
+841696405	ID:5	my_collect: new parent 04:00, my metric 2
+841823490	ID:5	my_collect: sending beacon: seqn 15 metric 2
+841833794	ID:2	my_collect: recv beacon from 05:00 seqn 15 metric 2 rssi -53
+841834058	ID:4	my_collect: recv beacon from 05:00 seqn 15 metric 2 rssi -90
+841861381	ID:7	my_collect: sending beacon: seqn 15 metric 1
+841871679	ID:2	my_collect: recv beacon from 07:00 seqn 15 metric 1 rssi -85
+841871680	ID:9	my_collect: recv beacon from 07:00 seqn 15 metric 1 rssi -92
+841871696	ID:10	my_collect: recv beacon from 07:00 seqn 15 metric 1 rssi -64
+841871743	ID:1	my_collect: recv beacon from 07:00 seqn 15 metric 1 rssi -66
+841871760	ID:3	my_collect: recv beacon from 07:00 seqn 15 metric 1 rssi -67
+841952674	ID:3	my_collect: sending beacon: seqn 15 metric 1
+841962945	ID:1	my_collect: recv beacon from 03:00 seqn 15 metric 1 rssi -66
+841962966	ID:7	my_collect: recv beacon from 03:00 seqn 15 metric 1 rssi -67
+841962999	ID:9	my_collect: recv beacon from 03:00 seqn 15 metric 1 rssi -81
+841963037	ID:8	my_collect: recv beacon from 03:00 seqn 15 metric 1 rssi -80
+841966134	ID:9	my_collect: new parent 03:00, my metric 2
+842132142	ID:6	my_collect: sending beacon: seqn 15 metric 1
+842142438	ID:1	my_collect: recv beacon from 06:00 seqn 15 metric 1 rssi -58
+842142528	ID:2	my_collect: recv beacon from 06:00 seqn 15 metric 1 rssi -83
+842142530	ID:4	my_collect: recv beacon from 06:00 seqn 15 metric 1 rssi -49
+842303442	ID:10	App: Send seqn 27
+842306831	ID:10	App: Message seqn 27 sent correctly!
+842320698	ID:1	App: Recv from 0a:00 seqn 27 hops 2
+842414799	ID:10	my_collect: sending beacon: seqn 15 metric 2
+842425068	ID:9	my_collect: recv beacon from 0a:00 seqn 15 metric 2 rssi -70
+842425147	ID:7	my_collect: recv beacon from 0a:00 seqn 15 metric 2 rssi -64
+842566856	ID:9	my_collect: sending beacon: seqn 15 metric 2
+842577168	ID:3	my_collect: recv beacon from 09:00 seqn 15 metric 2 rssi -81
+842577240	ID:7	my_collect: recv beacon from 09:00 seqn 15 metric 2 rssi -92
+842577241	ID:8	my_collect: recv beacon from 09:00 seqn 15 metric 2 rssi -75
+842577241	ID:10	my_collect: recv beacon from 09:00 seqn 15 metric 2 rssi -70
+842578874	ID:2	my_collect: sending beacon: seqn 15 metric 1
+842589172	ID:1	my_collect: recv beacon from 02:00 seqn 15 metric 1 rssi -68
+842589174	ID:6	my_collect: recv beacon from 02:00 seqn 15 metric 1 rssi -83
+842589176	ID:5	my_collect: recv beacon from 02:00 seqn 15 metric 1 rssi -53
+842589177	ID:4	my_collect: recv beacon from 02:00 seqn 15 metric 1 rssi -80
+842589265	ID:7	my_collect: recv beacon from 02:00 seqn 15 metric 1 rssi -85
+842592311	ID:5	my_collect: new parent 02:00, my metric 2
+842659097	ID:5	my_collect: sending beacon: seqn 15 metric 2
+842669480	ID:4	my_collect: recv beacon from 05:00 seqn 15 metric 2 rssi -90
+842669487	ID:2	my_collect: recv beacon from 05:00 seqn 15 metric 2 rssi -53
+842844880	ID:8	my_collect: sending beacon: seqn 15 metric 2
+842855181	ID:3	my_collect: recv beacon from 08:00 seqn 15 metric 2 rssi -80
+842855193	ID:9	my_collect: recv beacon from 08:00 seqn 15 metric 2 rssi -75
+843068642	ID:2	App: Send seqn 27
+843072019	ID:2	App: Message seqn 27 sent correctly!
+843079847	ID:1	App: Recv from 02:00 seqn 27 hops 1
+845640542	ID:7	App: Send seqn 27
+845643919	ID:7	App: Message seqn 27 sent correctly!
+845651742	ID:1	App: Recv from 07:00 seqn 27 hops 1
+848106905	ID:6	App: Send seqn 27
+848110282	ID:6	App: Message seqn 27 sent correctly!
+848118112	ID:1	App: Recv from 06:00 seqn 27 hops 1
+851538393	ID:8	App: Send seqn 27
+851541770	ID:8	App: Message seqn 27 sent correctly!
+851555498	ID:1	App: Recv from 08:00 seqn 27 hops 2
+853438982	ID:4	App: Send seqn 27
+853442359	ID:4	App: Message seqn 27 sent correctly!
+853450266	ID:1	App: Recv from 04:00 seqn 27 hops 1
+854915999	ID:9	App: Send seqn 27
+854919376	ID:9	App: Message seqn 27 sent correctly!
+854933318	ID:1	App: Recv from 09:00 seqn 27 hops 2
+855641383	ID:5	App: Send seqn 27
+855644760	ID:5	App: Message seqn 27 sent correctly!
+855658565	ID:1	App: Recv from 05:00 seqn 27 hops 2
+871562417	ID:7	App: Send seqn 28
+871565794	ID:7	App: Message seqn 28 sent correctly!
+871573618	ID:1	App: Recv from 07:00 seqn 28 hops 1
+872923357	ID:4	App: Send seqn 28
+872926734	ID:4	App: Message seqn 28 sent correctly!
+872934641	ID:1	App: Recv from 04:00 seqn 28 hops 1
+874037729	ID:10	App: Send seqn 28
+874041106	ID:10	App: Message seqn 28 sent correctly!
+874054907	ID:1	App: Recv from 0a:00 seqn 28 hops 2
+878740517	ID:2	App: Send seqn 28
+878743894	ID:2	App: Message seqn 28 sent correctly!
+878751724	ID:1	App: Recv from 02:00 seqn 28 hops 1
+879002226	ID:9	App: Send seqn 28
+879005603	ID:9	App: Message seqn 28 sent correctly!
+879019528	ID:1	App: Recv from 09:00 seqn 28 hops 2
+879102610	ID:5	App: Send seqn 28
+879105987	ID:5	App: Message seqn 28 sent correctly!
+879119715	ID:1	App: Recv from 05:00 seqn 28 hops 2
+882022768	ID:8	App: Send seqn 28
+882026145	ID:8	App: Message seqn 28 sent correctly!
+882039904	ID:1	App: Recv from 08:00 seqn 28 hops 2
+883216280	ID:6	App: Send seqn 28
+883219657	ID:6	App: Message seqn 28 sent correctly!
+883227484	ID:1	App: Recv from 06:00 seqn 28 hops 1
+883278737	ID:3	App: Send seqn 28
+883282114	ID:3	App: Message seqn 28 sent correctly!
+883289945	ID:1	App: Recv from 03:00 seqn 28 hops 1
+901654869	ID:2	App: Send seqn 29
+901658246	ID:2	App: Message seqn 29 sent correctly!
+901662317	ID:1	my_collect: sending beacon: seqn 16 metric 0
+901667355	ID:1	App: Recv from 02:00 seqn 29 hops 1
+901676992	ID:7	my_collect: recv beacon from 01:00 seqn 16 metric 0 rssi -66
+901676994	ID:2	my_collect: recv beacon from 01:00 seqn 16 metric 0 rssi -68
+901677053	ID:6	my_collect: recv beacon from 01:00 seqn 16 metric 0 rssi -58
+901677082	ID:4	my_collect: recv beacon from 01:00 seqn 16 metric 0 rssi -88
+901677083	ID:3	my_collect: recv beacon from 01:00 seqn 16 metric 0 rssi -66
+901831737	ID:4	my_collect: sending beacon: seqn 16 metric 1
+901842040	ID:1	my_collect: recv beacon from 04:00 seqn 16 metric 1 rssi -88
+901842043	ID:5	my_collect: recv beacon from 04:00 seqn 16 metric 1 rssi -90
+901842089	ID:6	my_collect: recv beacon from 04:00 seqn 16 metric 1 rssi -49
+901842132	ID:2	my_collect: recv beacon from 04:00 seqn 16 metric 1 rssi -80
+901845177	ID:5	my_collect: new parent 04:00, my metric 2
+901850892	ID:6	my_collect: sending beacon: seqn 16 metric 1
+901861193	ID:1	my_collect: recv beacon from 06:00 seqn 16 metric 1 rssi -58
+901861278	ID:2	my_collect: recv beacon from 06:00 seqn 16 metric 1 rssi -83
+901861283	ID:4	my_collect: recv beacon from 06:00 seqn 16 metric 1 rssi -49
+902315347	ID:5	my_collect: sending beacon: seqn 16 metric 2
+902325730	ID:4	my_collect: recv beacon from 05:00 seqn 16 metric 2 rssi -90
+902325739	ID:2	my_collect: recv beacon from 05:00 seqn 16 metric 2 rssi -53
+902327700	ID:3	my_collect: sending beacon: seqn 16 metric 1
+902337993	ID:1	my_collect: recv beacon from 03:00 seqn 16 metric 1 rssi -66
+902337998	ID:7	my_collect: recv beacon from 03:00 seqn 16 metric 1 rssi -67
+902338023	ID:9	my_collect: recv beacon from 03:00 seqn 16 metric 1 rssi -81
+902338086	ID:8	my_collect: recv beacon from 03:00 seqn 16 metric 1 rssi -80
+902353899	ID:7	my_collect: sending beacon: seqn 16 metric 1
+902364206	ID:3	my_collect: recv beacon from 07:00 seqn 16 metric 1 rssi -67
+902364249	ID:1	my_collect: recv beacon from 07:00 seqn 16 metric 1 rssi -66
+902364265	ID:2	my_collect: recv beacon from 07:00 seqn 16 metric 1 rssi -85
+902364295	ID:9	my_collect: recv beacon from 07:00 seqn 16 metric 1 rssi -92
+902364295	ID:10	my_collect: recv beacon from 07:00 seqn 16 metric 1 rssi -64
+902367520	ID:9	my_collect: new parent 07:00, my metric 2
+902453814	ID:2	my_collect: sending beacon: seqn 16 metric 1
+902464081	ID:5	my_collect: recv beacon from 02:00 seqn 16 metric 1 rssi -53
+902464081	ID:6	my_collect: recv beacon from 02:00 seqn 16 metric 1 rssi -83
+902464083	ID:1	my_collect: recv beacon from 02:00 seqn 16 metric 1 rssi -68
+902464096	ID:4	my_collect: recv beacon from 02:00 seqn 16 metric 1 rssi -80
+902464172	ID:7	my_collect: recv beacon from 02:00 seqn 16 metric 1 rssi -85
+902467216	ID:5	my_collect: new parent 02:00, my metric 2
+902680484	ID:10	my_collect: sending beacon: seqn 16 metric 2
+902690801	ID:9	my_collect: recv beacon from 0a:00 seqn 16 metric 2 rssi -70
+902690864	ID:7	my_collect: recv beacon from 0a:00 seqn 16 metric 2 rssi -64
+902868648	ID:8	my_collect: sending beacon: seqn 16 metric 2
+902878953	ID:9	my_collect: recv beacon from 08:00 seqn 16 metric 2 rssi -75
+902879041	ID:3	my_collect: recv beacon from 08:00 seqn 16 metric 2 rssi -80
+902941856	ID:9	my_collect: sending beacon: seqn 16 metric 2
+902952168	ID:3	my_collect: recv beacon from 09:00 seqn 16 metric 2 rssi -81
+902952240	ID:7	my_collect: recv beacon from 09:00 seqn 16 metric 2 rssi -92
+902952241	ID:8	my_collect: recv beacon from 09:00 seqn 16 metric 2 rssi -75
+902952242	ID:10	my_collect: recv beacon from 09:00 seqn 16 metric 2 rssi -70
+903002847	ID:5	my_collect: sending beacon: seqn 16 metric 2
+903013226	ID:4	my_collect: recv beacon from 05:00 seqn 16 metric 2 rssi -90
+903013236	ID:2	my_collect: recv beacon from 05:00 seqn 16 metric 2 rssi -53
+904911303	ID:6	App: Send seqn 29
+904914680	ID:6	App: Message seqn 29 sent correctly!
+904922510	ID:1	App: Recv from 06:00 seqn 29 hops 1
+907030291	ID:8	App: Send seqn 29
+907033668	ID:8	App: Message seqn 29 sent correctly!
+907047435	ID:1	App: Recv from 08:00 seqn 29 hops 2
+907420252	ID:10	App: Send seqn 29
+907423629	ID:10	App: Message seqn 29 sent correctly!
+907437532	ID:1	App: Recv from 0a:00 seqn 29 hops 2
+908351769	ID:7	App: Send seqn 29
+908355146	ID:7	App: Message seqn 29 sent correctly!
+908363050	ID:1	App: Recv from 07:00 seqn 29 hops 1
+912693089	ID:3	App: Send seqn 29
+912696466	ID:3	App: Message seqn 29 sent correctly!
+912704294	ID:1	App: Recv from 03:00 seqn 29 hops 1
+913360133	ID:5	App: Send seqn 29
+913363510	ID:5	App: Message seqn 29 sent correctly!
+913377316	ID:1	App: Recv from 05:00 seqn 29 hops 2
+914134749	ID:9	App: Send seqn 29
+914138126	ID:9	App: Message seqn 29 sent correctly!
+914151924	ID:1	App: Recv from 09:00 seqn 29 hops 2
+915430880	ID:4	App: Send seqn 29
+915434257	ID:4	App: Message seqn 29 sent correctly!
+915442086	ID:1	App: Recv from 04:00 seqn 29 hops 1
+935702167	ID:8	App: Send seqn 30
+935705545	ID:8	App: Message seqn 30 sent correctly!
+935719299	ID:1	App: Recv from 08:00 seqn 30 hops 2
+936595977	ID:9	App: Send seqn 30
+936599355	ID:9	App: Message seqn 30 sent correctly!
+936613199	ID:1	App: Recv from 09:00 seqn 30 hops 2
+937102756	ID:4	App: Send seqn 30
+937106134	ID:4	App: Message seqn 30 sent correctly!
+937113961	ID:1	App: Recv from 04:00 seqn 30 hops 1
+937211145	ID:7	App: Send seqn 30
+937214523	ID:7	App: Message seqn 30 sent correctly!
+937222425	ID:1	App: Recv from 07:00 seqn 30 hops 1
+937708179	ID:6	App: Send seqn 30
+937711557	ID:6	App: Message seqn 30 sent correctly!
+937719383	ID:1	App: Recv from 06:00 seqn 30 hops 1
+938302465	ID:3	App: Send seqn 30
+938305843	ID:3	App: Message seqn 30 sent correctly!
+938313670	ID:1	App: Recv from 03:00 seqn 30 hops 1
+939196361	ID:5	App: Send seqn 30
+939199739	ID:5	App: Message seqn 30 sent correctly!
+939213518	ID:1	App: Recv from 05:00 seqn 30 hops 2
+942264245	ID:2	App: Send seqn 30
+942267623	ID:2	App: Message seqn 30 sent correctly!
+942275493	ID:1	App: Recv from 02:00 seqn 30 hops 1
+943342128	ID:10	App: Send seqn 30
+943345506	ID:10	App: Message seqn 30 sent correctly!
+943359368	ID:1	App: Recv from 0a:00 seqn 30 hops 2
+961116519	ID:8	App: Send seqn 31
+961119897	ID:8	App: Message seqn 31 sent correctly!
+961133618	ID:1	App: Recv from 08:00 seqn 31 hops 2
+961662318	ID:1	my_collect: sending beacon: seqn 17 metric 0
+961672717	ID:4	my_collect: recv beacon from 01:00 seqn 17 metric 0 rssi -88
+961672724	ID:2	my_collect: recv beacon from 01:00 seqn 17 metric 0 rssi -68
+961672799	ID:3	my_collect: recv beacon from 01:00 seqn 17 metric 0 rssi -66
+961672799	ID:7	my_collect: recv beacon from 01:00 seqn 17 metric 0 rssi -66
+961672810	ID:6	my_collect: recv beacon from 01:00 seqn 17 metric 0 rssi -58
+961698594	ID:4	my_collect: sending beacon: seqn 17 metric 1
+961708893	ID:1	my_collect: recv beacon from 04:00 seqn 17 metric 1 rssi -88
+961708897	ID:5	my_collect: recv beacon from 04:00 seqn 17 metric 1 rssi -90
+961708903	ID:2	my_collect: recv beacon from 04:00 seqn 17 metric 1 rssi -80
+961708962	ID:6	my_collect: recv beacon from 04:00 seqn 17 metric 1 rssi -49
+961712031	ID:5	my_collect: new parent 04:00, my metric 2
+961780826	ID:3	my_collect: sending beacon: seqn 17 metric 1
+961791123	ID:1	my_collect: recv beacon from 03:00 seqn 17 metric 1 rssi -66
+961791124	ID:7	my_collect: recv beacon from 03:00 seqn 17 metric 1 rssi -67
+961791150	ID:9	my_collect: recv beacon from 03:00 seqn 17 metric 1 rssi -81
+961791214	ID:8	my_collect: recv beacon from 03:00 seqn 17 metric 1 rssi -80
+961794285	ID:9	my_collect: new parent 03:00, my metric 2
+962026615	ID:5	my_collect: sending beacon: seqn 17 metric 2
+962036917	ID:2	my_collect: recv beacon from 05:00 seqn 17 metric 2 rssi -53
+962037181	ID:4	my_collect: recv beacon from 05:00 seqn 17 metric 2 rssi -90
+962406999	ID:2	my_collect: sending beacon: seqn 17 metric 1
+962417299	ID:1	my_collect: recv beacon from 02:00 seqn 17 metric 1 rssi -68
+962417301	ID:6	my_collect: recv beacon from 02:00 seqn 17 metric 1 rssi -83
+962417303	ID:5	my_collect: recv beacon from 02:00 seqn 17 metric 1 rssi -53
+962417304	ID:4	my_collect: recv beacon from 02:00 seqn 17 metric 1 rssi -80
+962417392	ID:7	my_collect: recv beacon from 02:00 seqn 17 metric 1 rssi -85
+962420438	ID:5	my_collect: new parent 02:00, my metric 2
+962439506	ID:7	my_collect: sending beacon: seqn 17 metric 1
+962449822	ID:10	my_collect: recv beacon from 07:00 seqn 17 metric 1 rssi -64
+962449828	ID:9	my_collect: recv beacon from 07:00 seqn 17 metric 1 rssi -92
+962449854	ID:2	my_collect: recv beacon from 07:00 seqn 17 metric 1 rssi -85
+962449873	ID:1	my_collect: recv beacon from 07:00 seqn 17 metric 1 rssi -66
+962449891	ID:3	my_collect: recv beacon from 07:00 seqn 17 metric 1 rssi -67
+962452963	ID:9	my_collect: new parent 07:00, my metric 2
+962488731	ID:9	my_collect: sending beacon: seqn 17 metric 2
+962499043	ID:3	my_collect: recv beacon from 09:00 seqn 17 metric 2 rssi -81
+962499106	ID:7	my_collect: recv beacon from 09:00 seqn 17 metric 2 rssi -92
+962499107	ID:8	my_collect: recv beacon from 09:00 seqn 17 metric 2 rssi -75
+962499107	ID:10	my_collect: recv beacon from 09:00 seqn 17 metric 2 rssi -70
+962522767	ID:6	my_collect: sending beacon: seqn 17 metric 1
+962533060	ID:1	my_collect: recv beacon from 06:00 seqn 17 metric 1 rssi -58
+962533152	ID:2	my_collect: recv beacon from 06:00 seqn 17 metric 1 rssi -83
+962533152	ID:4	my_collect: recv beacon from 06:00 seqn 17 metric 1 rssi -49
+962631568	ID:10	App: Send seqn 31
+962634958	ID:10	App: Message seqn 31 sent correctly!
+962648823	ID:1	App: Recv from 0a:00 seqn 31 hops 2
+962688603	ID:8	my_collect: sending beacon: seqn 17 metric 2
+962698876	ID:3	my_collect: recv beacon from 08:00 seqn 17 metric 2 rssi -80
+962698878	ID:9	my_collect: recv beacon from 08:00 seqn 17 metric 2 rssi -75
+962758549	ID:10	my_collect: sending beacon: seqn 17 metric 2
+962768816	ID:9	my_collect: recv beacon from 0a:00 seqn 17 metric 2 rssi -70
+962768895	ID:7	my_collect: recv beacon from 0a:00 seqn 17 metric 2 rssi -64
+962924722	ID:5	my_collect: sending beacon: seqn 17 metric 2
+962935105	ID:4	my_collect: recv beacon from 05:00 seqn 17 metric 2 rssi -90
+962935112	ID:2	my_collect: recv beacon from 05:00 seqn 17 metric 2 rssi -53
+964709268	ID:2	App: Send seqn 31
+964712646	ID:2	App: Message seqn 31 sent correctly!
+964720478	ID:1	App: Recv from 02:00 seqn 31 hops 1
+971017108	ID:4	App: Send seqn 31
+971020486	ID:4	App: Message seqn 31 sent correctly!
+971028391	ID:1	App: Recv from 04:00 seqn 31 hops 1
+971560031	ID:6	App: Send seqn 31
+971563409	ID:6	App: Message seqn 31 sent correctly!
+971571233	ID:1	App: Recv from 06:00 seqn 31 hops 1
+972031168	ID:7	App: Send seqn 31
+972034546	ID:7	App: Message seqn 31 sent correctly!
+972042371	ID:1	App: Recv from 07:00 seqn 31 hops 1
+973247488	ID:3	App: Send seqn 31
+973250866	ID:3	App: Message seqn 31 sent correctly!
+973258694	ID:1	App: Recv from 03:00 seqn 31 hops 1
+975578884	ID:5	App: Send seqn 31
+975582262	ID:5	App: Message seqn 31 sent correctly!
+975596066	ID:1	App: Recv from 05:00 seqn 31 hops 2
+975853500	ID:9	App: Send seqn 31
+975856878	ID:9	App: Message seqn 31 sent correctly!
+975870684	ID:1	App: Recv from 09:00 seqn 31 hops 2
+991794406	ID:6	App: Send seqn 32
+991797784	ID:6	App: Message seqn 32 sent correctly!
+991805607	ID:1	App: Recv from 06:00 seqn 32 hops 1
+992626483	ID:4	App: Send seqn 32
+992629861	ID:4	App: Message seqn 32 sent correctly!
+992637766	ID:1	App: Recv from 04:00 seqn 32 hops 1
+993544363	ID:3	App: Send seqn 32
+993547741	ID:3	App: Message seqn 32 sent correctly!
+993555569	ID:1	App: Recv from 03:00 seqn 32 hops 1
+993578043	ID:7	App: Send seqn 32
+993581421	ID:7	App: Message seqn 32 sent correctly!
+993589288	ID:1	App: Recv from 07:00 seqn 32 hops 1
+997006143	ID:2	App: Send seqn 32
+997009521	ID:2	App: Message seqn 32 sent correctly!
+997017353	ID:1	App: Recv from 02:00 seqn 32 hops 1
+999490855	ID:10	App: Send seqn 32
+999494233	ID:10	App: Message seqn 32 sent correctly!
+999508031	ID:1	App: Recv from 0a:00 seqn 32 hops 2
+1002725894	ID:8	App: Send seqn 32
+1002729272	ID:8	App: Message seqn 32 sent correctly!
+1002742988	ID:1	App: Recv from 08:00 seqn 32 hops 2
+1004790111	ID:5	App: Send seqn 32
+1004793489	ID:5	App: Message seqn 32 sent correctly!
+1004807209	ID:1	App: Recv from 05:00 seqn 32 hops 2
+1005689727	ID:9	App: Send seqn 32
+1005693105	ID:9	App: Message seqn 32 sent correctly!
+1005706914	ID:1	App: Recv from 09:00 seqn 32 hops 2
+1021662318	ID:1	my_collect: sending beacon: seqn 18 metric 0
+1021672717	ID:4	my_collect: recv beacon from 01:00 seqn 18 metric 0 rssi -88
+1021672724	ID:2	my_collect: recv beacon from 01:00 seqn 18 metric 0 rssi -68
+1021672799	ID:3	my_collect: recv beacon from 01:00 seqn 18 metric 0 rssi -66
+1021672799	ID:7	my_collect: recv beacon from 01:00 seqn 18 metric 0 rssi -66
+1021672810	ID:6	my_collect: recv beacon from 01:00 seqn 18 metric 0 rssi -58
+1021994524	ID:7	my_collect: sending beacon: seqn 18 metric 1
+1022004827	ID:3	my_collect: recv beacon from 07:00 seqn 18 metric 1 rssi -67
+1022004872	ID:1	my_collect: recv beacon from 07:00 seqn 18 metric 1 rssi -66
+1022004890	ID:2	my_collect: recv beacon from 07:00 seqn 18 metric 1 rssi -85
+1022004918	ID:9	my_collect: recv beacon from 07:00 seqn 18 metric 1 rssi -92
+1022004918	ID:10	my_collect: recv beacon from 07:00 seqn 18 metric 1 rssi -64
+1022054895	ID:7	App: Send seqn 33
+1022058273	ID:7	App: Message seqn 33 sent correctly!
+1022066174	ID:1	App: Recv from 07:00 seqn 33 hops 1
+1022210844	ID:3	my_collect: sending beacon: seqn 18 metric 1
+1022221147	ID:7	my_collect: recv beacon from 03:00 seqn 18 metric 1 rssi -67
+1022221227	ID:8	my_collect: recv beacon from 03:00 seqn 18 metric 1 rssi -80
+1022221233	ID:1	my_collect: recv beacon from 03:00 seqn 18 metric 1 rssi -66
+1022221235	ID:9	my_collect: recv beacon from 03:00 seqn 18 metric 1 rssi -81
+1022224370	ID:9	my_collect: new parent 03:00, my metric 2
+1022230588	ID:9	my_collect: sending beacon: seqn 18 metric 2
+1022240888	ID:8	my_collect: recv beacon from 09:00 seqn 18 metric 2 rssi -75
+1022240892	ID:7	my_collect: recv beacon from 09:00 seqn 18 metric 2 rssi -92
+1022240900	ID:3	my_collect: recv beacon from 09:00 seqn 18 metric 2 rssi -81
+1022240909	ID:10	my_collect: recv beacon from 09:00 seqn 18 metric 2 rssi -70
+1022336356	ID:2	my_collect: sending beacon: seqn 18 metric 1
+1022346656	ID:4	my_collect: recv beacon from 02:00 seqn 18 metric 1 rssi -80
+1022346656	ID:6	my_collect: recv beacon from 02:00 seqn 18 metric 1 rssi -83
+1022346657	ID:5	my_collect: recv beacon from 02:00 seqn 18 metric 1 rssi -53
+1022346736	ID:7	my_collect: recv beacon from 02:00 seqn 18 metric 1 rssi -85
+1022346744	ID:1	my_collect: recv beacon from 02:00 seqn 18 metric 1 rssi -68
+1022546535	ID:6	my_collect: sending beacon: seqn 18 metric 1
+1022556863	ID:1	my_collect: recv beacon from 06:00 seqn 18 metric 1 rssi -58
+1022556907	ID:2	my_collect: recv beacon from 06:00 seqn 18 metric 1 rssi -83
+1022556912	ID:4	my_collect: recv beacon from 06:00 seqn 18 metric 1 rssi -49
+1022579255	ID:8	my_collect: sending beacon: seqn 18 metric 2
+1022589557	ID:3	my_collect: recv beacon from 08:00 seqn 18 metric 2 rssi -80
+1022589569	ID:9	my_collect: recv beacon from 08:00 seqn 18 metric 2 rssi -75
+1022659862	ID:4	my_collect: sending beacon: seqn 18 metric 1
+1022670159	ID:1	my_collect: recv beacon from 04:00 seqn 18 metric 1 rssi -88
+1022670164	ID:5	my_collect: recv beacon from 04:00 seqn 18 metric 1 rssi -90
+1022670210	ID:6	my_collect: recv beacon from 04:00 seqn 18 metric 1 rssi -49
+1022670253	ID:2	my_collect: recv beacon from 04:00 seqn 18 metric 1 rssi -80
+1022673298	ID:5	my_collect: new parent 04:00, my metric 2
+1022899234	ID:10	my_collect: sending beacon: seqn 18 metric 2
+1022909552	ID:9	my_collect: recv beacon from 0a:00 seqn 18 metric 2 rssi -70
+1022909618	ID:7	my_collect: recv beacon from 0a:00 seqn 18 metric 2 rssi -64
+1023651615	ID:5	my_collect: sending beacon: seqn 18 metric 2
+1023661910	ID:2	my_collect: recv beacon from 05:00 seqn 18 metric 2 rssi -53
+1023662181	ID:4	my_collect: recv beacon from 05:00 seqn 18 metric 2 rssi -90
+1025607995	ID:2	App: Send seqn 33
+1025611373	ID:2	App: Message seqn 33 sent correctly!
+1025619243	ID:1	App: Recv from 02:00 seqn 33 hops 1
+1029646215	ID:3	App: Send seqn 33
+1029649593	ID:3	App: Message seqn 33 sent correctly!
+1029657424	ID:1	App: Recv from 03:00 seqn 33 hops 1
+1030297634	ID:5	App: Send seqn 33
+1030301012	ID:5	App: Message seqn 33 sent correctly!
+1030314815	ID:1	App: Recv from 05:00 seqn 33 hops 2
+1030810878	ID:10	App: Send seqn 33
+1030814256	ID:10	App: Message seqn 33 sent correctly!
+1030828115	ID:1	App: Recv from 0a:00 seqn 33 hops 2
+1031071506	ID:4	App: Send seqn 33
+1031074884	ID:4	App: Message seqn 33 sent correctly!
+1031082711	ID:1	App: Recv from 04:00 seqn 33 hops 1
+1033670917	ID:8	App: Send seqn 33
+1033674295	ID:8	App: Message seqn 33 sent correctly!
+1033688018	ID:1	App: Recv from 08:00 seqn 33 hops 2
+1034072250	ID:9	App: Send seqn 33
+1034075628	ID:9	App: Message seqn 33 sent correctly!
+1034089570	ID:1	App: Recv from 09:00 seqn 33 hops 2
+1034926929	ID:6	App: Send seqn 33
+1034930307	ID:6	App: Message seqn 33 sent correctly!
+1034938131	ID:1	App: Recv from 06:00 seqn 33 hops 1
+1051348804	ID:6	App: Send seqn 34
+1051352182	ID:6	App: Message seqn 34 sent correctly!
+1051360006	ID:1	App: Recv from 06:00 seqn 34 hops 1
+1051967792	ID:8	App: Send seqn 34
+1051971170	ID:8	App: Message seqn 34 sent correctly!
+1051984932	ID:1	App: Recv from 08:00 seqn 34 hops 2
+1054342370	ID:2	App: Send seqn 34
+1054345748	ID:2	App: Message seqn 34 sent correctly!
+1054353618	ID:1	App: Recv from 02:00 seqn 34 hops 1
+1055883861	ID:5	App: Send seqn 34
+1055887239	ID:5	App: Message seqn 34 sent correctly!
+1055901019	ID:1	App: Recv from 05:00 seqn 34 hops 2
+1056368381	ID:4	App: Send seqn 34
+1056371759	ID:4	App: Message seqn 34 sent correctly!
+1056379591	ID:1	App: Recv from 04:00 seqn 34 hops 1
+1057283477	ID:9	App: Send seqn 34
+1057286855	ID:9	App: Message seqn 34 sent correctly!
+1057300788	ID:1	App: Recv from 09:00 seqn 34 hops 2
+1058380590	ID:3	App: Send seqn 34
+1058383968	ID:3	App: Message seqn 34 sent correctly!
+1058391799	ID:1	App: Recv from 03:00 seqn 34 hops 1
+1065039270	ID:7	App: Send seqn 34
+1065042648	ID:7	App: Message seqn 34 sent correctly!
+1065050550	ID:1	App: Recv from 07:00 seqn 34 hops 1
+1065357753	ID:10	App: Send seqn 34
+1065361131	ID:10	App: Message seqn 34 sent correctly!
+1065374999	ID:1	App: Recv from 0a:00 seqn 34 hops 2
+1081662318	ID:1	my_collect: sending beacon: seqn 19 metric 0
+1081672717	ID:4	my_collect: recv beacon from 01:00 seqn 19 metric 0 rssi -88
+1081672724	ID:2	my_collect: recv beacon from 01:00 seqn 19 metric 0 rssi -68
+1081672799	ID:3	my_collect: recv beacon from 01:00 seqn 19 metric 0 rssi -66
+1081672799	ID:7	my_collect: recv beacon from 01:00 seqn 19 metric 0 rssi -66
+1081672810	ID:6	my_collect: recv beacon from 01:00 seqn 19 metric 0 rssi -58
+1081788392	ID:6	my_collect: sending beacon: seqn 19 metric 1
+1081798693	ID:1	my_collect: recv beacon from 06:00 seqn 19 metric 1 rssi -58
+1081798778	ID:2	my_collect: recv beacon from 06:00 seqn 19 metric 1 rssi -83
+1081798785	ID:4	my_collect: recv beacon from 06:00 seqn 19 metric 1 rssi -49
+1081983951	ID:3	my_collect: sending beacon: seqn 19 metric 1
+1081994255	ID:1	my_collect: recv beacon from 03:00 seqn 19 metric 1 rssi -66
+1081994255	ID:7	my_collect: recv beacon from 03:00 seqn 19 metric 1 rssi -67
+1081994274	ID:9	my_collect: recv beacon from 03:00 seqn 19 metric 1 rssi -81
+1081994344	ID:8	my_collect: recv beacon from 03:00 seqn 19 metric 1 rssi -80
+1082152463	ID:9	my_collect: sending beacon: seqn 19 metric 2
+1082162762	ID:8	my_collect: recv beacon from 09:00 seqn 19 metric 2 rssi -75
+1082162766	ID:7	my_collect: recv beacon from 09:00 seqn 19 metric 2 rssi -92
+1082162774	ID:3	my_collect: recv beacon from 09:00 seqn 19 metric 2 rssi -81
+1082162785	ID:10	my_collect: recv beacon from 09:00 seqn 19 metric 2 rssi -70
+1082165920	ID:10	my_collect: new parent 09:00, my metric 3
+1082392631	ID:7	my_collect: sending beacon: seqn 19 metric 1
+1082402946	ID:10	my_collect: recv beacon from 07:00 seqn 19 metric 1 rssi -64
+1082402954	ID:9	my_collect: recv beacon from 07:00 seqn 19 metric 1 rssi -92
+1082402980	ID:2	my_collect: recv beacon from 07:00 seqn 19 metric 1 rssi -85
+1082403000	ID:1	my_collect: recv beacon from 07:00 seqn 19 metric 1 rssi -66
+1082403017	ID:3	my_collect: recv beacon from 07:00 seqn 19 metric 1 rssi -67
+1082406081	ID:10	my_collect: new parent 07:00, my metric 2
+1082406088	ID:9	my_collect: new parent 07:00, my metric 2
+1082589219	ID:4	my_collect: sending beacon: seqn 19 metric 1
+1082599518	ID:1	my_collect: recv beacon from 04:00 seqn 19 metric 1 rssi -88
+1082599521	ID:5	my_collect: recv beacon from 04:00 seqn 19 metric 1 rssi -90
+1082599528	ID:2	my_collect: recv beacon from 04:00 seqn 19 metric 1 rssi -80
+1082599587	ID:6	my_collect: recv beacon from 04:00 seqn 19 metric 1 rssi -49
+1082610124	ID:2	my_collect: sending beacon: seqn 19 metric 1
+1082620426	ID:1	my_collect: recv beacon from 02:00 seqn 19 metric 1 rssi -68
+1082620429	ID:6	my_collect: recv beacon from 02:00 seqn 19 metric 1 rssi -83
+1082620430	ID:5	my_collect: recv beacon from 02:00 seqn 19 metric 1 rssi -53
+1082620431	ID:4	my_collect: recv beacon from 02:00 seqn 19 metric 1 rssi -80
+1082620519	ID:7	my_collect: recv beacon from 02:00 seqn 19 metric 1 rssi -85
+1082623565	ID:5	my_collect: new parent 02:00, my metric 2
+1082782380	ID:8	my_collect: sending beacon: seqn 19 metric 2
+1082792683	ID:3	my_collect: recv beacon from 08:00 seqn 19 metric 2 rssi -80
+1082792692	ID:9	my_collect: recv beacon from 08:00 seqn 19 metric 2 rssi -75
+1082879356	ID:9	my_collect: sending beacon: seqn 19 metric 2
+1082889668	ID:3	my_collect: recv beacon from 09:00 seqn 19 metric 2 rssi -81
+1082889740	ID:7	my_collect: recv beacon from 09:00 seqn 19 metric 2 rssi -92
+1082889741	ID:8	my_collect: recv beacon from 09:00 seqn 19 metric 2 rssi -75
+1082889751	ID:10	my_collect: recv beacon from 09:00 seqn 19 metric 2 rssi -70
+1082893499	ID:10	my_collect: sending beacon: seqn 19 metric 2
+1082903890	ID:7	my_collect: recv beacon from 0a:00 seqn 19 metric 2 rssi -64
+1082903969	ID:9	my_collect: recv beacon from 0a:00 seqn 19 metric 2 rssi -70
+1083565346	ID:5	my_collect: sending beacon: seqn 19 metric 2
+1083575723	ID:4	my_collect: recv beacon from 05:00 seqn 19 metric 2 rssi -90
+1083575733	ID:2	my_collect: recv beacon from 05:00 seqn 19 metric 2 rssi -53
+1085763113	ID:3	App: Send seqn 35
+1085766491	ID:3	App: Message seqn 35 sent correctly!
+1085774324	ID:1	App: Recv from 03:00 seqn 35 hops 1
+1085970233	ID:4	App: Send seqn 35
+1085973611	ID:4	App: Message seqn 35 sent correctly!
+1085981517	ID:1	App: Recv from 04:00 seqn 35 hops 1
+1087069644	ID:8	App: Send seqn 35
+1087073022	ID:8	App: Message seqn 35 sent correctly!
+1087086744	ID:1	App: Recv from 08:00 seqn 35 hops 2
+1087516384	ID:5	App: Send seqn 35
+1087519762	ID:5	App: Message seqn 35 sent correctly!
+1087533569	ID:1	App: Recv from 05:00 seqn 35 hops 2
+1089388156	ID:6	App: Send seqn 35
+1089391534	ID:6	App: Message seqn 35 sent correctly!
+1089399357	ID:1	App: Recv from 06:00 seqn 35 hops 1
+1090296793	ID:7	App: Send seqn 35
+1090300171	ID:7	App: Message seqn 35 sent correctly!
+1090308038	ID:1	App: Recv from 07:00 seqn 35 hops 1
+1090334605	ID:10	App: Send seqn 35
+1090337983	ID:10	App: Message seqn 35 sent correctly!
+1090351781	ID:1	App: Recv from 0a:00 seqn 35 hops 2
+1091791000	ID:9	App: Send seqn 35
+1091794378	ID:9	App: Message seqn 35 sent correctly!
+1091808184	ID:1	App: Recv from 09:00 seqn 35 hops 2
+1092224893	ID:2	App: Send seqn 35
+1092228271	ID:2	App: Message seqn 35 sent correctly!
+1092236099	ID:1	App: Recv from 02:00 seqn 35 hops 1
+1112704608	ID:4	App: Send seqn 36
+1112707986	ID:4	App: Message seqn 36 sent correctly!
+1112715892	ID:1	App: Recv from 04:00 seqn 36 hops 1
+1116377227	ID:9	App: Send seqn 36
+1116380605	ID:9	App: Message seqn 36 sent correctly!
+1116394449	ID:1	App: Recv from 09:00 seqn 36 hops 2
+1116468668	ID:7	App: Send seqn 36
+1116472046	ID:7	App: Message seqn 36 sent correctly!
+1116479912	ID:1	App: Recv from 07:00 seqn 36 hops 1
+1117684988	ID:3	App: Send seqn 36
+1117688366	ID:3	App: Message seqn 36 sent correctly!
+1117696197	ID:1	App: Recv from 03:00 seqn 36 hops 1
+1120747531	ID:6	App: Send seqn 36
+1120750909	ID:6	App: Message seqn 36 sent correctly!
+1120758734	ID:1	App: Recv from 06:00 seqn 36 hops 1
+1122477611	ID:5	App: Send seqn 36
+1122480989	ID:5	App: Message seqn 36 sent correctly!
+1122494738	ID:1	App: Recv from 05:00 seqn 36 hops 2
+1123804019	ID:8	App: Send seqn 36
+1123807397	ID:8	App: Message seqn 36 sent correctly!
+1123821119	ID:1	App: Recv from 08:00 seqn 36 hops 2
+1124076503	ID:10	App: Send seqn 36
+1124079881	ID:10	App: Message seqn 36 sent correctly!
+1124093738	ID:1	App: Recv from 0a:00 seqn 36 hops 2
+1125146768	ID:2	App: Send seqn 36
+1125150146	ID:2	App: Message seqn 36 sent correctly!
+1125157977	ID:1	App: Recv from 02:00 seqn 36 hops 1
+1141662318	ID:1	my_collect: sending beacon: seqn 20 metric 0
+1141672717	ID:4	my_collect: recv beacon from 01:00 seqn 20 metric 0 rssi -88
+1141672724	ID:2	my_collect: recv beacon from 01:00 seqn 20 metric 0 rssi -68
+1141672799	ID:3	my_collect: recv beacon from 01:00 seqn 20 metric 0 rssi -66
+1141672799	ID:7	my_collect: recv beacon from 01:00 seqn 20 metric 0 rssi -66
+1141672810	ID:6	my_collect: recv beacon from 01:00 seqn 20 metric 0 rssi -58
+1141862987	ID:4	my_collect: sending beacon: seqn 20 metric 1
+1141873279	ID:1	my_collect: recv beacon from 04:00 seqn 20 metric 1 rssi -88
+1141873282	ID:5	my_collect: recv beacon from 04:00 seqn 20 metric 1 rssi -90
+1141873328	ID:6	my_collect: recv beacon from 04:00 seqn 20 metric 1 rssi -49
+1141873371	ID:2	my_collect: recv beacon from 04:00 seqn 20 metric 1 rssi -80
+1141876416	ID:5	my_collect: new parent 04:00, my metric 2
+1141976469	ID:3	my_collect: sending beacon: seqn 20 metric 1
+1141986774	ID:7	my_collect: recv beacon from 03:00 seqn 20 metric 1 rssi -67
+1141986851	ID:8	my_collect: recv beacon from 03:00 seqn 20 metric 1 rssi -80
+1141986860	ID:1	my_collect: recv beacon from 03:00 seqn 20 metric 1 rssi -66
+1141986862	ID:9	my_collect: recv beacon from 03:00 seqn 20 metric 1 rssi -81
+1141989997	ID:9	my_collect: new parent 03:00, my metric 2
+1141994037	ID:9	my_collect: sending beacon: seqn 20 metric 2
+1142004588	ID:7	my_collect: recv beacon from 09:00 seqn 20 metric 2 rssi -92
+1142004590	ID:8	my_collect: recv beacon from 09:00 seqn 20 metric 2 rssi -75
+1142004625	ID:3	my_collect: recv beacon from 09:00 seqn 20 metric 2 rssi -81
+1142004679	ID:10	my_collect: recv beacon from 09:00 seqn 20 metric 2 rssi -70
+1142007814	ID:10	my_collect: new parent 09:00, my metric 3
+1142101981	ID:2	my_collect: sending beacon: seqn 20 metric 1
+1142112279	ID:4	my_collect: recv beacon from 02:00 seqn 20 metric 1 rssi -80
+1142112280	ID:6	my_collect: recv beacon from 02:00 seqn 20 metric 1 rssi -83
+1142112281	ID:5	my_collect: recv beacon from 02:00 seqn 20 metric 1 rssi -53
+1142112359	ID:7	my_collect: recv beacon from 02:00 seqn 20 metric 1 rssi -85
+1142112367	ID:1	my_collect: recv beacon from 02:00 seqn 20 metric 1 rssi -68
+1142115415	ID:5	my_collect: new parent 02:00, my metric 2
+1142422341	ID:10	my_collect: sending beacon: seqn 20 metric 3
+1142432703	ID:9	my_collect: recv beacon from 0a:00 seqn 20 metric 3 rssi -70
+1142432732	ID:7	my_collect: recv beacon from 0a:00 seqn 20 metric 3 rssi -64
+1142510149	ID:7	my_collect: sending beacon: seqn 20 metric 1
+1142520452	ID:3	my_collect: recv beacon from 07:00 seqn 20 metric 1 rssi -67
+1142520497	ID:1	my_collect: recv beacon from 07:00 seqn 20 metric 1 rssi -66
+1142520515	ID:2	my_collect: recv beacon from 07:00 seqn 20 metric 1 rssi -85
+1142520543	ID:9	my_collect: recv beacon from 07:00 seqn 20 metric 1 rssi -92
+1142520543	ID:10	my_collect: recv beacon from 07:00 seqn 20 metric 1 rssi -64
+1142523678	ID:10	my_collect: new parent 07:00, my metric 2
+1142523768	ID:9	my_collect: new parent 07:00, my metric 2
+1142526615	ID:5	my_collect: sending beacon: seqn 20 metric 2
+1142536917	ID:2	my_collect: recv beacon from 05:00 seqn 20 metric 2 rssi -53
+1142537180	ID:4	my_collect: recv beacon from 05:00 seqn 20 metric 2 rssi -90
+1142548004	ID:8	my_collect: sending beacon: seqn 20 metric 2
+1142558307	ID:3	my_collect: recv beacon from 08:00 seqn 20 metric 2 rssi -80
+1142558317	ID:9	my_collect: recv beacon from 08:00 seqn 20 metric 2 rssi -75
+1142624660	ID:6	my_collect: sending beacon: seqn 20 metric 1
+1142634996	ID:1	my_collect: recv beacon from 06:00 seqn 20 metric 1 rssi -58
+1142635045	ID:2	my_collect: recv beacon from 06:00 seqn 20 metric 1 rssi -83
+1142635045	ID:4	my_collect: recv beacon from 06:00 seqn 20 metric 1 rssi -49
+1142973106	ID:9	my_collect: sending beacon: seqn 20 metric 2
+1142983418	ID:3	my_collect: recv beacon from 09:00 seqn 20 metric 2 rssi -81
+1142983491	ID:7	my_collect: recv beacon from 09:00 seqn 20 metric 2 rssi -92
+1142983491	ID:8	my_collect: recv beacon from 09:00 seqn 20 metric 2 rssi -75
+1142983491	ID:10	my_collect: recv beacon from 09:00 seqn 20 metric 2 rssi -70
+1143102359	ID:10	my_collect: sending beacon: seqn 20 metric 2
+1143112677	ID:9	my_collect: recv beacon from 0a:00 seqn 20 metric 2 rssi -70
+1143112745	ID:7	my_collect: recv beacon from 0a:00 seqn 20 metric 2 rssi -64
+1143936120	ID:2	App: Send seqn 37
+1143939498	ID:2	App: Message seqn 37 sent correctly!
+1143947368	ID:1	App: Recv from 02:00 seqn 37 hops 1
+1144133020	ID:7	App: Send seqn 37
+1144136398	ID:7	App: Message seqn 37 sent correctly!
+1144144299	ID:1	App: Recv from 07:00 seqn 37 hops 1
+1145817554	ID:6	App: Send seqn 37
+1145820932	ID:6	App: Message seqn 37 sent correctly!
+1145828760	ID:1	App: Recv from 06:00 seqn 37 hops 1
+1146009750	ID:9	App: Send seqn 37
+1146013128	ID:9	App: Message seqn 37 sent correctly!
+1146026931	ID:1	App: Recv from 09:00 seqn 37 hops 2
+1151587131	ID:4	App: Send seqn 37
+1151590509	ID:4	App: Message seqn 37 sent correctly!
+1151598337	ID:1	App: Recv from 04:00 seqn 37 hops 1
+1153235134	ID:5	App: Send seqn 37
+1153238512	ID:5	App: Message seqn 37 sent correctly!
+1153252315	ID:1	App: Recv from 05:00 seqn 37 hops 2
+1153974340	ID:3	App: Send seqn 37
+1153977718	ID:3	App: Message seqn 37 sent correctly!
+1153985545	ID:1	App: Recv from 03:00 seqn 37 hops 1
+1154186542	ID:8	App: Send seqn 37
+1154189920	ID:8	App: Message seqn 37 sent correctly!
+1154203649	ID:1	App: Recv from 08:00 seqn 37 hops 2
+1155678355	ID:10	App: Send seqn 37
+1155681733	ID:10	App: Message seqn 37 sent correctly!
+1155695527	ID:1	App: Recv from 0a:00 seqn 37 hops 2
+1172242395	ID:7	App: Send seqn 38
+1172245773	ID:7	App: Message seqn 38 sent correctly!
+1172253675	ID:1	App: Recv from 07:00 seqn 38 hops 1
+1172833715	ID:3	App: Send seqn 38
+1172837093	ID:3	App: Message seqn 38 sent correctly!
+1172844919	ID:1	App: Recv from 03:00 seqn 38 hops 1
+1175509006	ID:4	App: Send seqn 38
+1175512384	ID:4	App: Message seqn 38 sent correctly!
+1175520208	ID:1	App: Recv from 04:00 seqn 38 hops 1
+1181795495	ID:2	App: Send seqn 38
+1181798873	ID:2	App: Message seqn 38 sent correctly!
+1181806741	ID:1	App: Recv from 02:00 seqn 38 hops 1
+1183295253	ID:10	App: Send seqn 38
+1183298631	ID:10	App: Message seqn 38 sent correctly!
+1183312490	ID:1	App: Recv from 0a:00 seqn 38 hops 2
+1183571361	ID:5	App: Send seqn 38
+1183574739	ID:5	App: Message seqn 38 sent correctly!
+1183588458	ID:1	App: Recv from 05:00 seqn 38 hops 2
+1183864429	ID:6	App: Send seqn 38
+1183867807	ID:6	App: Message seqn 38 sent correctly!
+1183875633	ID:1	App: Recv from 06:00 seqn 38 hops 1
+1184108417	ID:8	App: Send seqn 38
+1184111795	ID:8	App: Message seqn 38 sent correctly!
+1184125521	ID:1	App: Recv from 08:00 seqn 38 hops 2
+1184970977	ID:9	App: Send seqn 38
+1184974355	ID:9	App: Message seqn 38 sent correctly!
+1184988171	ID:1	App: Recv from 09:00 seqn 38 hops 2
+1201662318	ID:1	my_collect: sending beacon: seqn 21 metric 0
+1201672717	ID:4	my_collect: recv beacon from 01:00 seqn 21 metric 0 rssi -88
+1201672724	ID:2	my_collect: recv beacon from 01:00 seqn 21 metric 0 rssi -68
+1201672799	ID:3	my_collect: recv beacon from 01:00 seqn 21 metric 0 rssi -66
+1201672799	ID:7	my_collect: recv beacon from 01:00 seqn 21 metric 0 rssi -66
+1201672810	ID:6	my_collect: recv beacon from 01:00 seqn 21 metric 0 rssi -58
+1201720755	ID:7	my_collect: sending beacon: seqn 21 metric 1
+1201731073	ID:10	my_collect: recv beacon from 07:00 seqn 21 metric 1 rssi -64
+1201731077	ID:9	my_collect: recv beacon from 07:00 seqn 21 metric 1 rssi -92
+1201731103	ID:2	my_collect: recv beacon from 07:00 seqn 21 metric 1 rssi -85
+1201731123	ID:1	my_collect: recv beacon from 07:00 seqn 21 metric 1 rssi -66
+1201731143	ID:3	my_collect: recv beacon from 07:00 seqn 21 metric 1 rssi -67
+1201929017	ID:6	my_collect: sending beacon: seqn 21 metric 1
+1201939318	ID:1	my_collect: recv beacon from 06:00 seqn 21 metric 1 rssi -58
+1201939403	ID:2	my_collect: recv beacon from 06:00 seqn 21 metric 1 rssi -83
+1201939408	ID:4	my_collect: recv beacon from 06:00 seqn 21 metric 1 rssi -49
+1202074338	ID:9	my_collect: sending beacon: seqn 21 metric 2
+1202084638	ID:8	my_collect: recv beacon from 09:00 seqn 21 metric 2 rssi -75
+1202084642	ID:7	my_collect: recv beacon from 09:00 seqn 21 metric 2 rssi -92
+1202084648	ID:3	my_collect: recv beacon from 09:00 seqn 21 metric 2 rssi -81
+1202084659	ID:10	my_collect: recv beacon from 09:00 seqn 21 metric 2 rssi -70
+1202087773	ID:8	my_collect: new parent 09:00, my metric 3
+1202117984	ID:10	my_collect: sending beacon: seqn 21 metric 2
+1202128301	ID:9	my_collect: recv beacon from 0a:00 seqn 21 metric 2 rssi -70
+1202128364	ID:7	my_collect: recv beacon from 0a:00 seqn 21 metric 2 rssi -64
+1202188249	ID:2	my_collect: sending beacon: seqn 21 metric 1
+1202198551	ID:1	my_collect: recv beacon from 02:00 seqn 21 metric 1 rssi -68
+1202198554	ID:6	my_collect: recv beacon from 02:00 seqn 21 metric 1 rssi -83
+1202198555	ID:5	my_collect: recv beacon from 02:00 seqn 21 metric 1 rssi -53
+1202198556	ID:4	my_collect: recv beacon from 02:00 seqn 21 metric 1 rssi -80
+1202198644	ID:7	my_collect: recv beacon from 02:00 seqn 21 metric 1 rssi -85
+1202354843	ID:4	my_collect: sending beacon: seqn 21 metric 1
+1202365136	ID:1	my_collect: recv beacon from 04:00 seqn 21 metric 1 rssi -88
+1202365139	ID:5	my_collect: recv beacon from 04:00 seqn 21 metric 1 rssi -90
+1202365153	ID:2	my_collect: recv beacon from 04:00 seqn 21 metric 1 rssi -80
+1202365205	ID:6	my_collect: recv beacon from 04:00 seqn 21 metric 1 rssi -49
+1202368273	ID:5	my_collect: new parent 04:00, my metric 2
+1202562076	ID:3	my_collect: sending beacon: seqn 21 metric 1
+1202572381	ID:1	my_collect: recv beacon from 03:00 seqn 21 metric 1 rssi -66
+1202572399	ID:9	my_collect: recv beacon from 03:00 seqn 21 metric 1 rssi -81
+1202572409	ID:7	my_collect: recv beacon from 03:00 seqn 21 metric 1 rssi -67
+1202572471	ID:8	my_collect: recv beacon from 03:00 seqn 21 metric 1 rssi -80
+1202575534	ID:9	my_collect: new parent 03:00, my metric 2
+1202575696	ID:8	my_collect: new parent 03:00, my metric 2
+1202752847	ID:5	my_collect: sending beacon: seqn 21 metric 2
+1202763232	ID:4	my_collect: recv beacon from 05:00 seqn 21 metric 2 rssi -90
+1202763242	ID:2	my_collect: recv beacon from 05:00 seqn 21 metric 2 rssi -53
+1203485505	ID:8	my_collect: sending beacon: seqn 21 metric 2
+1203488731	ID:9	my_collect: sending beacon: seqn 21 metric 2
+1203495810	ID:3	my_collect: recv beacon from 08:00 seqn 21 metric 2 rssi -80
+1203499150	ID:10	my_collect: recv beacon from 09:00 seqn 21 metric 2 rssi -70
+1203499155	ID:7	my_collect: recv beacon from 09:00 seqn 21 metric 2 rssi -92
+1203499156	ID:8	my_collect: recv beacon from 09:00 seqn 21 metric 2 rssi -75
+1203499326	ID:9	my_collect: recv beacon from 08:00 seqn 21 metric 2 rssi -75
+1203501888	ID:3	my_collect: recv beacon from 09:00 seqn 21 metric 2 rssi -81
+1204397769	ID:8	App: Send seqn 39
+1204401147	ID:8	App: Message seqn 39 sent correctly!
+1204414909	ID:1	App: Recv from 08:00 seqn 39 hops 2
+1206453884	ID:5	App: Send seqn 39
+1206457262	ID:5	App: Message seqn 39 sent correctly!
+1206471065	ID:1	App: Recv from 05:00 seqn 39 hops 2
+1207615518	ID:2	App: Send seqn 39
+1207618896	ID:2	App: Message seqn 39 sent correctly!
+1207626728	ID:1	App: Recv from 02:00 seqn 39 hops 1
+1211298358	ID:4	App: Send seqn 39
+1211301736	ID:4	App: Message seqn 39 sent correctly!
+1211309641	ID:1	App: Recv from 04:00 seqn 39 hops 1
+1211522105	ID:10	App: Send seqn 39
+1211525483	ID:10	App: Message seqn 39 sent correctly!
+1211539325	ID:1	App: Recv from 0a:00 seqn 39 hops 2
+1212153738	ID:3	App: Send seqn 39
+1212157116	ID:3	App: Message seqn 39 sent correctly!
+1212164940	ID:1	App: Recv from 03:00 seqn 39 hops 1
+1212591281	ID:6	App: Send seqn 39
+1212594659	ID:6	App: Message seqn 39 sent correctly!
+1212602484	ID:1	App: Recv from 06:00 seqn 39 hops 1
+1213728500	ID:9	App: Send seqn 39
+1213731878	ID:9	App: Message seqn 39 sent correctly!
+1213745818	ID:1	App: Recv from 09:00 seqn 39 hops 2
+1214437418	ID:7	App: Send seqn 39
+1214440796	ID:7	App: Message seqn 39 sent correctly!
+1214448621	ID:1	App: Recv from 07:00 seqn 39 hops 1
+1233162392	ID:2	App: Send seqn 40
+1233165769	ID:2	App: Message seqn 40 sent correctly!
+1233173599	ID:1	App: Recv from 02:00 seqn 40 hops 1
+1240064726	ID:9	App: Send seqn 40
+1240068103	ID:9	App: Message seqn 40 sent correctly!
+1240075655	ID:6	App: Send seqn 40
+1240079032	ID:6	App: Message seqn 40 sent correctly!
+1240082035	ID:1	App: Recv from 09:00 seqn 40 hops 2
+1240086859	ID:1	App: Recv from 06:00 seqn 40 hops 1
+1240165110	ID:5	App: Send seqn 40
+1240168487	ID:5	App: Message seqn 40 sent correctly!
+1240182247	ID:1	App: Recv from 05:00 seqn 40 hops 2
+1240234292	ID:7	App: Send seqn 40
+1240237669	ID:7	App: Message seqn 40 sent correctly!
+1240245496	ID:1	App: Recv from 07:00 seqn 40 hops 1
+1240577166	ID:8	App: Send seqn 40
+1240580543	ID:8	App: Message seqn 40 sent correctly!
+1240594297	ID:1	App: Recv from 08:00 seqn 40 hops 2
+1242157732	ID:4	App: Send seqn 40
+1242161109	ID:4	App: Message seqn 40 sent correctly!
+1242169017	ID:1	App: Recv from 04:00 seqn 40 hops 1
+1243006479	ID:10	App: Send seqn 40
+1243009856	ID:10	App: Message seqn 40 sent correctly!
+1243023657	ID:1	App: Recv from 0a:00 seqn 40 hops 2
+1244700612	ID:3	App: Send seqn 40
+1244703989	ID:3	App: Message seqn 40 sent correctly!
+1244711816	ID:1	App: Recv from 03:00 seqn 40 hops 1
+1260583178	ID:6	App: Send seqn 41
+1260586555	ID:6	App: Message seqn 41 sent correctly!
+1260594385	ID:1	App: Recv from 06:00 seqn 41 hops 1
+1261662318	ID:1	my_collect: sending beacon: seqn 22 metric 0
+1261672717	ID:4	my_collect: recv beacon from 01:00 seqn 22 metric 0 rssi -88
+1261672724	ID:2	my_collect: recv beacon from 01:00 seqn 22 metric 0 rssi -68
+1261672799	ID:3	my_collect: recv beacon from 01:00 seqn 22 metric 0 rssi -66
+1261672799	ID:7	my_collect: recv beacon from 01:00 seqn 22 metric 0 rssi -66
+1261672810	ID:6	my_collect: recv beacon from 01:00 seqn 22 metric 0 rssi -58
+1261742606	ID:2	my_collect: sending beacon: seqn 22 metric 1
+1261752909	ID:4	my_collect: recv beacon from 02:00 seqn 22 metric 1 rssi -80
+1261752909	ID:6	my_collect: recv beacon from 02:00 seqn 22 metric 1 rssi -83
+1261752927	ID:5	my_collect: recv beacon from 02:00 seqn 22 metric 1 rssi -53
+1261752989	ID:7	my_collect: recv beacon from 02:00 seqn 22 metric 1 rssi -85
+1261752997	ID:1	my_collect: recv beacon from 02:00 seqn 22 metric 1 rssi -68
+1261756062	ID:5	my_collect: new parent 02:00, my metric 2
+1261784097	ID:5	my_collect: sending beacon: seqn 22 metric 2
+1261794478	ID:4	my_collect: recv beacon from 05:00 seqn 22 metric 2 rssi -90
+1261794488	ID:2	my_collect: recv beacon from 05:00 seqn 22 metric 2 rssi -53
+1261900774	ID:7	my_collect: sending beacon: seqn 22 metric 1
+1261911077	ID:3	my_collect: recv beacon from 07:00 seqn 22 metric 1 rssi -67
+1261911122	ID:1	my_collect: recv beacon from 07:00 seqn 22 metric 1 rssi -66
+1261911140	ID:2	my_collect: recv beacon from 07:00 seqn 22 metric 1 rssi -85
+1261911168	ID:9	my_collect: recv beacon from 07:00 seqn 22 metric 1 rssi -92
+1261911168	ID:10	my_collect: recv beacon from 07:00 seqn 22 metric 1 rssi -64
+1261914393	ID:9	my_collect: new parent 07:00, my metric 2
+1261946109	ID:10	my_collect: sending beacon: seqn 22 metric 2
+1261956493	ID:7	my_collect: recv beacon from 0a:00 seqn 22 metric 2 rssi -64
+1261956507	ID:9	my_collect: recv beacon from 0a:00 seqn 22 metric 2 rssi -70
+1261977801	ID:4	App: Send seqn 41
+1261981189	ID:4	App: Message seqn 41 sent correctly!
+1261989046	ID:1	App: Recv from 04:00 seqn 41 hops 1
+1262077725	ID:6	my_collect: sending beacon: seqn 22 metric 1
+1262087988	ID:1	my_collect: recv beacon from 06:00 seqn 22 metric 1 rssi -58
+1262088070	ID:2	my_collect: recv beacon from 06:00 seqn 22 metric 1 rssi -83
+1262088070	ID:4	my_collect: recv beacon from 06:00 seqn 22 metric 1 rssi -49
+1262105588	ID:9	my_collect: sending beacon: seqn 22 metric 2
+1262115887	ID:8	my_collect: recv beacon from 09:00 seqn 22 metric 2 rssi -75
+1262115891	ID:7	my_collect: recv beacon from 09:00 seqn 22 metric 2 rssi -92
+1262115899	ID:3	my_collect: recv beacon from 09:00 seqn 22 metric 2 rssi -81
+1262115910	ID:10	my_collect: recv beacon from 09:00 seqn 22 metric 2 rssi -70
+1262119022	ID:8	my_collect: new parent 09:00, my metric 3
+1262441052	ID:4	my_collect: sending beacon: seqn 22 metric 1
+1262451321	ID:5	my_collect: recv beacon from 04:00 seqn 22 metric 1 rssi -90
+1262451330	ID:1	my_collect: recv beacon from 04:00 seqn 22 metric 1 rssi -88
+1262451410	ID:2	my_collect: recv beacon from 04:00 seqn 22 metric 1 rssi -80
+1262451410	ID:6	my_collect: recv beacon from 04:00 seqn 22 metric 1 rssi -49
+1262454455	ID:5	my_collect: new parent 04:00, my metric 2
+1262617094	ID:3	my_collect: sending beacon: seqn 22 metric 1
+1262627394	ID:7	my_collect: recv beacon from 03:00 seqn 22 metric 1 rssi -67
+1262627470	ID:8	my_collect: recv beacon from 03:00 seqn 22 metric 1 rssi -80
+1262627483	ID:9	my_collect: recv beacon from 03:00 seqn 22 metric 1 rssi -81
+1262627559	ID:1	my_collect: recv beacon from 03:00 seqn 22 metric 1 rssi -66
+1262630604	ID:8	my_collect: new parent 03:00, my metric 2
+1262630618	ID:9	my_collect: new parent 03:00, my metric 2
+1262947295	ID:9	App: Send seqn 41
+1262950683	ID:9	App: Message seqn 41 sent correctly!
+1262964692	ID:1	App: Recv from 09:00 seqn 41 hops 2
+1263172679	ID:5	App: Send seqn 41
+1263176067	ID:5	App: Message seqn 41 sent correctly!
+1263189840	ID:1	App: Recv from 05:00 seqn 41 hops 2
+1263307805	ID:5	my_collect: sending beacon: seqn 22 metric 2
+1263318075	ID:2	my_collect: recv beacon from 05:00 seqn 22 metric 2 rssi -53
+1263318088	ID:4	my_collect: recv beacon from 05:00 seqn 22 metric 2 rssi -90
+1263384273	ID:8	my_collect: sending beacon: seqn 22 metric 2
+1263394577	ID:9	my_collect: recv beacon from 08:00 seqn 22 metric 2 rssi -75
+1263394664	ID:3	my_collect: recv beacon from 08:00 seqn 22 metric 2 rssi -80
+1263511811	ID:9	my_collect: sending beacon: seqn 22 metric 2
+1263522080	ID:8	my_collect: recv beacon from 09:00 seqn 22 metric 2 rssi -75
+1263522082	ID:3	my_collect: recv beacon from 09:00 seqn 22 metric 2 rssi -81
+1263522093	ID:10	my_collect: recv beacon from 09:00 seqn 22 metric 2 rssi -70
+1263522126	ID:7	my_collect: recv beacon from 09:00 seqn 22 metric 2 rssi -92
+1265014002	ID:10	App: Send seqn 41
+1265017379	ID:10	App: Message seqn 41 sent correctly!
+1265031282	ID:1	App: Recv from 0a:00 seqn 41 hops 2
+1267586144	ID:7	App: Send seqn 41
+1267589521	ID:7	App: Message seqn 41 sent correctly!
+1267597426	ID:1	App: Recv from 07:00 seqn 41 hops 1
+1270639244	ID:2	App: Send seqn 41
+1270642621	ID:2	App: Message seqn 41 sent correctly!
+1270650493	ID:1	App: Recv from 02:00 seqn 41 hops 1
+1270677464	ID:3	App: Send seqn 41
+1270680841	ID:3	App: Message seqn 41 sent correctly!
+1270688668	ID:1	App: Recv from 03:00 seqn 41 hops 1
+1271491518	ID:8	App: Send seqn 41
+1271494895	ID:8	App: Message seqn 41 sent correctly!
+1271508617	ID:1	App: Recv from 08:00 seqn 41 hops 2
+1291255053	ID:6	App: Send seqn 42
+1291258430	ID:6	App: Message seqn 42 sent correctly!
+1291266252	ID:1	App: Recv from 06:00 seqn 42 hops 1
+1293545916	ID:8	App: Send seqn 42
+1293549293	ID:8	App: Message seqn 42 sent correctly!
+1293563046	ID:1	App: Recv from 08:00 seqn 42 hops 2
+1293820519	ID:7	App: Send seqn 42
+1293823896	ID:7	App: Message seqn 42 sent correctly!
+1293831799	ID:1	App: Recv from 07:00 seqn 42 hops 1
+1294623619	ID:2	App: Send seqn 42
+1294626996	ID:2	App: Message seqn 42 sent correctly!
+1294634868	ID:1	App: Recv from 02:00 seqn 42 hops 1
+1299658476	ID:9	App: Send seqn 42
+1299661839	ID:3	App: Send seqn 42
+1299661853	ID:9	App: Message seqn 42 sent correctly!
+1299665216	ID:3	App: Message seqn 42 sent correctly!
+1299673082	ID:1	App: Recv from 03:00 seqn 42 hops 1
+1299679227	ID:1	App: Recv from 09:00 seqn 42 hops 2
+1301524630	ID:4	App: Send seqn 42
+1301528007	ID:4	App: Message seqn 42 sent correctly!
+1301535836	ID:1	App: Recv from 04:00 seqn 42 hops 1
+1304258860	ID:5	App: Send seqn 42
+1304262237	ID:5	App: Message seqn 42 sent correctly!
+1304275959	ID:1	App: Recv from 05:00 seqn 42 hops 2
+1305685877	ID:10	App: Send seqn 42
+1305689254	ID:10	App: Message seqn 42 sent correctly!
+1305703119	ID:1	App: Recv from 0a:00 seqn 42 hops 2
+1321169405	ID:6	App: Send seqn 43
+1321172782	ID:6	App: Message seqn 43 sent correctly!
+1321180609	ID:1	App: Recv from 06:00 seqn 43 hops 1
+1321662318	ID:1	my_collect: sending beacon: seqn 23 metric 0
+1321672717	ID:4	my_collect: recv beacon from 01:00 seqn 23 metric 0 rssi -88
+1321672724	ID:2	my_collect: recv beacon from 01:00 seqn 23 metric 0 rssi -68
+1321672799	ID:3	my_collect: recv beacon from 01:00 seqn 23 metric 0 rssi -66
+1321672799	ID:7	my_collect: recv beacon from 01:00 seqn 23 metric 0 rssi -66
+1321672810	ID:6	my_collect: recv beacon from 01:00 seqn 23 metric 0 rssi -58
+1321944615	ID:6	my_collect: sending beacon: seqn 23 metric 1
+1321954888	ID:1	my_collect: recv beacon from 06:00 seqn 23 metric 1 rssi -58
+1321954975	ID:2	my_collect: recv beacon from 06:00 seqn 23 metric 1 rssi -83
+1321954980	ID:4	my_collect: recv beacon from 06:00 seqn 23 metric 1 rssi -49
+1321995469	ID:4	my_collect: sending beacon: seqn 23 metric 1
+1322005766	ID:1	my_collect: recv beacon from 04:00 seqn 23 metric 1 rssi -88
+1322005769	ID:5	my_collect: recv beacon from 04:00 seqn 23 metric 1 rssi -90
+1322005779	ID:2	my_collect: recv beacon from 04:00 seqn 23 metric 1 rssi -80
+1322005835	ID:6	my_collect: recv beacon from 04:00 seqn 23 metric 1 rssi -49
+1322141374	ID:2	my_collect: sending beacon: seqn 23 metric 1
+1322151672	ID:1	my_collect: recv beacon from 02:00 seqn 23 metric 1 rssi -68
+1322151674	ID:6	my_collect: recv beacon from 02:00 seqn 23 metric 1 rssi -83
+1322151676	ID:5	my_collect: recv beacon from 02:00 seqn 23 metric 1 rssi -53
+1322151677	ID:4	my_collect: recv beacon from 02:00 seqn 23 metric 1 rssi -80
+1322151765	ID:7	my_collect: recv beacon from 02:00 seqn 23 metric 1 rssi -85
+1322154811	ID:5	my_collect: new parent 02:00, my metric 2
+1322423881	ID:7	my_collect: sending beacon: seqn 23 metric 1
+1322434184	ID:9	my_collect: recv beacon from 07:00 seqn 23 metric 1 rssi -92
+1322434198	ID:10	my_collect: recv beacon from 07:00 seqn 23 metric 1 rssi -64
+1322434226	ID:2	my_collect: recv beacon from 07:00 seqn 23 metric 1 rssi -85
+1322434246	ID:1	my_collect: recv beacon from 07:00 seqn 23 metric 1 rssi -66
+1322434263	ID:3	my_collect: recv beacon from 07:00 seqn 23 metric 1 rssi -67
+1322437319	ID:9	my_collect: new parent 07:00, my metric 2
+1322515201	ID:3	my_collect: sending beacon: seqn 23 metric 1
+1322525503	ID:1	my_collect: recv beacon from 03:00 seqn 23 metric 1 rssi -66
+1322525523	ID:9	my_collect: recv beacon from 03:00 seqn 23 metric 1 rssi -81
+1322525533	ID:7	my_collect: recv beacon from 03:00 seqn 23 metric 1 rssi -67
+1322525595	ID:8	my_collect: recv beacon from 03:00 seqn 23 metric 1 rssi -80
+1322528658	ID:9	my_collect: new parent 03:00, my metric 2
+1322836734	ID:10	my_collect: sending beacon: seqn 23 metric 2
+1322847052	ID:9	my_collect: recv beacon from 0a:00 seqn 23 metric 2 rssi -70
+1322847118	ID:7	my_collect: recv beacon from 0a:00 seqn 23 metric 2 rssi -64
+1322879356	ID:9	my_collect: sending beacon: seqn 23 metric 2
+1322881142	ID:2	App: Send seqn 43
+1322884519	ID:2	App: Message seqn 43 sent correctly!
+1322889668	ID:3	my_collect: recv beacon from 09:00 seqn 23 metric 2 rssi -81
+1322889740	ID:7	my_collect: recv beacon from 09:00 seqn 23 metric 2 rssi -92
+1322889741	ID:8	my_collect: recv beacon from 09:00 seqn 23 metric 2 rssi -75
+1322889741	ID:10	my_collect: recv beacon from 09:00 seqn 23 metric 2 rssi -70
+1322892344	ID:1	App: Recv from 02:00 seqn 43 hops 1
+1322971597	ID:5	my_collect: sending beacon: seqn 23 metric 2
+1322981980	ID:4	my_collect: recv beacon from 05:00 seqn 23 metric 2 rssi -90
+1322981990	ID:2	my_collect: recv beacon from 05:00 seqn 23 metric 2 rssi -53
+1323001482	ID:4	App: Send seqn 43
+1323004859	ID:4	App: Message seqn 43 sent correctly!
+1323012768	ID:1	App: Recv from 04:00 seqn 43 hops 1
+1323016755	ID:8	my_collect: sending beacon: seqn 23 metric 2
+1323027058	ID:3	my_collect: recv beacon from 08:00 seqn 23 metric 2 rssi -80
+1323027068	ID:9	my_collect: recv beacon from 08:00 seqn 23 metric 2 rssi -75
+1323419362	ID:3	App: Send seqn 43
+1323422739	ID:3	App: Message seqn 43 sent correctly!
+1323430562	ID:1	App: Recv from 03:00 seqn 43 hops 1
+1324391383	ID:5	App: Send seqn 43
+1324394760	ID:5	App: Message seqn 43 sent correctly!
+1324408565	ID:1	App: Recv from 05:00 seqn 43 hops 2
+1324665999	ID:9	App: Send seqn 43
+1324669376	ID:9	App: Message seqn 43 sent correctly!
+1324683317	ID:1	App: Recv from 09:00 seqn 43 hops 2
+1328100229	ID:10	App: Send seqn 43
+1328103606	ID:10	App: Message seqn 43 sent correctly!
+1328117439	ID:1	App: Recv from 0a:00 seqn 43 hops 2
+1331085268	ID:8	App: Send seqn 43
+1331088645	ID:8	App: Message seqn 43 sent correctly!
+1331102369	ID:1	App: Recv from 08:00 seqn 43 hops 2
+1334453042	ID:7	App: Send seqn 43
+1334456419	ID:7	App: Message seqn 43 sent correctly!
+1334464284	ID:1	App: Recv from 07:00 seqn 43 hops 1
+1352444643	ID:8	App: Send seqn 44
+1352448020	ID:8	App: Message seqn 44 sent correctly!
+1352461777	ID:1	App: Recv from 08:00 seqn 44 hops 2
+1354752226	ID:9	App: Send seqn 44
+1354755603	ID:9	App: Message seqn 44 sent correctly!
+1354769530	ID:1	App: Recv from 09:00 seqn 44 hops 2
+1357985857	ID:4	App: Send seqn 44
+1357989234	ID:4	App: Message seqn 44 sent correctly!
+1357997141	ID:1	App: Recv from 04:00 seqn 44 hops 1
+1358591237	ID:3	App: Send seqn 44
+1358594614	ID:3	App: Message seqn 44 sent correctly!
+1358602439	ID:1	App: Recv from 03:00 seqn 44 hops 1
+1358852610	ID:5	App: Send seqn 44
+1358855987	ID:5	App: Message seqn 44 sent correctly!
+1358869745	ID:1	App: Recv from 05:00 seqn 44 hops 2
+1359778780	ID:6	App: Send seqn 44
+1359782157	ID:6	App: Message seqn 44 sent correctly!
+1359789987	ID:1	App: Recv from 06:00 seqn 44 hops 1
+1361709604	ID:10	App: Send seqn 44
+1361712981	ID:10	App: Message seqn 44 sent correctly!
+1361726816	ID:1	App: Recv from 0a:00 seqn 44 hops 2
+1361874917	ID:7	App: Send seqn 44
+1361878294	ID:7	App: Message seqn 44 sent correctly!
+1361886120	ID:1	App: Recv from 07:00 seqn 44 hops 1
+1365053017	ID:2	App: Send seqn 44
+1365056394	ID:2	App: Message seqn 44 sent correctly!
+1365064219	ID:1	App: Recv from 02:00 seqn 44 hops 1
+1381662318	ID:1	my_collect: sending beacon: seqn 24 metric 0
+1381672717	ID:4	my_collect: recv beacon from 01:00 seqn 24 metric 0 rssi -88
+1381672724	ID:2	my_collect: recv beacon from 01:00 seqn 24 metric 0 rssi -68
+1381672799	ID:3	my_collect: recv beacon from 01:00 seqn 24 metric 0 rssi -66
+1381672799	ID:7	my_collect: recv beacon from 01:00 seqn 24 metric 0 rssi -66
+1381672810	ID:6	my_collect: recv beacon from 01:00 seqn 24 metric 0 rssi -58
+1381905910	ID:6	my_collect: sending beacon: seqn 24 metric 1
+1381916244	ID:1	my_collect: recv beacon from 06:00 seqn 24 metric 1 rssi -58
+1381916293	ID:2	my_collect: recv beacon from 06:00 seqn 24 metric 1 rssi -83
+1381916293	ID:4	my_collect: recv beacon from 06:00 seqn 24 metric 1 rssi -49
+1382132719	ID:3	my_collect: sending beacon: seqn 24 metric 1
+1382143024	ID:7	my_collect: recv beacon from 03:00 seqn 24 metric 1 rssi -67
+1382143101	ID:8	my_collect: recv beacon from 03:00 seqn 24 metric 1 rssi -80
+1382143110	ID:1	my_collect: recv beacon from 03:00 seqn 24 metric 1 rssi -66
+1382143112	ID:9	my_collect: recv beacon from 03:00 seqn 24 metric 1 rssi -81
+1382166399	ID:7	my_collect: sending beacon: seqn 24 metric 1
+1382176695	ID:3	my_collect: recv beacon from 07:00 seqn 24 metric 1 rssi -67
+1382176740	ID:1	my_collect: recv beacon from 07:00 seqn 24 metric 1 rssi -66
+1382176765	ID:2	my_collect: recv beacon from 07:00 seqn 24 metric 1 rssi -85
+1382176786	ID:9	my_collect: recv beacon from 07:00 seqn 24 metric 1 rssi -92
+1382176786	ID:10	my_collect: recv beacon from 07:00 seqn 24 metric 1 rssi -64
+1382180011	ID:9	my_collect: new parent 07:00, my metric 2
+1382258231	ID:2	my_collect: sending beacon: seqn 24 metric 1
+1382268533	ID:4	my_collect: recv beacon from 02:00 seqn 24 metric 1 rssi -80
+1382268534	ID:5	my_collect: recv beacon from 02:00 seqn 24 metric 1 rssi -53
+1382268535	ID:6	my_collect: recv beacon from 02:00 seqn 24 metric 1 rssi -83
+1382268612	ID:7	my_collect: recv beacon from 02:00 seqn 24 metric 1 rssi -85
+1382268620	ID:1	my_collect: recv beacon from 02:00 seqn 24 metric 1 rssi -68
+1382394237	ID:4	my_collect: sending beacon: seqn 24 metric 1
+1382404539	ID:1	my_collect: recv beacon from 04:00 seqn 24 metric 1 rssi -88
+1382404543	ID:5	my_collect: recv beacon from 04:00 seqn 24 metric 1 rssi -90
+1382404590	ID:6	my_collect: recv beacon from 04:00 seqn 24 metric 1 rssi -49
+1382404633	ID:2	my_collect: recv beacon from 04:00 seqn 24 metric 1 rssi -80
+1382407678	ID:5	my_collect: new parent 04:00, my metric 2
+1382504356	ID:9	my_collect: sending beacon: seqn 24 metric 2
+1382514668	ID:3	my_collect: recv beacon from 09:00 seqn 24 metric 2 rssi -81
+1382514740	ID:7	my_collect: recv beacon from 09:00 seqn 24 metric 2 rssi -92
+1382514741	ID:8	my_collect: recv beacon from 09:00 seqn 24 metric 2 rssi -75
+1382514741	ID:10	my_collect: recv beacon from 09:00 seqn 24 metric 2 rssi -70
+1382698490	ID:5	my_collect: sending beacon: seqn 24 metric 2
+1382708789	ID:2	my_collect: recv beacon from 05:00 seqn 24 metric 2 rssi -53
+1382709056	ID:4	my_collect: recv beacon from 05:00 seqn 24 metric 2 rssi -90
+1382969879	ID:8	my_collect: sending beacon: seqn 24 metric 2
+1382980182	ID:3	my_collect: recv beacon from 08:00 seqn 24 metric 2 rssi -80
+1382980192	ID:9	my_collect: recv beacon from 08:00 seqn 24 metric 2 rssi -75
+1383014666	ID:8	App: Send seqn 45
+1383018043	ID:8	App: Message seqn 45 sent correctly!
+1383031792	ID:1	App: Recv from 08:00 seqn 45 hops 2
+1383039859	ID:10	my_collect: sending beacon: seqn 24 metric 2
+1383050177	ID:9	my_collect: recv beacon from 0a:00 seqn 24 metric 2 rssi -70
+1383050247	ID:7	my_collect: recv beacon from 0a:00 seqn 24 metric 2 rssi -64
+1387243380	ID:4	App: Send seqn 45
+1387246757	ID:4	App: Message seqn 45 sent correctly!
+1387254583	ID:1	App: Recv from 04:00 seqn 45 hops 1
+1387654627	ID:10	App: Send seqn 45
+1387658004	ID:10	App: Message seqn 45 sent correctly!
+1387671905	ID:1	App: Recv from 0a:00 seqn 45 hops 2
+1390110133	ID:5	App: Send seqn 45
+1390113510	ID:5	App: Message seqn 45 sent correctly!
+1390127315	ID:1	App: Recv from 05:00 seqn 45 hops 2
+1390755589	ID:3	App: Send seqn 45
+1390758966	ID:3	App: Message seqn 45 sent correctly!
+1390766794	ID:1	App: Recv from 03:00 seqn 45 hops 1
+1391414269	ID:7	App: Send seqn 45
+1391417646	ID:7	App: Message seqn 45 sent correctly!
+1391425550	ID:1	App: Recv from 07:00 seqn 45 hops 1
+1392717369	ID:2	App: Send seqn 45
+1392720746	ID:2	App: Message seqn 45 sent correctly!
+1392728618	ID:1	App: Recv from 02:00 seqn 45 hops 1
+1394223803	ID:6	App: Send seqn 45
+1394227180	ID:6	App: Message seqn 45 sent correctly!
+1394235014	ID:1	App: Recv from 06:00 seqn 45 hops 1
+1395884749	ID:9	App: Send seqn 45
+1395888126	ID:9	App: Message seqn 45 sent correctly!
+1395901938	ID:1	App: Recv from 09:00 seqn 45 hops 2
+1411345976	ID:9	App: Send seqn 46
+1411349353	ID:9	App: Message seqn 46 sent correctly!
+1411363199	ID:1	App: Recv from 09:00 seqn 46 hops 2
+1412946360	ID:5	App: Send seqn 46
+1412949737	ID:5	App: Message seqn 46 sent correctly!
+1412963496	ID:1	App: Recv from 05:00 seqn 46 hops 2
+1414826744	ID:2	App: Send seqn 46
+1414830121	ID:2	App: Message seqn 46 sent correctly!
+1414837995	ID:1	App: Recv from 02:00 seqn 46 hops 1
+1416061541	ID:8	App: Send seqn 46
+1416064918	ID:8	App: Message seqn 46 sent correctly!
+1416078674	ID:1	App: Recv from 08:00 seqn 46 hops 2
+1418520678	ID:6	App: Send seqn 46
+1418524055	ID:6	App: Message seqn 46 sent correctly!
+1418531877	ID:1	App: Recv from 06:00 seqn 46 hops 1
+1418951502	ID:10	App: Send seqn 46
+1418954879	ID:10	App: Message seqn 46 sent correctly!
+1418968783	ID:1	App: Recv from 0a:00 seqn 46 hops 2
+1422864964	ID:3	App: Send seqn 46
+1422868341	ID:3	App: Message seqn 46 sent correctly!
+1422876168	ID:1	App: Recv from 03:00 seqn 46 hops 1
+1423773644	ID:7	App: Send seqn 46
+1423777021	ID:7	App: Message seqn 46 sent correctly!
+1423784924	ID:1	App: Recv from 07:00 seqn 46 hops 1
+1425415255	ID:4	App: Send seqn 46
+1425418632	ID:4	App: Message seqn 46 sent correctly!
+1425426456	ID:1	App: Recv from 04:00 seqn 46 hops 1
+1441662318	ID:1	my_collect: sending beacon: seqn 25 metric 0
+1441672717	ID:4	my_collect: recv beacon from 01:00 seqn 25 metric 0 rssi -88
+1441672724	ID:2	my_collect: recv beacon from 01:00 seqn 25 metric 0 rssi -68
+1441672799	ID:3	my_collect: recv beacon from 01:00 seqn 25 metric 0 rssi -66
+1441672799	ID:7	my_collect: recv beacon from 01:00 seqn 25 metric 0 rssi -66
+1441672810	ID:6	my_collect: recv beacon from 01:00 seqn 25 metric 0 rssi -58
+1441835266	ID:6	my_collect: sending beacon: seqn 25 metric 1
+1441843326	ID:3	my_collect: sending beacon: seqn 25 metric 1
+1441845565	ID:1	my_collect: recv beacon from 06:00 seqn 25 metric 1 rssi -58
+1441845654	ID:2	my_collect: recv beacon from 06:00 seqn 25 metric 1 rssi -83
+1441845657	ID:4	my_collect: recv beacon from 06:00 seqn 25 metric 1 rssi -49
+1441853622	ID:1	my_collect: recv beacon from 03:00 seqn 25 metric 1 rssi -66
+1441853626	ID:7	my_collect: recv beacon from 03:00 seqn 25 metric 1 rssi -67
+1441853649	ID:9	my_collect: recv beacon from 03:00 seqn 25 metric 1 rssi -81
+1441853715	ID:8	my_collect: recv beacon from 03:00 seqn 25 metric 1 rssi -80
+1441856784	ID:9	my_collect: new parent 03:00, my metric 2
+1442469499	ID:2	my_collect: sending beacon: seqn 25 metric 1
+1442479799	ID:1	my_collect: recv beacon from 02:00 seqn 25 metric 1 rssi -68
+1442479801	ID:6	my_collect: recv beacon from 02:00 seqn 25 metric 1 rssi -83
+1442479803	ID:4	my_collect: recv beacon from 02:00 seqn 25 metric 1 rssi -80
+1442479803	ID:5	my_collect: recv beacon from 02:00 seqn 25 metric 1 rssi -53
+1442479892	ID:7	my_collect: recv beacon from 02:00 seqn 25 metric 1 rssi -85
+1442482938	ID:5	my_collect: new parent 02:00, my metric 2
+1442485505	ID:8	my_collect: sending beacon: seqn 25 metric 2
+1442495809	ID:3	my_collect: recv beacon from 08:00 seqn 25 metric 2 rssi -80
+1442495817	ID:9	my_collect: recv beacon from 08:00 seqn 25 metric 2 rssi -75
+1442502006	ID:7	my_collect: sending beacon: seqn 25 metric 1
+1442511093	ID:4	my_collect: sending beacon: seqn 25 metric 1
+1442512306	ID:2	my_collect: recv beacon from 07:00 seqn 25 metric 1 rssi -85
+1442512308	ID:9	my_collect: recv beacon from 07:00 seqn 25 metric 1 rssi -92
+1442512323	ID:10	my_collect: recv beacon from 07:00 seqn 25 metric 1 rssi -64
+1442512369	ID:1	my_collect: recv beacon from 07:00 seqn 25 metric 1 rssi -66
+1442512387	ID:3	my_collect: recv beacon from 07:00 seqn 25 metric 1 rssi -67
+1442515442	ID:9	my_collect: new parent 07:00, my metric 2
+1442521391	ID:1	my_collect: recv beacon from 04:00 seqn 25 metric 1 rssi -88
+1442521395	ID:5	my_collect: recv beacon from 04:00 seqn 25 metric 1 rssi -90
+1442521404	ID:2	my_collect: recv beacon from 04:00 seqn 25 metric 1 rssi -80
+1442521460	ID:6	my_collect: recv beacon from 04:00 seqn 25 metric 1 rssi -49
+1442524528	ID:5	my_collect: new parent 04:00, my metric 2
+1442784097	ID:5	my_collect: sending beacon: seqn 25 metric 2
+1442794478	ID:4	my_collect: recv beacon from 05:00 seqn 25 metric 2 rssi -90
+1442794488	ID:2	my_collect: recv beacon from 05:00 seqn 25 metric 2 rssi -53
+1442805566	ID:10	my_collect: sending beacon: seqn 25 metric 2
+1442815870	ID:9	my_collect: recv beacon from 0a:00 seqn 25 metric 2 rssi -70
+1442815947	ID:7	my_collect: recv beacon from 0a:00 seqn 25 metric 2 rssi -64
+1443053354	ID:10	App: Send seqn 47
+1443056731	ID:10	App: Message seqn 47 sent correctly!
+1443070573	ID:1	App: Recv from 0a:00 seqn 47 hops 2
+1443301231	ID:9	my_collect: sending beacon: seqn 25 metric 2
+1443311543	ID:3	my_collect: recv beacon from 09:00 seqn 25 metric 2 rssi -81
+1443311615	ID:7	my_collect: recv beacon from 09:00 seqn 25 metric 2 rssi -92
+1443311616	ID:8	my_collect: recv beacon from 09:00 seqn 25 metric 2 rssi -75
+1443311616	ID:10	my_collect: recv beacon from 09:00 seqn 25 metric 2 rssi -70
+1444288393	ID:8	App: Send seqn 47
+1444291770	ID:8	App: Message seqn 47 sent correctly!
+1444305526	ID:1	App: Recv from 08:00 seqn 47 hops 2
+1445559987	ID:3	App: Send seqn 47
+1445563364	ID:3	App: Message seqn 47 sent correctly!
+1445571194	ID:1	App: Recv from 03:00 seqn 47 hops 1
+1447021767	ID:2	App: Send seqn 47
+1447025144	ID:2	App: Message seqn 47 sent correctly!
+1447032967	ID:1	App: Recv from 02:00 seqn 47 hops 1
+1447079607	ID:4	App: Send seqn 47
+1447082984	ID:4	App: Message seqn 47 sent correctly!
+1447090891	ID:1	App: Recv from 04:00 seqn 47 hops 1
+1448603499	ID:9	App: Send seqn 47
+1448606876	ID:9	App: Message seqn 47 sent correctly!
+1448620711	ID:1	App: Recv from 09:00 seqn 47 hops 2
+1449122530	ID:6	App: Send seqn 47
+1449125907	ID:6	App: Message seqn 47 sent correctly!
+1449133734	ID:1	App: Recv from 06:00 seqn 47 hops 1
+1449343667	ID:7	App: Send seqn 47
+1449347044	ID:7	App: Message seqn 47 sent correctly!
+1449354868	ID:1	App: Recv from 07:00 seqn 47 hops 1
+1454328883	ID:5	App: Send seqn 47
+1454332260	ID:5	App: Message seqn 47 sent correctly!
+1454346065	ID:1	App: Recv from 05:00 seqn 47 hops 2
+1473772768	ID:8	App: Send seqn 48
+1473776145	ID:8	App: Message seqn 48 sent correctly!
+1473789907	ID:1	App: Recv from 08:00 seqn 48 hops 2
+1473818642	ID:2	App: Send seqn 48
+1473822019	ID:2	App: Message seqn 48 sent correctly!
+1473829844	ID:1	App: Recv from 02:00 seqn 48 hops 1
+1476188982	ID:4	App: Send seqn 48
+1476192359	ID:4	App: Message seqn 48 sent correctly!
+1476200266	ID:1	App: Recv from 04:00 seqn 48 hops 1
+1476439726	ID:9	App: Send seqn 48
+1476443103	ID:9	App: Message seqn 48 sent correctly!
+1476456948	ID:1	App: Recv from 09:00 seqn 48 hops 2
+1478390542	ID:7	App: Send seqn 48
+1478393919	ID:7	App: Message seqn 48 sent correctly!
+1478401784	ID:1	App: Recv from 07:00 seqn 48 hops 1
+1480356862	ID:3	App: Send seqn 48
+1480360239	ID:3	App: Message seqn 48 sent correctly!
+1480368070	ID:1	App: Recv from 03:00 seqn 48 hops 1
+1481856905	ID:6	App: Send seqn 48
+1481860282	ID:6	App: Message seqn 48 sent correctly!
+1481868107	ID:1	App: Recv from 06:00 seqn 48 hops 1
+1482787729	ID:10	App: Send seqn 48
+1482791106	ID:10	App: Message seqn 48 sent correctly!
+1482804910	ID:1	App: Recv from 0a:00 seqn 48 hops 2
+1484540110	ID:5	App: Send seqn 48
+1484543487	ID:5	App: Message seqn 48 sent correctly!
+1484557209	ID:1	App: Recv from 05:00 seqn 48 hops 2
+1501662318	ID:1	my_collect: sending beacon: seqn 26 metric 0
+1501672717	ID:4	my_collect: recv beacon from 01:00 seqn 26 metric 0 rssi -88
+1501672724	ID:2	my_collect: recv beacon from 01:00 seqn 26 metric 0 rssi -68
+1501672799	ID:3	my_collect: recv beacon from 01:00 seqn 26 metric 0 rssi -66
+1501672799	ID:7	my_collect: recv beacon from 01:00 seqn 26 metric 0 rssi -66
+1501672810	ID:6	my_collect: recv beacon from 01:00 seqn 26 metric 0 rssi -58
+1501722362	ID:4	my_collect: sending beacon: seqn 26 metric 1
+1501732665	ID:1	my_collect: recv beacon from 04:00 seqn 26 metric 1 rssi -88
+1501732667	ID:5	my_collect: recv beacon from 04:00 seqn 26 metric 1 rssi -90
+1501732714	ID:6	my_collect: recv beacon from 04:00 seqn 26 metric 1 rssi -49
+1501732757	ID:2	my_collect: recv beacon from 04:00 seqn 26 metric 1 rssi -80
+1502109035	ID:6	my_collect: sending beacon: seqn 26 metric 1
+1502119369	ID:1	my_collect: recv beacon from 06:00 seqn 26 metric 1 rssi -58
+1502119418	ID:2	my_collect: recv beacon from 06:00 seqn 26 metric 1 rssi -83
+1502119418	ID:4	my_collect: recv beacon from 06:00 seqn 26 metric 1 rssi -49
+1502135990	ID:5	my_collect: sending beacon: seqn 26 metric 2
+1502146292	ID:2	my_collect: recv beacon from 05:00 seqn 26 metric 2 rssi -53
+1502146556	ID:4	my_collect: recv beacon from 05:00 seqn 26 metric 2 rssi -90
+1502170582	ID:2	App: Send seqn 49
+1502173970	ID:2	App: Message seqn 49 sent correctly!
+1502181909	ID:1	App: Recv from 02:00 seqn 49 hops 1
+1502307024	ID:7	my_collect: sending beacon: seqn 26 metric 1
+1502317325	ID:3	my_collect: recv beacon from 07:00 seqn 26 metric 1 rssi -67
+1502317370	ID:1	my_collect: recv beacon from 07:00 seqn 26 metric 1 rssi -66
+1502317390	ID:2	my_collect: recv beacon from 07:00 seqn 26 metric 1 rssi -85
+1502317416	ID:9	my_collect: recv beacon from 07:00 seqn 26 metric 1 rssi -92
+1502317416	ID:10	my_collect: recv beacon from 07:00 seqn 26 metric 1 rssi -64
+1502383609	ID:10	my_collect: sending beacon: seqn 26 metric 2
+1502393927	ID:9	my_collect: recv beacon from 0a:00 seqn 26 metric 2 rssi -70
+1502393995	ID:7	my_collect: recv beacon from 0a:00 seqn 26 metric 2 rssi -64
+1502523344	ID:3	my_collect: sending beacon: seqn 26 metric 1
+1502533642	ID:7	my_collect: recv beacon from 03:00 seqn 26 metric 1 rssi -67
+1502533720	ID:8	my_collect: recv beacon from 03:00 seqn 26 metric 1 rssi -80
+1502533729	ID:1	my_collect: recv beacon from 03:00 seqn 26 metric 1 rssi -66
+1502533733	ID:9	my_collect: recv beacon from 03:00 seqn 26 metric 1 rssi -81
+1502536868	ID:9	my_collect: new parent 03:00, my metric 2
+1502617394	ID:7	App: Send seqn 49
+1502620771	ID:7	App: Message seqn 49 sent correctly!
+1502628754	ID:1	App: Recv from 07:00 seqn 49 hops 1
+1502648829	ID:2	my_collect: sending beacon: seqn 26 metric 1
+1502659097	ID:4	my_collect: recv beacon from 02:00 seqn 26 metric 1 rssi -80
+1502659098	ID:6	my_collect: recv beacon from 02:00 seqn 26 metric 1 rssi -83
+1502659109	ID:5	my_collect: recv beacon from 02:00 seqn 26 metric 1 rssi -53
+1502659177	ID:7	my_collect: recv beacon from 02:00 seqn 26 metric 1 rssi -85
+1502659185	ID:1	my_collect: recv beacon from 02:00 seqn 26 metric 1 rssi -68
+1502662244	ID:5	my_collect: new parent 02:00, my metric 2
+1502780337	ID:8	App: Send seqn 49
+1502783725	ID:8	App: Message seqn 49 sent correctly!
+1502797509	ID:1	App: Recv from 08:00 seqn 49 hops 2
+1502813603	ID:8	my_collect: sending beacon: seqn 26 metric 2
+1502823869	ID:3	my_collect: recv beacon from 08:00 seqn 26 metric 2 rssi -80
+1502823875	ID:9	my_collect: recv beacon from 08:00 seqn 26 metric 2 rssi -75
+1503293087	ID:9	my_collect: sending beacon: seqn 26 metric 2
+1503303393	ID:7	my_collect: recv beacon from 09:00 seqn 26 metric 2 rssi -92
+1503303393	ID:8	my_collect: recv beacon from 09:00 seqn 26 metric 2 rssi -75
+1503303399	ID:3	my_collect: recv beacon from 09:00 seqn 26 metric 2 rssi -81
+1503303410	ID:10	my_collect: recv beacon from 09:00 seqn 26 metric 2 rssi -70
+1503385990	ID:5	my_collect: sending beacon: seqn 26 metric 2
+1503396290	ID:2	my_collect: recv beacon from 05:00 seqn 26 metric 2 rssi -53
+1503396556	ID:4	my_collect: recv beacon from 05:00 seqn 26 metric 2 rssi -90
+1507208714	ID:3	App: Send seqn 49
+1507212091	ID:3	App: Message seqn 49 sent correctly!
+1507219918	ID:1	App: Recv from 03:00 seqn 49 hops 1
+1508170252	ID:10	App: Send seqn 49
+1508173629	ID:10	App: Message seqn 49 sent correctly!
+1508187483	ID:1	App: Recv from 0a:00 seqn 49 hops 2
+1508822249	ID:9	App: Send seqn 49
+1508825626	ID:9	App: Message seqn 49 sent correctly!
+1508839571	ID:1	App: Recv from 09:00 seqn 49 hops 2
+1509047633	ID:5	App: Send seqn 49
+1509051010	ID:5	App: Message seqn 49 sent correctly!
+1509064816	ID:1	App: Recv from 05:00 seqn 49 hops 2
+1509384005	ID:4	App: Send seqn 49
+1509387382	ID:4	App: Message seqn 49 sent correctly!
+1509395205	ID:1	App: Recv from 04:00 seqn 49 hops 1
+1514739428	ID:6	App: Send seqn 49
+1514742805	ID:6	App: Message seqn 49 sent correctly!
+1514750635	ID:1	App: Recv from 06:00 seqn 49 hops 1
+1534033477	ID:9	App: Send seqn 50
+1534036855	ID:9	App: Message seqn 50 sent correctly!
+1534050792	ID:1	App: Recv from 09:00 seqn 50 hops 2
+1536101770	ID:7	App: Send seqn 50
+1536105148	ID:7	App: Message seqn 50 sent correctly!
+1536113049	ID:1	App: Recv from 07:00 seqn 50 hops 1
+1537661304	ID:6	App: Send seqn 50
+1537664682	ID:6	App: Message seqn 50 sent correctly!
+1537672510	ID:1	App: Recv from 06:00 seqn 50 hops 1
+1538633861	ID:5	App: Send seqn 50
+1538637239	ID:5	App: Message seqn 50 sent correctly!
+1538650997	ID:1	App: Recv from 05:00 seqn 50 hops 2
+1540092128	ID:10	App: Send seqn 50
+1540095506	ID:10	App: Message seqn 50 sent correctly!
+1540109374	ID:1	App: Recv from 0a:00 seqn 50 hops 2
+1540452167	ID:8	App: Send seqn 50
+1540455545	ID:8	App: Message seqn 50 sent correctly!
+1540469306	ID:1	App: Recv from 08:00 seqn 50 hops 2
+1541180881	ID:4	App: Send seqn 50
+1541184259	ID:4	App: Message seqn 50 sent correctly!
+1541192082	ID:1	App: Recv from 04:00 seqn 50 hops 1
+1541443090	ID:3	App: Send seqn 50
+1541446468	ID:3	App: Message seqn 50 sent correctly!
+1541454291	ID:1	App: Recv from 03:00 seqn 50 hops 1
+1542404870	ID:2	App: Send seqn 50
+1542408248	ID:2	App: Message seqn 50 sent correctly!
+1542416124	ID:1	App: Recv from 02:00 seqn 50 hops 1
+1561662318	ID:1	my_collect: sending beacon: seqn 27 metric 0
+1561672717	ID:4	my_collect: recv beacon from 01:00 seqn 27 metric 0 rssi -88
+1561672724	ID:2	my_collect: recv beacon from 01:00 seqn 27 metric 0 rssi -68
+1561672799	ID:3	my_collect: recv beacon from 01:00 seqn 27 metric 0 rssi -66
+1561672799	ID:7	my_collect: recv beacon from 01:00 seqn 27 metric 0 rssi -66
+1561672810	ID:6	my_collect: recv beacon from 01:00 seqn 27 metric 0 rssi -58
+1561901719	ID:4	my_collect: sending beacon: seqn 27 metric 1
+1561912014	ID:1	my_collect: recv beacon from 04:00 seqn 27 metric 1 rssi -88
+1561912018	ID:5	my_collect: recv beacon from 04:00 seqn 27 metric 1 rssi -90
+1561912029	ID:2	my_collect: recv beacon from 04:00 seqn 27 metric 1 rssi -80
+1561912083	ID:6	my_collect: recv beacon from 04:00 seqn 27 metric 1 rssi -49
+1561915151	ID:5	my_collect: new parent 04:00, my metric 2
+1561955131	ID:7	my_collect: sending beacon: seqn 27 metric 1
+1561965429	ID:2	my_collect: recv beacon from 07:00 seqn 27 metric 1 rssi -85
+1561965431	ID:9	my_collect: recv beacon from 07:00 seqn 27 metric 1 rssi -92
+1561965446	ID:10	my_collect: recv beacon from 07:00 seqn 27 metric 1 rssi -64
+1561965493	ID:1	my_collect: recv beacon from 07:00 seqn 27 metric 1 rssi -66
+1561965510	ID:3	my_collect: recv beacon from 07:00 seqn 27 metric 1 rssi -67
+1561968565	ID:9	my_collect: new parent 07:00, my metric 2
+1562024234	ID:10	my_collect: sending beacon: seqn 27 metric 2
+1562034552	ID:9	my_collect: recv beacon from 0a:00 seqn 27 metric 2 rssi -70
+1562034624	ID:7	my_collect: recv beacon from 0a:00 seqn 27 metric 2 rssi -64
+1562167240	ID:5	my_collect: sending beacon: seqn 27 metric 2
+1562172623	ID:2	my_collect: sending beacon: seqn 27 metric 1
+1562177805	ID:4	my_collect: recv beacon from 05:00 seqn 27 metric 2 rssi -90
+1562179319	ID:2	my_collect: recv beacon from 05:00 seqn 27 metric 2 rssi -53
+1562188935	ID:1	my_collect: recv beacon from 02:00 seqn 27 metric 1 rssi -68
+1562188937	ID:4	my_collect: recv beacon from 02:00 seqn 27 metric 1 rssi -80
+1562188938	ID:7	my_collect: recv beacon from 02:00 seqn 27 metric 1 rssi -85
+1562189017	ID:5	my_collect: recv beacon from 02:00 seqn 27 metric 1 rssi -53
+1562189027	ID:6	my_collect: recv beacon from 02:00 seqn 27 metric 1 rssi -83
+1562192152	ID:5	my_collect: new parent 02:00, my metric 2
+1562381480	ID:10	App: Send seqn 51
+1562384858	ID:10	App: Message seqn 51 sent correctly!
+1562398683	ID:1	App: Recv from 0a:00 seqn 51 hops 2
+1562546451	ID:3	my_collect: sending beacon: seqn 27 metric 1
+1562556748	ID:1	my_collect: recv beacon from 03:00 seqn 27 metric 1 rssi -66
+1562556751	ID:7	my_collect: recv beacon from 03:00 seqn 27 metric 1 rssi -67
+1562556773	ID:9	my_collect: recv beacon from 03:00 seqn 27 metric 1 rssi -81
+1562556841	ID:8	my_collect: recv beacon from 03:00 seqn 27 metric 1 rssi -80
+1562559908	ID:9	my_collect: new parent 03:00, my metric 2
+1562600892	ID:6	my_collect: sending beacon: seqn 27 metric 1
+1562611192	ID:1	my_collect: recv beacon from 06:00 seqn 27 metric 1 rssi -58
+1562611279	ID:2	my_collect: recv beacon from 06:00 seqn 27 metric 1 rssi -83
+1562611284	ID:4	my_collect: recv beacon from 06:00 seqn 27 metric 1 rssi -49
+1562785606	ID:9	my_collect: sending beacon: seqn 27 metric 2
+1562795918	ID:3	my_collect: recv beacon from 09:00 seqn 27 metric 2 rssi -81
+1562795990	ID:7	my_collect: recv beacon from 09:00 seqn 27 metric 2 rssi -92
+1562795991	ID:8	my_collect: recv beacon from 09:00 seqn 27 metric 2 rssi -75
+1562795992	ID:10	my_collect: recv beacon from 09:00 seqn 27 metric 2 rssi -70
+1562885990	ID:5	my_collect: sending beacon: seqn 27 metric 2
+1562896294	ID:2	my_collect: recv beacon from 05:00 seqn 27 metric 2 rssi -53
+1562896558	ID:4	my_collect: recv beacon from 05:00 seqn 27 metric 2 rssi -90
+1563037393	ID:2	App: Send seqn 51
+1563040771	ID:2	App: Message seqn 51 sent correctly!
+1563048603	ID:1	App: Recv from 02:00 seqn 51 hops 1
+1563204255	ID:8	my_collect: sending beacon: seqn 27 metric 2
+1563214558	ID:3	my_collect: recv beacon from 08:00 seqn 27 metric 2 rssi -80
+1563214567	ID:9	my_collect: recv beacon from 08:00 seqn 27 metric 2 rssi -75
+1564266384	ID:5	App: Send seqn 51
+1564269762	ID:5	App: Message seqn 51 sent correctly!
+1564283566	ID:1	App: Recv from 05:00 seqn 51 hops 2
+1565532733	ID:4	App: Send seqn 51
+1565536111	ID:4	App: Message seqn 51 sent correctly!
+1565544016	ID:1	App: Recv from 04:00 seqn 51 hops 1
+1568541000	ID:9	App: Send seqn 51
+1568544378	ID:9	App: Message seqn 51 sent correctly!
+1568558340	ID:1	App: Recv from 09:00 seqn 51 hops 2
+1569575613	ID:3	App: Send seqn 51
+1569578991	ID:3	App: Message seqn 51 sent correctly!
+1569586815	ID:1	App: Recv from 03:00 seqn 51 hops 1
+1569866519	ID:8	App: Send seqn 51
+1569869897	ID:8	App: Message seqn 51 sent correctly!
+1569883618	ID:1	App: Recv from 08:00 seqn 51 hops 2
+1570109293	ID:7	App: Send seqn 51
+1570112671	ID:7	App: Message seqn 51 sent correctly!
+1570120539	ID:1	App: Recv from 07:00 seqn 51 hops 1
+1573450656	ID:6	App: Send seqn 51
+1573454034	ID:6	App: Message seqn 51 sent correctly!
+1573461860	ID:1	App: Recv from 06:00 seqn 51 hops 1
+1596127227	ID:9	App: Send seqn 52
+1596130605	ID:9	App: Message seqn 52 sent correctly!
+1596144535	ID:1	App: Recv from 09:00 seqn 52 hops 2
+1599767108	ID:4	App: Send seqn 52
+1599770486	ID:4	App: Message seqn 52 sent correctly!
+1599778396	ID:1	App: Recv from 04:00 seqn 52 hops 1
+1599781168	ID:7	App: Send seqn 52
+1599784546	ID:7	App: Message seqn 52 sent correctly!
+1599792413	ID:1	App: Recv from 07:00 seqn 52 hops 1
+1600240855	ID:10	App: Send seqn 52
+1600244233	ID:10	App: Message seqn 52 sent correctly!
+1600258038	ID:1	App: Recv from 0a:00 seqn 52 hops 2
+1600459268	ID:2	App: Send seqn 52
+1600462646	ID:2	App: Message seqn 52 sent correctly!
+1600470477	ID:1	App: Recv from 02:00 seqn 52 hops 1
+1602475894	ID:8	App: Send seqn 52
+1602479272	ID:8	App: Message seqn 52 sent correctly!
+1602493025	ID:1	App: Recv from 08:00 seqn 52 hops 2
+1603227611	ID:5	App: Send seqn 52
+1603230989	ID:5	App: Message seqn 52 sent correctly!
+1603244712	ID:1	App: Recv from 05:00 seqn 52 hops 2
+1605310031	ID:6	App: Send seqn 52
+1605313409	ID:6	App: Message seqn 52 sent correctly!
+1605321235	ID:1	App: Recv from 06:00 seqn 52 hops 1
+1605997488	ID:3	App: Send seqn 52
+1606000866	ID:3	App: Message seqn 52 sent correctly!
+1606008690	ID:1	App: Recv from 03:00 seqn 52 hops 1
+1621662318	ID:1	my_collect: sending beacon: seqn 28 metric 0
+1621672717	ID:4	my_collect: recv beacon from 01:00 seqn 28 metric 0 rssi -88
+1621672724	ID:2	my_collect: recv beacon from 01:00 seqn 28 metric 0 rssi -68
+1621672799	ID:3	my_collect: recv beacon from 01:00 seqn 28 metric 0 rssi -66
+1621672799	ID:7	my_collect: recv beacon from 01:00 seqn 28 metric 0 rssi -66
+1621672810	ID:6	my_collect: recv beacon from 01:00 seqn 28 metric 0 rssi -58
+1621687160	ID:6	my_collect: sending beacon: seqn 28 metric 1
+1621697494	ID:1	my_collect: recv beacon from 06:00 seqn 28 metric 1 rssi -58
+1621697543	ID:2	my_collect: recv beacon from 06:00 seqn 28 metric 1 rssi -83
+1621697543	ID:4	my_collect: recv beacon from 06:00 seqn 28 metric 1 rssi -49
+1621788969	ID:3	my_collect: sending beacon: seqn 28 metric 1
+1621799274	ID:7	my_collect: recv beacon from 03:00 seqn 28 metric 1 rssi -67
+1621799350	ID:8	my_collect: recv beacon from 03:00 seqn 28 metric 1 rssi -80
+1621799359	ID:1	my_collect: recv beacon from 03:00 seqn 28 metric 1 rssi -66
+1621799361	ID:9	my_collect: recv beacon from 03:00 seqn 28 metric 1 rssi -81
+1621907380	ID:8	my_collect: sending beacon: seqn 28 metric 2
+1621914481	ID:2	my_collect: sending beacon: seqn 28 metric 1
+1621917682	ID:3	my_collect: recv beacon from 08:00 seqn 28 metric 2 rssi -80
+1621917693	ID:9	my_collect: recv beacon from 08:00 seqn 28 metric 2 rssi -75
+1621924782	ID:4	my_collect: recv beacon from 02:00 seqn 28 metric 1 rssi -80
+1621924783	ID:5	my_collect: recv beacon from 02:00 seqn 28 metric 1 rssi -53
+1621924785	ID:6	my_collect: recv beacon from 02:00 seqn 28 metric 1 rssi -83
+1621924862	ID:7	my_collect: recv beacon from 02:00 seqn 28 metric 1 rssi -85
+1621924870	ID:1	my_collect: recv beacon from 02:00 seqn 28 metric 1 rssi -68
+1622322649	ID:7	my_collect: sending beacon: seqn 28 metric 1
+1622332950	ID:3	my_collect: recv beacon from 07:00 seqn 28 metric 1 rssi -67
+1622332995	ID:1	my_collect: recv beacon from 07:00 seqn 28 metric 1 rssi -66
+1622333015	ID:2	my_collect: recv beacon from 07:00 seqn 28 metric 1 rssi -85
+1622333041	ID:9	my_collect: recv beacon from 07:00 seqn 28 metric 1 rssi -92
+1622333041	ID:10	my_collect: recv beacon from 07:00 seqn 28 metric 1 rssi -64
+1622336266	ID:9	my_collect: new parent 07:00, my metric 2
+1622399677	ID:4	App: Send seqn 53
+1622403066	ID:4	App: Message seqn 53 sent correctly!
+1622410925	ID:1	App: Recv from 04:00 seqn 53 hops 1
+1622425427	ID:4	my_collect: sending beacon: seqn 28 metric 1
+1622435693	ID:5	my_collect: recv beacon from 04:00 seqn 28 metric 1 rssi -90
+1622435706	ID:1	my_collect: recv beacon from 04:00 seqn 28 metric 1 rssi -88
+1622435783	ID:2	my_collect: recv beacon from 04:00 seqn 28 metric 1 rssi -80
+1622435783	ID:6	my_collect: recv beacon from 04:00 seqn 28 metric 1 rssi -49
+1622438828	ID:5	my_collect: new parent 04:00, my metric 2
+1622535606	ID:9	my_collect: sending beacon: seqn 28 metric 2
+1622545918	ID:3	my_collect: recv beacon from 09:00 seqn 28 metric 2 rssi -81
+1622545990	ID:7	my_collect: recv beacon from 09:00 seqn 28 metric 2 rssi -92
+1622545991	ID:8	my_collect: recv beacon from 09:00 seqn 28 metric 2 rssi -75
+1622545991	ID:10	my_collect: recv beacon from 09:00 seqn 28 metric 2 rssi -70
+1622604740	ID:5	my_collect: sending beacon: seqn 28 metric 2
+1622615043	ID:2	my_collect: recv beacon from 05:00 seqn 28 metric 2 rssi -53
+1622615272	ID:4	my_collect: recv beacon from 05:00 seqn 28 metric 2 rssi -90
+1622977359	ID:10	my_collect: sending beacon: seqn 28 metric 2
+1622987677	ID:9	my_collect: recv beacon from 0a:00 seqn 28 metric 2 rssi -70
+1622987743	ID:7	my_collect: recv beacon from 0a:00 seqn 28 metric 2 rssi -64
+1626036840	ID:3	App: Send seqn 53
+1626040218	ID:3	App: Message seqn 53 sent correctly!
+1626048041	ID:1	App: Recv from 03:00 seqn 53 hops 1
+1626195520	ID:7	App: Send seqn 53
+1626198898	ID:7	App: Message seqn 53 sent correctly!
+1626206799	ID:1	App: Recv from 07:00 seqn 53 hops 1
+1626420917	ID:8	App: Send seqn 53
+1626424295	ID:8	App: Message seqn 53 sent correctly!
+1626438020	ID:1	App: Recv from 08:00 seqn 53 hops 2
+1629130054	ID:6	App: Send seqn 53
+1629133432	ID:6	App: Message seqn 53 sent correctly!
+1629141258	ID:1	App: Recv from 06:00 seqn 53 hops 1
+1631560878	ID:10	App: Send seqn 53
+1631564256	ID:10	App: Message seqn 53 sent correctly!
+1631578111	ID:1	App: Recv from 0a:00 seqn 53 hops 2
+1631759750	ID:9	App: Send seqn 53
+1631763128	ID:9	App: Message seqn 53 sent correctly!
+1631776930	ID:1	App: Recv from 09:00 seqn 53 hops 2
+1633998620	ID:2	App: Send seqn 53
+1634001998	ID:2	App: Message seqn 53 sent correctly!
+1634009866	ID:1	App: Recv from 02:00 seqn 53 hops 1
+1634985134	ID:5	App: Send seqn 53
+1634988512	ID:5	App: Message seqn 53 sent correctly!
+1635002315	ID:1	App: Recv from 05:00 seqn 53 hops 2
+1650717792	ID:8	App: Send seqn 54
+1650721170	ID:8	App: Message seqn 54 sent correctly!
+1650734896	ID:1	App: Recv from 08:00 seqn 54 hops 2
+1659321361	ID:5	App: Send seqn 54
+1659324739	ID:5	App: Message seqn 54 sent correctly!
+1659338518	ID:1	App: Recv from 05:00 seqn 54 hops 2
+1659804895	ID:7	App: Send seqn 54
+1659808273	ID:7	App: Message seqn 54 sent correctly!
+1659816174	ID:1	App: Recv from 07:00 seqn 54 hops 1
+1660396215	ID:3	App: Send seqn 54
+1660399593	ID:3	App: Message seqn 54 sent correctly!
+1660407420	ID:1	App: Recv from 03:00 seqn 54 hops 1
+1660676929	ID:6	App: Send seqn 54
+1660680307	ID:6	App: Message seqn 54 sent correctly!
+1660688138	ID:1	App: Recv from 06:00 seqn 54 hops 1
+1660821506	ID:4	App: Send seqn 54
+1660824884	ID:4	App: Message seqn 54 sent correctly!
+1660832715	ID:1	App: Recv from 04:00 seqn 54 hops 1
+1662107753	ID:10	App: Send seqn 54
+1662111131	ID:10	App: Message seqn 54 sent correctly!
+1662124984	ID:1	App: Recv from 0a:00 seqn 54 hops 2
+1662357995	ID:2	App: Send seqn 54
+1662361373	ID:2	App: Message seqn 54 sent correctly!
+1662369243	ID:1	App: Recv from 02:00 seqn 54 hops 1
+1662720977	ID:9	App: Send seqn 54
+1662724355	ID:9	App: Message seqn 54 sent correctly!
+1662738168	ID:1	App: Recv from 09:00 seqn 54 hops 2
+1681662318	ID:1	my_collect: sending beacon: seqn 29 metric 0
+1681672717	ID:4	my_collect: recv beacon from 01:00 seqn 29 metric 0 rssi -88
+1681672724	ID:2	my_collect: recv beacon from 01:00 seqn 29 metric 0 rssi -68
+1681672799	ID:3	my_collect: recv beacon from 01:00 seqn 29 metric 0 rssi -66
+1681672799	ID:7	my_collect: recv beacon from 01:00 seqn 29 metric 0 rssi -66
+1681672810	ID:6	my_collect: recv beacon from 01:00 seqn 29 metric 0 rssi -58
+1681783256	ID:7	my_collect: sending beacon: seqn 29 metric 1
+1681793554	ID:2	my_collect: recv beacon from 07:00 seqn 29 metric 1 rssi -85
+1681793556	ID:9	my_collect: recv beacon from 07:00 seqn 29 metric 1 rssi -92
+1681793571	ID:10	my_collect: recv beacon from 07:00 seqn 29 metric 1 rssi -64
+1681793617	ID:1	my_collect: recv beacon from 07:00 seqn 29 metric 1 rssi -66
+1681793635	ID:3	my_collect: recv beacon from 07:00 seqn 29 metric 1 rssi -67
+1681886838	ID:9	my_collect: sending beacon: seqn 29 metric 2
+1681897141	ID:8	my_collect: recv beacon from 09:00 seqn 29 metric 2 rssi -75
+1681897144	ID:7	my_collect: recv beacon from 09:00 seqn 29 metric 2 rssi -92
+1681897148	ID:3	my_collect: recv beacon from 09:00 seqn 29 metric 2 rssi -81
+1681897159	ID:10	my_collect: recv beacon from 09:00 seqn 29 metric 2 rssi -70
+1681900276	ID:8	my_collect: new parent 09:00, my metric 3
+1682167344	ID:4	my_collect: sending beacon: seqn 29 metric 1
+1682177643	ID:1	my_collect: recv beacon from 04:00 seqn 29 metric 1 rssi -88
+1682177646	ID:5	my_collect: recv beacon from 04:00 seqn 29 metric 1 rssi -90
+1682177653	ID:2	my_collect: recv beacon from 04:00 seqn 29 metric 1 rssi -80
+1682177712	ID:6	my_collect: recv beacon from 04:00 seqn 29 metric 1 rssi -49
+1682241517	ID:6	my_collect: sending beacon: seqn 29 metric 1
+1682251820	ID:1	my_collect: recv beacon from 06:00 seqn 29 metric 1 rssi -58
+1682251912	ID:2	my_collect: recv beacon from 06:00 seqn 29 metric 1 rssi -83
+1682251912	ID:4	my_collect: recv beacon from 06:00 seqn 29 metric 1 rssi -49
+1682255990	ID:2	my_collect: sending beacon: seqn 29 metric 1
+1682266289	ID:1	my_collect: recv beacon from 02:00 seqn 29 metric 1 rssi -68
+1682266290	ID:4	my_collect: recv beacon from 02:00 seqn 29 metric 1 rssi -80
+1682266357	ID:7	my_collect: recv beacon from 02:00 seqn 29 metric 1 rssi -85
+1682266371	ID:5	my_collect: recv beacon from 02:00 seqn 29 metric 1 rssi -53
+1682266374	ID:6	my_collect: recv beacon from 02:00 seqn 29 metric 1 rssi -83
+1682269506	ID:5	my_collect: new parent 02:00, my metric 2
+1682401615	ID:5	my_collect: sending beacon: seqn 29 metric 2
+1682411919	ID:2	my_collect: recv beacon from 05:00 seqn 29 metric 2 rssi -53
+1682412183	ID:4	my_collect: recv beacon from 05:00 seqn 29 metric 2 rssi -90
+1682438630	ID:8	my_collect: sending beacon: seqn 29 metric 3
+1682448933	ID:3	my_collect: recv beacon from 08:00 seqn 29 metric 3 rssi -80
+1682448943	ID:9	my_collect: recv beacon from 08:00 seqn 29 metric 3 rssi -75
+1682492984	ID:10	my_collect: sending beacon: seqn 29 metric 2
+1682503302	ID:9	my_collect: recv beacon from 0a:00 seqn 29 metric 2 rssi -70
+1682503361	ID:7	my_collect: recv beacon from 0a:00 seqn 29 metric 2 rssi -64
+1682624576	ID:3	my_collect: sending beacon: seqn 29 metric 1
+1682634875	ID:1	my_collect: recv beacon from 03:00 seqn 29 metric 1 rssi -66
+1682634878	ID:7	my_collect: recv beacon from 03:00 seqn 29 metric 1 rssi -67
+1682634898	ID:9	my_collect: recv beacon from 03:00 seqn 29 metric 1 rssi -81
+1682634968	ID:8	my_collect: recv beacon from 03:00 seqn 29 metric 1 rssi -80
+1682638033	ID:9	my_collect: new parent 03:00, my metric 2
+1682638193	ID:8	my_collect: new parent 03:00, my metric 2
+1682749918	ID:7	App: Send seqn 55
+1682753296	ID:7	App: Message seqn 55 sent correctly!
+1682761123	ID:1	App: Recv from 07:00 seqn 55 hops 1
+1682844880	ID:8	my_collect: sending beacon: seqn 29 metric 2
+1682855181	ID:3	my_collect: recv beacon from 08:00 seqn 29 metric 2 rssi -80
+1682855193	ID:9	my_collect: recv beacon from 08:00 seqn 29 metric 2 rssi -75
+1683301231	ID:9	my_collect: sending beacon: seqn 29 metric 2
+1683311543	ID:3	my_collect: recv beacon from 09:00 seqn 29 metric 2 rssi -81
+1683311615	ID:7	my_collect: recv beacon from 09:00 seqn 29 metric 2 rssi -92
+1683311616	ID:8	my_collect: recv beacon from 09:00 seqn 29 metric 2 rssi -75
+1683311616	ID:10	my_collect: recv beacon from 09:00 seqn 29 metric 2 rssi -70
+1683819644	ID:8	App: Send seqn 55
+1683823022	ID:8	App: Message seqn 55 sent correctly!
+1683836784	ID:1	App: Recv from 08:00 seqn 55 hops 2
+1685466238	ID:3	App: Send seqn 55
+1685469616	ID:3	App: Message seqn 55 sent correctly!
+1685477444	ID:1	App: Recv from 03:00 seqn 55 hops 1
+1690153781	ID:6	App: Send seqn 55
+1690157159	ID:6	App: Message seqn 55 sent correctly!
+1690164990	ID:1	App: Recv from 06:00 seqn 55 hops 1
+1691203884	ID:5	App: Send seqn 55
+1691207262	ID:5	App: Message seqn 55 sent correctly!
+1691221068	ID:1	App: Recv from 05:00 seqn 55 hops 2
+1692084605	ID:10	App: Send seqn 55
+1692087983	ID:10	App: Message seqn 55 sent correctly!
+1692101783	ID:1	App: Recv from 0a:00 seqn 55 hops 2
+1692360858	ID:4	App: Send seqn 55
+1692364236	ID:4	App: Message seqn 55 sent correctly!
+1692372146	ID:1	App: Recv from 04:00 seqn 55 hops 1
+1692928018	ID:2	App: Send seqn 55
+1692931396	ID:2	App: Message seqn 55 sent correctly!
+1692939228	ID:1	App: Recv from 02:00 seqn 55 hops 1
+1693478500	ID:9	App: Send seqn 55
+1693481878	ID:9	App: Message seqn 55 sent correctly!
+1693495820	ID:1	App: Recv from 09:00 seqn 55 hops 2
+1712046793	ID:7	App: Send seqn 56
+1712050171	ID:7	App: Message seqn 56 sent correctly!
+1712057998	ID:1	App: Recv from 07:00 seqn 56 hops 1
+1712814727	ID:9	App: Send seqn 56
+1712818105	ID:9	App: Message seqn 56 sent correctly!
+1712832031	ID:1	App: Recv from 09:00 seqn 56 hops 2
+1715974893	ID:2	App: Send seqn 56
+1715978271	ID:2	App: Message seqn 56 sent correctly!
+1715986095	ID:1	App: Recv from 02:00 seqn 56 hops 1
+1716138156	ID:6	App: Send seqn 56
+1716141534	ID:6	App: Message seqn 56 sent correctly!
+1716149360	ID:1	App: Recv from 06:00 seqn 56 hops 1
+1716513113	ID:3	App: Send seqn 56
+1716516491	ID:3	App: Message seqn 56 sent correctly!
+1716524317	ID:1	App: Recv from 03:00 seqn 56 hops 1
+1722915111	ID:5	App: Send seqn 56
+1722918489	ID:5	App: Message seqn 56 sent correctly!
+1722932208	ID:1	App: Recv from 05:00 seqn 56 hops 2
+1724720233	ID:4	App: Send seqn 56
+1724723611	ID:4	App: Message seqn 56 sent correctly!
+1724731516	ID:1	App: Recv from 04:00 seqn 56 hops 1
+1724936542	ID:8	App: Send seqn 56
+1724939920	ID:8	App: Message seqn 56 sent correctly!
+1724953649	ID:1	App: Recv from 08:00 seqn 56 hops 2
+1725068980	ID:10	App: Send seqn 56
+1725072358	ID:10	App: Message seqn 56 sent correctly!
+1725086156	ID:1	App: Recv from 0a:00 seqn 56 hops 2
+1741395679	ID:6	App: Send seqn 57
+1741399057	ID:6	App: Message seqn 57 sent correctly!
+1741406885	ID:1	App: Recv from 06:00 seqn 57 hops 1
+1741662319	ID:1	my_collect: sending beacon: seqn 30 metric 0
+1741672717	ID:4	my_collect: recv beacon from 01:00 seqn 30 metric 0 rssi -88
+1741672726	ID:2	my_collect: recv beacon from 01:00 seqn 30 metric 0 rssi -68
+1741672799	ID:3	my_collect: recv beacon from 01:00 seqn 30 metric 0 rssi -66
+1741672799	ID:7	my_collect: recv beacon from 01:00 seqn 30 metric 0 rssi -66
+1741672810	ID:6	my_collect: recv beacon from 01:00 seqn 30 metric 0 rssi -58
+1741929595	ID:3	my_collect: sending beacon: seqn 30 metric 1
+1741939897	ID:7	my_collect: recv beacon from 03:00 seqn 30 metric 1 rssi -67
+1741939974	ID:8	my_collect: recv beacon from 03:00 seqn 30 metric 1 rssi -80
+1741939983	ID:1	my_collect: recv beacon from 03:00 seqn 30 metric 1 rssi -66
+1741939985	ID:9	my_collect: recv beacon from 03:00 seqn 30 metric 1 rssi -81
+1742055107	ID:2	my_collect: sending beacon: seqn 30 metric 1
+1742065407	ID:4	my_collect: recv beacon from 02:00 seqn 30 metric 1 rssi -80
+1742065409	ID:5	my_collect: recv beacon from 02:00 seqn 30 metric 1 rssi -53
+1742065411	ID:6	my_collect: recv beacon from 02:00 seqn 30 metric 1 rssi -83
+1742065488	ID:7	my_collect: recv beacon from 02:00 seqn 30 metric 1 rssi -85
+1742065496	ID:1	my_collect: recv beacon from 02:00 seqn 30 metric 1 rssi -68
+1742213275	ID:7	my_collect: sending beacon: seqn 30 metric 1
+1742223577	ID:3	my_collect: recv beacon from 07:00 seqn 30 metric 1 rssi -67
+1742223622	ID:1	my_collect: recv beacon from 07:00 seqn 30 metric 1 rssi -66
+1742223639	ID:2	my_collect: recv beacon from 07:00 seqn 30 metric 1 rssi -85
+1742223668	ID:10	my_collect: recv beacon from 07:00 seqn 30 metric 1 rssi -64
+1742223670	ID:9	my_collect: recv beacon from 07:00 seqn 30 metric 1 rssi -92
+1742226895	ID:9	my_collect: new parent 07:00, my metric 2
+1742446774	ID:8	my_collect: sending beacon: seqn 30 metric 2
+1742457079	ID:9	my_collect: recv beacon from 08:00 seqn 30 metric 2 rssi -75
+1742457167	ID:3	my_collect: recv beacon from 08:00 seqn 30 metric 2 rssi -80
+1742503613	ID:4	my_collect: sending beacon: seqn 30 metric 1
+1742513909	ID:1	my_collect: recv beacon from 04:00 seqn 30 metric 1 rssi -88
+1742513914	ID:5	my_collect: recv beacon from 04:00 seqn 30 metric 1 rssi -90
+1742513960	ID:6	my_collect: recv beacon from 04:00 seqn 30 metric 1 rssi -49
+1742514003	ID:2	my_collect: recv beacon from 04:00 seqn 30 metric 1 rssi -80
+1742517048	ID:5	my_collect: new parent 04:00, my metric 2
+1742640226	ID:6	my_collect: sending beacon: seqn 30 metric 1
+1742650491	ID:1	my_collect: recv beacon from 06:00 seqn 30 metric 1 rssi -58
+1742650574	ID:2	my_collect: recv beacon from 06:00 seqn 30 metric 1 rssi -83
+1742650574	ID:4	my_collect: recv beacon from 06:00 seqn 30 metric 1 rssi -49
+1742821110	ID:10	my_collect: sending beacon: seqn 30 metric 2
+1742831427	ID:9	my_collect: recv beacon from 0a:00 seqn 30 metric 2 rssi -70
+1742831492	ID:7	my_collect: recv beacon from 0a:00 seqn 30 metric 2 rssi -64
+1742863732	ID:9	my_collect: sending beacon: seqn 30 metric 2
+1742874044	ID:3	my_collect: recv beacon from 09:00 seqn 30 metric 2 rssi -81
+1742874113	ID:7	my_collect: recv beacon from 09:00 seqn 30 metric 2 rssi -92
+1742874114	ID:10	my_collect: recv beacon from 09:00 seqn 30 metric 2 rssi -70
+1742874117	ID:8	my_collect: recv beacon from 09:00 seqn 30 metric 2 rssi -75
+1743120366	ID:5	my_collect: sending beacon: seqn 30 metric 2
+1743130674	ID:2	my_collect: recv beacon from 05:00 seqn 30 metric 2 rssi -53
+1743130932	ID:4	my_collect: recv beacon from 05:00 seqn 30 metric 2 rssi -90
+1744148645	ID:7	App: Send seqn 57
+1744152023	ID:7	App: Message seqn 57 sent correctly!
+1744159933	ID:1	App: Recv from 07:00 seqn 57 hops 1
+1745697250	ID:9	App: Send seqn 57
+1745700628	ID:9	App: Message seqn 57 sent correctly!
+1745714432	ID:1	App: Recv from 09:00 seqn 57 hops 2
+1749239965	ID:3	App: Send seqn 57
+1749243343	ID:3	App: Message seqn 57 sent correctly!
+1749251170	ID:1	App: Recv from 03:00 seqn 57 hops 1
+1750922634	ID:5	App: Send seqn 57
+1750926012	ID:5	App: Message seqn 57 sent correctly!
+1750939825	ID:1	App: Recv from 05:00 seqn 57 hops 2
+1751201745	ID:2	App: Send seqn 57
+1751205123	ID:2	App: Message seqn 57 sent correctly!
+1751212999	ID:1	App: Recv from 02:00 seqn 57 hops 1
+1751290256	ID:4	App: Send seqn 57
+1751293634	ID:4	App: Message seqn 57 sent correctly!
+1751301465	ID:1	App: Recv from 04:00 seqn 57 hops 1
+1753663394	ID:8	App: Send seqn 57
+1753666772	ID:8	App: Message seqn 57 sent correctly!
+1753680498	ID:1	App: Recv from 08:00 seqn 57 hops 2
+1755826503	ID:10	App: Send seqn 57
+1755829881	ID:10	App: Message seqn 57 sent correctly!
+1755843745	ID:1	App: Recv from 0a:00 seqn 57 hops 2
+1771686120	ID:2	App: Send seqn 58
+1771689498	ID:2	App: Message seqn 58 sent correctly!
+1771697368	ID:1	App: Recv from 02:00 seqn 58 hops 1
+1774008861	ID:5	App: Send seqn 58
+1774012239	ID:5	App: Message seqn 58 sent correctly!
+1774025991	ID:1	App: Recv from 05:00 seqn 58 hops 2
+1776998378	ID:10	App: Send seqn 58
+1777001756	ID:10	App: Message seqn 58 sent correctly!
+1777015670	ID:1	App: Recv from 0a:00 seqn 58 hops 2
+1777408477	ID:9	App: Send seqn 58
+1777411855	ID:9	App: Message seqn 58 sent correctly!
+1777425706	ID:1	App: Recv from 09:00 seqn 58 hops 2
+1782147769	ID:8	App: Send seqn 58
+1782151147	ID:8	App: Message seqn 58 sent correctly!
+1782164899	ID:1	App: Recv from 08:00 seqn 58 hops 2
+1783337131	ID:4	App: Send seqn 58
+1783340509	ID:4	App: Message seqn 58 sent correctly!
+1783348336	ID:1	App: Recv from 04:00 seqn 58 hops 1
+1783567554	ID:6	App: Send seqn 58
+1783570932	ID:6	App: Message seqn 58 sent correctly!
+1783578756	ID:1	App: Recv from 06:00 seqn 58 hops 1
+1783724340	ID:3	App: Send seqn 58
+1783727718	ID:3	App: Message seqn 58 sent correctly!
+1783735545	ID:1	App: Recv from 03:00 seqn 58 hops 1
+1783883020	ID:7	App: Send seqn 58
+1783886398	ID:7	App: Message seqn 58 sent correctly!
+1783894308	ID:1	App: Recv from 07:00 seqn 58 hops 1
